@@ -1,0 +1,24 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "A-E02-001-029",
+    "first_3s_hook": 9.0,
+    "cliffhanger_open": 9.0,
+    "cold_viewer_clarity": 9.0,
+    "ambiguity": [
+      {
+        "kind": "relationship",
+        "beat_id": "E02.B027",
+        "detail": "The father completely abandons his daughter, adding family betrayal to the romantic one."
+      }
+    ],
+    "ending_resolves_tension": false,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "I cannot marry you, Juliana.",
+    "cliffhanger_line": "Do not disgrace us further.",
+    "viewer_takeaway": "A cruel groom publicly rejects his bride at the altar for someone wealthier, while her own father sides with the groom.",
+    "why_it_works": "Piling on the betrayal by having both the groom and the father reject her maximizes viewer outrage and investment."
+  }
+}

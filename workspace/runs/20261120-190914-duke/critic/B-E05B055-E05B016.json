@@ -1,0 +1,24 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "B-E05B055-E05B016",
+    "first_3s_hook": 8.0,
+    "cliffhanger_open": 9.0,
+    "cold_viewer_clarity": 8.0,
+    "ambiguity": [
+      {
+        "kind": "prior_event",
+        "beat_id": "E05.B006",
+        "detail": "The exact reasons for the family's intense hatred and disowning are implied but not fully detailed."
+      }
+    ],
+    "ending_resolves_tension": false,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "A noblewoman reduced to a beggar's wife!",
+    "cliffhanger_line": "From this moment, you are dead to the Ashcroft family.",
+    "viewer_takeaway": "A merciless father officially cuts off and disowns his daughter at the church steps over her marriage.",
+    "why_it_works": "Leverages brutal emotional cruelty from a parent to hook viewers into wanting revenge for the protagonist."
+  }
+}

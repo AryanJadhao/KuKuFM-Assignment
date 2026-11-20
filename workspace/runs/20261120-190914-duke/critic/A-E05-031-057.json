@@ -1,0 +1,24 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "A-E05-031-057",
+    "first_3s_hook": 9.0,
+    "cliffhanger_open": 9.0,
+    "cold_viewer_clarity": 8.0,
+    "ambiguity": [
+      {
+        "kind": "unexplained_name",
+        "beat_id": "E05.B041",
+        "detail": "The bearded man remains nameless despite stepping up as her protector."
+      }
+    ],
+    "ending_resolves_tension": false,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "Barbara, don't!",
+    "cliffhanger_line": "Choose your next words carefully.",
+    "viewer_takeaway": "After being kicked out of her wedding, a distraught bride has her mother's legacy ruined by cruel family members until her new husband steps in.",
+    "why_it_works": "Pure melodramatic rage bait with an aggressive, highly threatening cliffhanger that demands immediate continuation."
+  }
+}

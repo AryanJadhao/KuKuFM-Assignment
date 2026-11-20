@@ -1,0 +1,24 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "A-E49-049-062",
+    "first_3s_hook": 7.0,
+    "cliffhanger_open": 5.0,
+    "cold_viewer_clarity": 6.0,
+    "ambiguity": [
+      {
+        "kind": "relationship",
+        "beat_id": "E49.B061",
+        "detail": "The intimate touch and line 'We always have' hints at a hidden romantic or manipulative history between Catherine and the priest."
+      }
+    ],
+    "ending_resolves_tension": true,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "Careful men still hang, my lady, when the crime is treason against a Duke the King himself just restored.",
+    "cliffhanger_line": "We always have.",
+    "viewer_takeaway": "Catherine seals a dangerous treasonous pact with Father Thomas through both political manipulation and intimate tension.",
+    "why_it_works": "The dangerous alliance combined with a sudden romantic/intimate gesture makes for high-drama vertical video content."
+  }
+}

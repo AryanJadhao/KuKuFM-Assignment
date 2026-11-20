@@ -1,0 +1,24 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "A-E32-088-115",
+    "first_3s_hook": 8.0,
+    "cliffhanger_open": 9.0,
+    "cold_viewer_clarity": 8.0,
+    "ambiguity": [
+      {
+        "kind": "prior_event",
+        "beat_id": "E32.B106",
+        "detail": "The backstory regarding how Catherine acquired her title is referenced."
+      }
+    ],
+    "ending_resolves_tension": false,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "...but you have never learned how to make anyone love you.",
+    "cliffhanger_line": "Extreme close-up of Juliana's wide, unblinking blue eye.",
+    "viewer_takeaway": "A prisoner completely shatters her captor's psychological armor just before facing imminent facial branding.",
+    "why_it_works": "Combines a devastating verbal takedown with a literal life-or-death cliffhanger right at the frame cut."
+  }
+}

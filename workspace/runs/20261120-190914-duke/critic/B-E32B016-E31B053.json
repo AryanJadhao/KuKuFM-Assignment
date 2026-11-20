@@ -1,0 +1,24 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "B-E32B016-E31B053",
+    "first_3s_hook": 9.0,
+    "cliffhanger_open": 7.0,
+    "cold_viewer_clarity": 7.0,
+    "ambiguity": [
+      {
+        "kind": "prior_event",
+        "beat_id": "E31.B033",
+        "detail": "References to Gerald, Clarissa, and past relationship choices lack backstory."
+      }
+    ],
+    "ending_resolves_tension": false,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "Burn it.",
+    "cliffhanger_line": "You think love makes you better than me?",
+    "viewer_takeaway": "An imprisoned woman bravely defies her wealthy, cruel tormentor by standing by her choice of love and honor over status.",
+    "why_it_works": "Starts with a punchy flash-forward defiance and delivers a deeply satisfying war of words between an unyielding prisoner and her smug oppressor."
+  }
+}

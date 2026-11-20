@@ -1,0 +1,201 @@
+{
+  "episode": 15,
+  "prompt_version": "anchors-v1",
+  "model": "gemini:gemini-3.5-flash-lite",
+  "model_output": {
+    "hook_anchors": [
+      {
+        "beat_id": "E15.B003",
+        "hook_intensity": 7.0,
+        "device": "destruction",
+        "excerpt": "The thug brutally smashes his club down into a wooden planter box",
+        "why": "Immediate, aggressive destruction of property that establishes conflict."
+      },
+      {
+        "beat_id": "E15.B006",
+        "hook_intensity": 8.0,
+        "device": "sabotage",
+        "excerpt": "roughly rips a massive handful of flowering herbs up by their roots",
+        "why": "A visceral visual jolt of malicious plant destruction."
+      },
+      {
+        "beat_id": "E15.B033",
+        "hook_intensity": 9.0,
+        "device": "shove",
+        "excerpt": "The Thug with Cap violently shoves Juliana back with both hands",
+        "why": "Physical assault on a vulnerable, defenseless character creates instant outrage."
+      },
+      {
+        "beat_id": "E15.B036",
+        "hook_intensity": 8.0,
+        "device": "injury",
+        "excerpt": "fresh crimson blood seeps profusely through her white gauze bandages",
+        "why": "Graphic display of physical suffering that evokes immediate sympathy and tension."
+      },
+      {
+        "beat_id": "E15.B041",
+        "hook_intensity": 8.0,
+        "device": "threat",
+        "excerpt": "hoists his heavy wooden club above his head to crush the remaining herbs",
+        "why": "Escalation of cruelty right in front of the victim."
+      },
+      {
+        "beat_id": "E15.B045",
+        "hook_intensity": 8.0,
+        "device": "entrance",
+        "excerpt": "Alexander storms forward with lethal intensity, dark hair flying",
+        "why": "A powerful hero entrance that shifts the power dynamic instantly."
+      }
+    ],
+    "cliffhanger_anchors": [
+      {
+        "beat_id": "E15.B016",
+        "cliffhanger_tension": 6.0,
+        "open_question": "Will they completely destroy everything she planted?",
+        "excerpt": "The bald thug flings the bouquet into the mud and grinds his heavy boot",
+        "why": "Leaves the audience wondering if the thugs will face any immediate consequence for their cruelty."
+      },
+      {
+        "beat_id": "E15.B034",
+        "cliffhanger_tension": 7.0,
+        "open_question": "How bad is Juliana's injury after the violent shove?",
+        "excerpt": "Ah!",
+        "why": "Abrupt physical violence leaves a lingering moment of shock."
+      },
+      {
+        "beat_id": "E15.B042",
+        "cliffhanger_tension": 6.0,
+        "open_question": "Will he destroy her mother's final memory?",
+        "excerpt": "Stop!",
+        "why": "A desperate plea hanging in the air just as a weapon is raised."
+      },
+      {
+        "beat_id": "E15.B050",
+        "cliffhanger_tension": 8.0,
+        "open_question": "How will Alexander handle these thugs?",
+        "excerpt": "Alexander places himself directly between Juliana and the three thugs",
+        "why": "Sets up an imminent, high-stakes confrontation."
+      },
+      {
+        "beat_id": "E15.B054",
+        "cliffhanger_tension": 9.0,
+        "open_question": "Will Alexander exact brutal vengeance on the thugs?",
+        "excerpt": "Tense, low dramatic cello swell holding into an abrupt cliffhanger cut.",
+        "why": "The ultimate cliffhanger ending the episode on an explosive, unresolved clash."
+      }
+    ]
+  },
+  "accepted": [
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E15.B016",
+      "episode": 15,
+      "strength": 6,
+      "label": "Will they completely destroy everything she planted?",
+      "excerpt": "The bald thug flings the bouquet into the mud and grinds his heavy boot",
+      "why": "Leaves the audience wondering if the thugs will face any immediate consequence for their cruelty.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E15.B034",
+      "episode": 15,
+      "strength": 7,
+      "label": "How bad is Juliana's injury after the violent shove?",
+      "excerpt": "Ah!",
+      "why": "Abrupt physical violence leaves a lingering moment of shock.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E15.B042",
+      "episode": 15,
+      "strength": 6,
+      "label": "Will he destroy her mother's final memory?",
+      "excerpt": "Stop!",
+      "why": "A desperate plea hanging in the air just as a weapon is raised.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E15.B050",
+      "episode": 15,
+      "strength": 8,
+      "label": "How will Alexander handle these thugs?",
+      "excerpt": "Alexander places himself directly between Juliana and the three thugs",
+      "why": "Sets up an imminent, high-stakes confrontation.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E15.B054",
+      "episode": 15,
+      "strength": 9,
+      "label": "Will Alexander exact brutal vengeance on the thugs?",
+      "excerpt": "Tense, low dramatic cello swell holding into an abrupt cliffhanger cut.",
+      "why": "The ultimate cliffhanger ending the episode on an explosive, unresolved clash.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E15.B003",
+      "episode": 15,
+      "strength": 7,
+      "label": "destruction",
+      "excerpt": "The thug brutally smashes his club down into a wooden planter box",
+      "why": "Immediate, aggressive destruction of property that establishes conflict.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E15.B006",
+      "episode": 15,
+      "strength": 8,
+      "label": "sabotage",
+      "excerpt": "roughly rips a massive handful of flowering herbs up by their roots",
+      "why": "A visceral visual jolt of malicious plant destruction.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E15.B033",
+      "episode": 15,
+      "strength": 9,
+      "label": "shove",
+      "excerpt": "The Thug with Cap violently shoves Juliana back with both hands",
+      "why": "Physical assault on a vulnerable, defenseless character creates instant outrage.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E15.B036",
+      "episode": 15,
+      "strength": 8,
+      "label": "injury",
+      "excerpt": "fresh crimson blood seeps profusely through her white gauze bandages",
+      "why": "Graphic display of physical suffering that evokes immediate sympathy and tension.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E15.B041",
+      "episode": 15,
+      "strength": 8,
+      "label": "threat",
+      "excerpt": "hoists his heavy wooden club above his head to crush the remaining herbs",
+      "why": "Escalation of cruelty right in front of the victim.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E15.B045",
+      "episode": 15,
+      "strength": 8,
+      "label": "entrance",
+      "excerpt": "Alexander storms forward with lethal intensity, dark hair flying",
+      "why": "A powerful hero entrance that shifts the power dynamic instantly.",
+      "repointed_from": null
+    }
+  ],
+  "dropped": []
+}

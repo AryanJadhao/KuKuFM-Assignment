@@ -1,0 +1,29 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "A-E29-052-070",
+    "first_3s_hook": 9.0,
+    "cliffhanger_open": 7.0,
+    "cold_viewer_clarity": 7.0,
+    "ambiguity": [
+      {
+        "kind": "unexplained_name",
+        "beat_id": "E29.B063",
+        "detail": "The Duchess is mentioned without prior context."
+      },
+      {
+        "kind": "unexplained_name",
+        "beat_id": "E29.B070",
+        "detail": "Alexander's identity and relation to Juliana are unknown."
+      }
+    ],
+    "ending_resolves_tension": false,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "Please!",
+    "cliffhanger_line": "They took her locket. But they will not take Alexander from me.",
+    "viewer_takeaway": "An innocent woman has been unjustly imprisoned by corrupt authorities after saving someone's life, and she vows to protect a man named Alexander.",
+    "why_it_works": "Immediate physical violence and high-stakes injustice create instant emotional investment and a strong underdog hook."
+  }
+}

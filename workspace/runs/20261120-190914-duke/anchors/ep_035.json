@@ -1,0 +1,184 @@
+{
+  "episode": 35,
+  "prompt_version": "anchors-v1",
+  "model": "gemini:gemini-3.5-flash-lite",
+  "model_output": {
+    "hook_anchors": [
+      {
+        "beat_id": "E35.B002",
+        "hook_intensity": 7.0,
+        "device": "confession",
+        "excerpt": "I will not die in that house.",
+        "why": "Establishes immediate high-stakes escape and desperation."
+      },
+      {
+        "beat_id": "E35.B019",
+        "hook_intensity": 9.0,
+        "device": "reveal",
+        "excerpt": "Alexander!",
+        "why": "The emotional, sudden reunion with a presumed-dead son provides an immediate emotional jolt."
+      },
+      {
+        "beat_id": "E35.B026",
+        "hook_intensity": 8.0,
+        "device": "confession",
+        "excerpt": "I buried you.",
+        "why": "Highlights the shocking reality of the situation and the depth of the grief."
+      },
+      {
+        "beat_id": "E35.B046",
+        "hook_intensity": 8.0,
+        "device": "threat",
+        "excerpt": "My men were slaughtered.",
+        "why": "Brings the brutal history of the ambush directly into the conversation."
+      },
+      {
+        "beat_id": "E35.B058",
+        "hook_intensity": 9.0,
+        "device": "confession",
+        "excerpt": "Because someone wanted you to believe I was dead.",
+        "why": "Unveils the core conspiracy driving the narrative."
+      },
+      {
+        "beat_id": "E35.B069",
+        "hook_intensity": 10.0,
+        "device": "threat",
+        "excerpt": "The men behind it... are the same men ruling Ashwood now.",
+        "why": "A massive, chilling betrayal reveal that exposes the true enemies."
+      }
+    ],
+    "cliffhanger_anchors": [
+      {
+        "beat_id": "E35.B031",
+        "cliffhanger_tension": 7.0,
+        "open_question": "How did Alexander survive the deadly ambush?",
+        "excerpt": "Then how did you survive?",
+        "why": "Leaves the viewer waiting to hear the harrowing details of his escape."
+      },
+      {
+        "beat_id": "E35.B056",
+        "cliffhanger_tension": 8.0,
+        "open_question": "Who covered up Alexander's survival and why?",
+        "excerpt": "Then why did they never tell us?",
+        "why": "Directly points toward a cover-up within their own ranks."
+      },
+      {
+        "beat_id": "E35.B066",
+        "cliffhanger_tension": 8.0,
+        "open_question": "Who wanted Alexander erased?",
+        "excerpt": "Someone wanted me erased.",
+        "why": "Builds intense anticipation regarding the identity of the mastermind."
+      },
+      {
+        "beat_id": "E35.B070",
+        "cliffhanger_tension": 9.0,
+        "open_question": "What will Alexander's mother do now that she knows the truth?",
+        "excerpt": "Close-up on his mother's face as the horrifying realization hits her",
+        "why": "The final lingering shot leaves the emotional fallout and dread hanging heavily in the air."
+      }
+    ]
+  },
+  "accepted": [
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E35.B031",
+      "episode": 35,
+      "strength": 7,
+      "label": "How did Alexander survive the deadly ambush?",
+      "excerpt": "Then how did you survive?",
+      "why": "Leaves the viewer waiting to hear the harrowing details of his escape.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E35.B056",
+      "episode": 35,
+      "strength": 8,
+      "label": "Who covered up Alexander's survival and why?",
+      "excerpt": "Then why did they never tell us?",
+      "why": "Directly points toward a cover-up within their own ranks.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E35.B066",
+      "episode": 35,
+      "strength": 8,
+      "label": "Who wanted Alexander erased?",
+      "excerpt": "Someone wanted me erased.",
+      "why": "Builds intense anticipation regarding the identity of the mastermind.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E35.B070",
+      "episode": 35,
+      "strength": 9,
+      "label": "What will Alexander's mother do now that she knows the truth?",
+      "excerpt": "Close-up on his mother's face as the horrifying realization hits her",
+      "why": "The final lingering shot leaves the emotional fallout and dread hanging heavily in the air.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E35.B002",
+      "episode": 35,
+      "strength": 7,
+      "label": "confession",
+      "excerpt": "I will not die in that house.",
+      "why": "Establishes immediate high-stakes escape and desperation.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E35.B019",
+      "episode": 35,
+      "strength": 9,
+      "label": "reveal",
+      "excerpt": "Alexander!",
+      "why": "The emotional, sudden reunion with a presumed-dead son provides an immediate emotional jolt.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E35.B026",
+      "episode": 35,
+      "strength": 8,
+      "label": "confession",
+      "excerpt": "I buried you.",
+      "why": "Highlights the shocking reality of the situation and the depth of the grief.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E35.B046",
+      "episode": 35,
+      "strength": 8,
+      "label": "threat",
+      "excerpt": "My men were slaughtered.",
+      "why": "Brings the brutal history of the ambush directly into the conversation.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E35.B058",
+      "episode": 35,
+      "strength": 9,
+      "label": "confession",
+      "excerpt": "Because someone wanted you to believe I was dead.",
+      "why": "Unveils the core conspiracy driving the narrative.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E35.B069",
+      "episode": 35,
+      "strength": 10,
+      "label": "threat",
+      "excerpt": "The men behind it... are the same men ruling Ashwood now.",
+      "why": "A massive, chilling betrayal reveal that exposes the true enemies.",
+      "repointed_from": null
+    }
+  ],
+  "dropped": []
+}

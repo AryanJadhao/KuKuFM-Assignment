@@ -1,0 +1,24 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "B-E07B031-E06B062",
+    "first_3s_hook": 9.0,
+    "cliffhanger_open": 8.0,
+    "cold_viewer_clarity": 6.0,
+    "ambiguity": [
+      {
+        "kind": "relationship",
+        "beat_id": "E07.B031",
+        "detail": "Gerald's exact connection to Juliana is established later, but initially unclear."
+      }
+    ],
+    "ending_resolves_tension": false,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "I have enough influence to make a beggar disappear.",
+    "cliffhanger_line": "If I stop now, I will think about everything I lost.",
+    "viewer_takeaway": "An aristocratic woman has left everything behind to live in a rustic cabin with a scarred, mysterious man, struggling to cope with her sudden loss.",
+    "why_it_works": "The flash-forward opening grabs attention with an aggressive threat before cutting to an emotional domestic transition that hooks romance and drama viewers."
+  }
+}

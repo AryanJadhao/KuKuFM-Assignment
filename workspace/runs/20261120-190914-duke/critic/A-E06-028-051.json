@@ -1,0 +1,24 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "A-E06-028-051",
+    "first_3s_hook": 7.0,
+    "cliffhanger_open": 4.0,
+    "cold_viewer_clarity": 8.0,
+    "ambiguity": [
+      {
+        "kind": "relationship",
+        "beat_id": "E06.B036",
+        "detail": "The exact background and financial standing of the bearded man remain mysterious."
+      }
+    ],
+    "ending_resolves_tension": true,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "At least no one there will be waiting to humiliate me.",
+    "cliffhanger_line": "You are not disappointed?",
+    "viewer_takeaway": "The newlywed couple escapes to a humble, leaky forest cottage, finding surprising peace away from high society.",
+    "why_it_works": "Provides a comforting emotional breather and character bonding moment after heavy dramatic conflict."
+  }
+}

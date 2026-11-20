@@ -1,0 +1,24 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "A-E41-033-052",
+    "first_3s_hook": 9.0,
+    "cliffhanger_open": 9.0,
+    "cold_viewer_clarity": 6.0,
+    "ambiguity": [
+      {
+        "kind": "relationship",
+        "beat_id": "E41.B033",
+        "detail": "Juliana's imprisonment and her exact grievances against the wedding couple are mysterious."
+      }
+    ],
+    "ending_resolves_tension": false,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "You needed an entire chapel to feel powerful over one chained woman?",
+    "cliffhanger_line": "Extreme close-up pushing in on Juliana's bruised face. Her expression shifts from grim resolve into awe, breathless realization, and blooming hope as the orchestral score swells into an abrupt cliffhanger.",
+    "viewer_takeaway": "A chained woman is taunted before her enemies' wedding, which is violently interrupted by an unknown force.",
+    "why_it_works": "Combines a captive's defiance, a wedding ceremony, a massive explosion, and a shocking arrival."
+  }
+}

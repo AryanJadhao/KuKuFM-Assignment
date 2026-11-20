@@ -1,0 +1,24 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "B-E29B063-E28B052",
+    "first_3s_hook": 9.0,
+    "cliffhanger_open": 8.0,
+    "cold_viewer_clarity": 6.0,
+    "ambiguity": [
+      {
+        "kind": "relationship",
+        "beat_id": "E28.B031",
+        "detail": "Unclear exactly what Catherine's relationship is to the Duchess and Rupert."
+      }
+    ],
+    "ending_resolves_tension": false,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "I saved her! I healed her!",
+    "cliffhanger_line": "No!",
+    "viewer_takeaway": "A noblewoman and a scheming nobleman frame a maid for poisoning the Dowager Duchess and steal her mother's locket.",
+    "why_it_works": "The cold-open scream followed by an immediate framing and theft creates high stakes and instant emotional investment."
+  }
+}

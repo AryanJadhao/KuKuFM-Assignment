@@ -1,0 +1,29 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "B-E09B078-E08B028",
+    "first_3s_hook": 7.0,
+    "cliffhanger_open": 5.0,
+    "cold_viewer_clarity": 6.0,
+    "ambiguity": [
+      {
+        "kind": "relationship",
+        "beat_id": "E08.B024",
+        "detail": "It is unclear whether Juliana and Alexander are lovers, married, or just companions."
+      },
+      {
+        "kind": "unexplained_name",
+        "beat_id": "E09.B078",
+        "detail": "The 'Duke' is referenced without context for a first-time viewer."
+      }
+    ],
+    "ending_resolves_tension": false,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "The man is said to have the same kind of scar the Duke carried after the war.",
+    "cliffhanger_line": "Not yet.",
+    "viewer_takeaway": "A scarred veteran hiding a mysterious past shares a tense, intimate moment with a caring woman while rumors of his true identity spread.",
+    "why_it_works": "The cold open immediately injects high-stakes mystery before dropping into slow-burn romantic tension."
+  }
+}

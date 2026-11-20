@@ -1,0 +1,150 @@
+{
+  "episode": 37,
+  "prompt_version": "anchors-v1",
+  "model": "gemini:gemini-3.5-flash-lite",
+  "model_output": {
+    "hook_anchors": [
+      {
+        "beat_id": "E37.B011",
+        "hook_intensity": 8.0,
+        "device": "threat",
+        "excerpt": "And no one will question what happened to the woman who tried to stop us.",
+        "why": "A direct, sinister threat about eliminating someone who opposed them."
+      },
+      {
+        "beat_id": "E37.B013",
+        "hook_intensity": 7.0,
+        "device": "threat",
+        "excerpt": "Juliana's execution comes after the wedding.",
+        "why": "A casual, brutal declaration of an upcoming public execution."
+      },
+      {
+        "beat_id": "E37.B041",
+        "hook_intensity": 8.0,
+        "device": "threat",
+        "excerpt": "Not just an execution. A warning.",
+        "why": "Re-frames the execution as a deliberate act of terror to keep others in line."
+      },
+      {
+        "beat_id": "E37.B055",
+        "hook_intensity": 9.0,
+        "device": "defiance",
+        "excerpt": "They think fear will make me beg.",
+        "why": "A powerful statement of resistance from a starving prisoner in a dungeon."
+      },
+      {
+        "beat_id": "E37.B075",
+        "hook_intensity": 8.0,
+        "device": "insult",
+        "excerpt": "Let them see what happens when a woman forgets her place.",
+        "why": "An arrogant, cruel justification for crushing anyone who challenges authority."
+      }
+    ],
+    "cliffhanger_anchors": [
+      {
+        "beat_id": "E37.B045",
+        "cliffhanger_tension": 7.0,
+        "open_question": "Who else will be targeted for trying to rise above their place?",
+        "excerpt": "To every woman who thinks she can rise above the place she was given.",
+        "why": "Leaves the audience contemplating the broad, vindictive reach of the aristocratic villains."
+      },
+      {
+        "beat_id": "E37.B062",
+        "cliffhanger_tension": 8.0,
+        "open_question": "Will Juliana's unbreakable spirit survive the dungeon?",
+        "excerpt": "They cannot take who I am!",
+        "why": "Captures a peak moment of indomitable will right before cutting away to the antagonists."
+      },
+      {
+        "beat_id": "E37.B078",
+        "cliffhanger_tension": 9.0,
+        "open_question": "Will Juliana be saved before the execution takes place?",
+        "excerpt": "A deep, ominous cello rumble builds alongside the crackle of the fireplace into an unresolved, tension-filled cliffhanger sting",
+        "why": "The episode closes on an ominous unresolved chord, emphasizing the grim fate awaiting Juliana."
+      }
+    ]
+  },
+  "accepted": [
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E37.B045",
+      "episode": 37,
+      "strength": 7,
+      "label": "Who else will be targeted for trying to rise above their place?",
+      "excerpt": "To every woman who thinks she can rise above the place she was given.",
+      "why": "Leaves the audience contemplating the broad, vindictive reach of the aristocratic villains.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E37.B062",
+      "episode": 37,
+      "strength": 8,
+      "label": "Will Juliana's unbreakable spirit survive the dungeon?",
+      "excerpt": "They cannot take who I am!",
+      "why": "Captures a peak moment of indomitable will right before cutting away to the antagonists.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E37.B078",
+      "episode": 37,
+      "strength": 9,
+      "label": "Will Juliana be saved before the execution takes place?",
+      "excerpt": "A deep, ominous cello rumble builds alongside the crackle of the fireplace into an unresolved, tension-filled cliffhanger sting",
+      "why": "The episode closes on an ominous unresolved chord, emphasizing the grim fate awaiting Juliana.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E37.B011",
+      "episode": 37,
+      "strength": 8,
+      "label": "threat",
+      "excerpt": "And no one will question what happened to the woman who tried to stop us.",
+      "why": "A direct, sinister threat about eliminating someone who opposed them.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E37.B013",
+      "episode": 37,
+      "strength": 7,
+      "label": "threat",
+      "excerpt": "Juliana's execution comes after the wedding.",
+      "why": "A casual, brutal declaration of an upcoming public execution.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E37.B041",
+      "episode": 37,
+      "strength": 8,
+      "label": "threat",
+      "excerpt": "Not just an execution. A warning.",
+      "why": "Re-frames the execution as a deliberate act of terror to keep others in line.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E37.B055",
+      "episode": 37,
+      "strength": 9,
+      "label": "defiance",
+      "excerpt": "They think fear will make me beg.",
+      "why": "A powerful statement of resistance from a starving prisoner in a dungeon.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E37.B075",
+      "episode": 37,
+      "strength": 8,
+      "label": "insult",
+      "excerpt": "Let them see what happens when a woman forgets her place.",
+      "why": "An arrogant, cruel justification for crushing anyone who challenges authority.",
+      "repointed_from": null
+    }
+  ],
+  "dropped": []
+}

@@ -1,0 +1,46 @@
+2026-11-20 19:12:53,086 WARNING anchorcut.llm: gemini-3.5-flash HTTP 503 (attempt 1/4) - waiting 4s
+2026-11-20 19:15:20,714 WARNING anchorcut.llm: gemini-3.5-flash HTTP 503 (attempt 1/4) - waiting 4s
+2026-11-20 19:19:37,734 WARNING anchorcut.llm: gemini-3.5-flash network error (attempt 1): The read operation timed out
+2026-11-20 19:25:00,297 WARNING anchorcut.llm: [anchors_ep015] gemini-3.5-flash: quota exhausted (retry in 18.1 h) -> trying next model
+2026-11-20 19:25:40,339 WARNING anchorcut.llm: gemini-3.5-flash-lite HTTP 503 (attempt 1/4) - waiting 4s
+2026-11-20 19:26:57,537 WARNING anchorcut.llm: gemini-3.5-flash-lite HTTP 503 (attempt 1/4) - waiting 4s
+2026-11-20 19:28:04,276 WARNING anchorcut.llm: gemini-3.5-flash-lite HTTP 503 (attempt 1/4) - waiting 4s
+2026-11-20 19:29:37,870 WARNING anchorcut.llm: gemini-3.5-flash-lite HTTP 503 (attempt 1/4) - waiting 4s
+2026-11-20 19:29:44,963 WARNING anchorcut.llm: gemini-3.5-flash-lite HTTP 503 (attempt 1/4) - waiting 4s
+2026-11-20 19:29:57,077 WARNING anchorcut.llm: gemini-3.5-flash-lite HTTP 503 (attempt 1/4) - waiting 4s
+2026-11-20 19:30:03,329 WARNING anchorcut.llm: gemini-3.5-flash-lite HTTP 503 (attempt 2/4) - waiting 8s
+2026-11-20 19:30:24,580 WARNING anchorcut.llm: gemini-3.5-flash-lite HTTP 503 (attempt 1/4) - waiting 4s
+2026-11-20 19:30:39,587 WARNING anchorcut.llm: gemini-3.5-flash-lite HTTP 503 (attempt 2/4) - waiting 8s
+2026-11-20 19:30:45,491 WARNING anchorcut.llm: gemini-3.5-flash-lite HTTP 503 (attempt 3/4) - waiting 16s
+2026-11-20 19:31:04,192 WARNING anchorcut.llm: gemini-3.5-flash-lite HTTP 503 (attempt 4/4) - waiting 32s
+2026-11-20 19:31:15,154 WARNING anchorcut.llm: gemini-3.5-flash-lite HTTP 503 (attempt 2/4) - waiting 8s
+2026-11-20 19:31:28,265 WARNING anchorcut.llm: gemini-3.5-flash-lite HTTP 503 (attempt 3/4) - waiting 16s
+2026-11-20 19:31:36,193 WARNING anchorcut.llm: [anchors_ep047] gemini-3.5-flash-lite: still failing after 4 attempts -> trying next model
+2026-11-20 19:32:07,150 WARNING anchorcut.llm: gemini-3.5-flash-lite HTTP 503 (attempt 4/4) - waiting 32s
+2026-11-20 19:32:39,152 WARNING anchorcut.llm: [anchors_ep046] gemini-3.5-flash-lite: still failing after 4 attempts -> trying next model
+2026-11-20 19:33:22,960 WARNING anchorcut.llm: [anchors_ep046] gemini-3.5-flash: quota exhausted (retry in 17.9 h) -> trying next model
+2026-11-20 19:33:30,432 WARNING anchorcut.llm: [anchors_ep047] gemini-3.5-flash: quota exhausted (retry in 17.9 h) -> trying next model
+2026-11-20 19:33:35,035 WARNING anchorcut.llm: [anchors_ep047] gemini-3.5-flash: quota exhausted (retry in 17.9 h) -> trying next model
+2026-11-20 19:33:53,956 WARNING anchorcut.llm: gemini-3.5-flash-lite HTTP 503 (attempt 1/4) - waiting 4s
+2026-11-20 19:34:42,518 WARNING anchorcut.llm: gemini-3.5-flash-lite HTTP 503 (attempt 1/4) - waiting 4s
+2026-11-20 19:34:54,396 WARNING anchorcut.llm: gemini-3.5-flash-lite HTTP 503 (attempt 1/4) - waiting 4s
+2026-11-20 19:35:01,245 WARNING anchorcut.llm: gemini-3.5-flash-lite HTTP 503 (attempt 1/4) - waiting 4s
+2026-11-20 19:35:14,184 WARNING anchorcut.llm: gemini-3.5-flash-lite HTTP 503 (attempt 1/4) - waiting 4s
+2026-11-20 19:35:44,467 WARNING anchorcut.llm: gemini-3.5-flash-lite HTTP 503 (attempt 1/4) - waiting 4s
+2026-11-20 19:35:48,482 WARNING anchorcut.llm: gemini-3.5-flash-lite HTTP 503 (attempt 1/4) - waiting 4s
+2026-11-20 19:36:01,696 WARNING anchorcut.llm: gemini-3.5-flash-lite HTTP 503 (attempt 1/4) - waiting 4s
+2026-11-20 19:36:05,226 WARNING anchorcut.llm: gemini-3.5-flash-lite HTTP 429 (attempt 1/4) - waiting 53s
+2026-11-20 19:36:06,664 WARNING anchorcut.llm: gemini-3.5-flash-lite HTTP 503 (attempt 1/4) - waiting 4s
+2026-11-20 19:36:52,126 WARNING anchorcut.llm: gemini-3.5-flash-lite HTTP 503 (attempt 1/4) - waiting 4s
+2026-11-20 19:37:00,291 WARNING anchorcut.llm: gemini-3.5-flash-lite HTTP 503 (attempt 1/4) - waiting 4s
+2026-11-20 19:37:02,984 WARNING anchorcut.llm: gemini-3.5-flash-lite HTTP 503 (attempt 1/4) - waiting 4s
+2026-11-20 19:37:03,123 WARNING anchorcut.llm: gemini-3.5-flash-lite HTTP 503 (attempt 1/4) - waiting 4s
+2026-11-20 19:37:07,964 WARNING anchorcut.llm: gemini-3.5-flash-lite HTTP 503 (attempt 1/4) - waiting 4s
+2026-11-20 19:37:38,524 WARNING anchorcut.llm: gemini-3.5-flash-lite HTTP 503 (attempt 1/4) - waiting 4s
+2026-11-20 19:37:46,568 WARNING anchorcut.llm: gemini-3.5-flash-lite HTTP 503 (attempt 1/4) - waiting 4s
+2026-11-20 19:37:50,485 WARNING anchorcut.llm: gemini-3.5-flash-lite HTTP 503 (attempt 1/4) - waiting 4s
+2026-11-20 19:37:56,484 WARNING anchorcut.llm: gemini-3.5-flash-lite HTTP 503 (attempt 1/4) - waiting 4s
+2026-11-20 19:38:04,124 WARNING anchorcut.llm: gemini-3.5-flash-lite HTTP 503 (attempt 1/4) - waiting 4s
+2026-11-20 19:38:04,610 WARNING anchorcut.llm: gemini-3.5-flash-lite HTTP 503 (attempt 1/4) - waiting 4s
+2026-11-20 19:38:08,445 WARNING anchorcut.llm: gemini-3.5-flash-lite HTTP 503 (attempt 2/4) - waiting 8s
+2026-11-20 19:38:10,983 WARNING anchorcut.llm: gemini-3.5-flash-lite HTTP 503 (attempt 2/4) - waiting 8s

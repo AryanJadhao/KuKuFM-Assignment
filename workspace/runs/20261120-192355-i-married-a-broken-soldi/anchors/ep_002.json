@@ -1,0 +1,184 @@
+{
+  "episode": 2,
+  "prompt_version": "anchors-v1",
+  "model": "gemini:gemini-3.5-flash-lite",
+  "model_output": {
+    "hook_anchors": [
+      {
+        "beat_id": "E02.B001",
+        "hook_intensity": 9.0,
+        "device": "humiliation",
+        "excerpt": "I cannot marry you, Juliana.",
+        "why": "The instant public rejection at the altar creates an immediate emotional jolt."
+      },
+      {
+        "beat_id": "E02.B005",
+        "hook_intensity": 8.0,
+        "device": "insult",
+        "excerpt": "You are far too plain...",
+        "why": "Cruel public insults delivered by the groom instantly hook the viewer's indignation."
+      },
+      {
+        "beat_id": "E02.B027",
+        "hook_intensity": 8.0,
+        "device": "betrayal",
+        "excerpt": "Gerald has made his choice. Accept it, Juliana.",
+        "why": "The father's utter abandonment of his own humiliated daughter shocks the audience."
+      },
+      {
+        "beat_id": "E02.B037",
+        "hook_intensity": 7.0,
+        "device": "insult",
+        "excerpt": "You look like a kitchen maid who wandered into the wrong wedding.",
+        "why": "Spiteful mockery from the sister adds layers to the public humiliation."
+      },
+      {
+        "beat_id": "E02.B063",
+        "hook_intensity": 9.0,
+        "device": "accusation",
+        "excerpt": "You have shown them something far more valuable.",
+        "why": "Juliana begins to turn the tables, shifting from victim to accuser with fierce conviction."
+      },
+      {
+        "beat_id": "E02.B072",
+        "hook_intensity": 10.0,
+        "device": "triumph",
+        "excerpt": "I will not leave it believing I was the one who should be ashamed.",
+        "why": "A powerful, defiant closing declaration that transforms public shame into unyielding strength."
+      }
+    ],
+    "cliffhanger_anchors": [
+      {
+        "beat_id": "E02.B016",
+        "cliffhanger_tension": 6.0,
+        "open_question": "Will Juliana accept being discarded for another woman?",
+        "excerpt": "Promises change when a better choice appears.",
+        "why": "Leaves the viewer wondering how Juliana will respond to such cold callousness."
+      },
+      {
+        "beat_id": "E02.B029",
+        "cliffhanger_tension": 7.0,
+        "open_question": "Will her own family completely cast her out?",
+        "excerpt": "Do not disgrace us further.",
+        "why": "The father's severe command leaves her entirely unsupported in front of the entire elite."
+      },
+      {
+        "beat_id": "E02.B051",
+        "cliffhanger_tension": 8.0,
+        "open_question": "Will Juliana leave quietly or fight back?",
+        "excerpt": "At least leave this chapel with some dignity.",
+        "why": "Demanding she slink away quietly tees up a dramatic confrontation."
+      },
+      {
+        "beat_id": "E02.B066",
+        "cliffhanger_tension": 9.0,
+        "open_question": "How will Gerald recover from this devastating public indictment?",
+        "excerpt": "You have shown them exactly what your word is worth.",
+        "why": "Stuns the groom and the entire room, leaving everyone breathless for his reaction."
+      }
+    ]
+  },
+  "accepted": [
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E02.B016",
+      "episode": 2,
+      "strength": 6,
+      "label": "Will Juliana accept being discarded for another woman?",
+      "excerpt": "Promises change when a better choice appears.",
+      "why": "Leaves the viewer wondering how Juliana will respond to such cold callousness.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E02.B029",
+      "episode": 2,
+      "strength": 7,
+      "label": "Will her own family completely cast her out?",
+      "excerpt": "Do not disgrace us further.",
+      "why": "The father's severe command leaves her entirely unsupported in front of the entire elite.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E02.B051",
+      "episode": 2,
+      "strength": 8,
+      "label": "Will Juliana leave quietly or fight back?",
+      "excerpt": "At least leave this chapel with some dignity.",
+      "why": "Demanding she slink away quietly tees up a dramatic confrontation.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E02.B066",
+      "episode": 2,
+      "strength": 9,
+      "label": "How will Gerald recover from this devastating public indictment?",
+      "excerpt": "You have shown them exactly what your word is worth.",
+      "why": "Stuns the groom and the entire room, leaving everyone breathless for his reaction.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E02.B001",
+      "episode": 2,
+      "strength": 9,
+      "label": "humiliation",
+      "excerpt": "I cannot marry you, Juliana.",
+      "why": "The instant public rejection at the altar creates an immediate emotional jolt.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E02.B005",
+      "episode": 2,
+      "strength": 8,
+      "label": "insult",
+      "excerpt": "You are far too plain...",
+      "why": "Cruel public insults delivered by the groom instantly hook the viewer's indignation.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E02.B027",
+      "episode": 2,
+      "strength": 8,
+      "label": "betrayal",
+      "excerpt": "Gerald has made his choice. Accept it, Juliana.",
+      "why": "The father's utter abandonment of his own humiliated daughter shocks the audience.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E02.B037",
+      "episode": 2,
+      "strength": 7,
+      "label": "insult",
+      "excerpt": "You look like a kitchen maid who wandered into the wrong wedding.",
+      "why": "Spiteful mockery from the sister adds layers to the public humiliation.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E02.B063",
+      "episode": 2,
+      "strength": 9,
+      "label": "accusation",
+      "excerpt": "You have shown them something far more valuable.",
+      "why": "Juliana begins to turn the tables, shifting from victim to accuser with fierce conviction.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E02.B072",
+      "episode": 2,
+      "strength": 10,
+      "label": "triumph",
+      "excerpt": "I will not leave it believing I was the one who should be ashamed.",
+      "why": "A powerful, defiant closing declaration that transforms public shame into unyielding strength.",
+      "repointed_from": null
+    }
+  ],
+  "dropped": []
+}

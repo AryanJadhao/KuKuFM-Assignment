@@ -1,0 +1,24 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "A-E15-006-034",
+    "first_3s_hook": 7.0,
+    "cliffhanger_open": 9.0,
+    "cold_viewer_clarity": 6.0,
+    "ambiguity": [
+      {
+        "kind": "relationship",
+        "beat_id": "E15.B026",
+        "detail": "Thugs mock Juliana as a 'noble lady playing in the dirt', leaving her true background mysterious."
+      }
+    ],
+    "ending_resolves_tension": false,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "The bald thug roughly rips a massive handful of flowering herbs up by their roots, scattering soil across the path.",
+    "cliffhanger_line": "Ah!",
+    "viewer_takeaway": "Brutal thugs vandalize a defenseless woman's medicinal garden and violently shove her to the ground when she protests.",
+    "why_it_works": "Generates righteous anger and outrage in the viewer by showing cruel antagonists destroying something precious."
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "episode": 12,
+  "prompt_version": "anchors-v1",
+  "model": "gemini:gemini-3.5-flash",
+  "model_output": {
+    "hook_anchors": [
+      {
+        "beat_id": "E12.B001",
+        "hook_intensity": 8.0,
+        "device": "arrest",
+        "excerpt": "Put out your hands, veteran. You are under arrest for theft.",
+        "why": "Immediate high-stakes drama opening with a stern arrest command."
+      },
+      {
+        "beat_id": "E12.B021",
+        "hook_intensity": 8.0,
+        "device": "insult",
+        "excerpt": "still defending your broken scrap of a man?",
+        "why": "A vicious personal insult that instantly hooks the viewer into the rivalry."
+      },
+      {
+        "beat_id": "E12.B031",
+        "hook_intensity": 8.0,
+        "device": "humiliation",
+        "excerpt": "I want to see you crawl, sister.",
+        "why": "Cruel, direct statement of intent that creates instant tension."
+      },
+      {
+        "beat_id": "E12.B044",
+        "hook_intensity": 9.0,
+        "device": "threat",
+        "excerpt": "Fail, or refuse, and your husband hangs from the gallows.",
+        "why": "High-stakes life-or-death threat delivered directly into the character's ear."
+      }
+    ],
+    "cliffhanger_anchors": [
+      {
+        "beat_id": "E12.B038",
+        "cliffhanger_tension": 8.0,
+        "open_question": "Will Juliana agree to search the frozen briars with bare hands?",
+        "excerpt": "You will retrieve it with your bare hands before the magistrate arrives.",
+        "why": "Presents a horrific demand with a tight time constraint."
+      },
+      {
+        "beat_id": "E12.B044",
+        "cliffhanger_tension": 9.0,
+        "open_question": "Can Juliana save her husband from hanging?",
+        "excerpt": "Fail, or refuse, and your husband hangs from the gallows.",
+        "why": "Delivers an extreme ultimatum that leaves Alexander's life hanging in the balance."
+      },
+      {
+        "beat_id": "E12.B053",
+        "cliffhanger_tension": 9.0,
+        "open_question": "Will Juliana survive retrieving the ring from the razor-sharp thorns?",
+        "excerpt": "Tell me where the garden is.",
+        "why": "Juliana accepts the sadistic challenge, leaving the viewer eager to see the dangerous ordeal."
+      }
+    ]
+  },
+  "accepted": [
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E12.B038",
+      "episode": 12,
+      "strength": 8,
+      "label": "Will Juliana agree to search the frozen briars with bare hands?",
+      "excerpt": "You will retrieve it with your bare hands before the magistrate arrives.",
+      "why": "Presents a horrific demand with a tight time constraint.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E12.B044",
+      "episode": 12,
+      "strength": 9,
+      "label": "Can Juliana save her husband from hanging?",
+      "excerpt": "Fail, or refuse, and your husband hangs from the gallows.",
+      "why": "Delivers an extreme ultimatum that leaves Alexander's life hanging in the balance.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E12.B053",
+      "episode": 12,
+      "strength": 9,
+      "label": "Will Juliana survive retrieving the ring from the razor-sharp thorns?",
+      "excerpt": "Tell me where the garden is.",
+      "why": "Juliana accepts the sadistic challenge, leaving the viewer eager to see the dangerous ordeal.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E12.B001",
+      "episode": 12,
+      "strength": 8,
+      "label": "arrest",
+      "excerpt": "Put out your hands, veteran. You are under arrest for theft.",
+      "why": "Immediate high-stakes drama opening with a stern arrest command.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E12.B021",
+      "episode": 12,
+      "strength": 8,
+      "label": "insult",
+      "excerpt": "still defending your broken scrap of a man?",
+      "why": "A vicious personal insult that instantly hooks the viewer into the rivalry.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E12.B031",
+      "episode": 12,
+      "strength": 8,
+      "label": "humiliation",
+      "excerpt": "I want to see you crawl, sister.",
+      "why": "Cruel, direct statement of intent that creates instant tension.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E12.B044",
+      "episode": 12,
+      "strength": 9,
+      "label": "threat",
+      "excerpt": "Fail, or refuse, and your husband hangs from the gallows.",
+      "why": "High-stakes life-or-death threat delivered directly into the character's ear.",
+      "repointed_from": null
+    }
+  ],
+  "dropped": []
+}

@@ -1,0 +1,167 @@
+{
+  "episode": 10,
+  "prompt_version": "anchors-v1",
+  "model": "gemini:gemini-3.5-flash",
+  "model_output": {
+    "hook_anchors": [
+      {
+        "beat_id": "E10.B004",
+        "hook_intensity": 8.0,
+        "device": "injury reveal",
+        "excerpt": "Alexander stands framed in the dark threshold, panting heavily, his hand pressed against his blood-soaked chest.",
+        "why": "Alexander suddenly appears at the cottage door bleeding profusely and panting, creating immediate visual shock."
+      },
+      {
+        "beat_id": "E10.B026",
+        "hook_intensity": 8.0,
+        "device": "reveal",
+        "excerpt": "revealing his muscular torso crisscrossed with jagged battle scars and fresh bleeding lacerations.",
+        "why": "Removing his shirt reveals alarming battle scars alongside fresh bloody wounds."
+      },
+      {
+        "beat_id": "E10.B047",
+        "hook_intensity": 6.0,
+        "device": "confrontation",
+        "excerpt": "Why do you look at me like that?",
+        "why": "A direct, emotionally charged question that shifts the scene into intense romantic vulnerability."
+      },
+      {
+        "beat_id": "E10.B058",
+        "hook_intensity": 9.0,
+        "device": "confession",
+        "excerpt": "Your touch is the only medicine that has ever eased my pain.",
+        "why": "A powerful, romantic vulnerability confession delivered while holding her hands over his heart."
+      }
+    ],
+    "cliffhanger_anchors": [
+      {
+        "beat_id": "E10.B010",
+        "cliffhanger_tension": 7.0,
+        "open_question": "How badly hurt is Alexander?",
+        "excerpt": "There is blood running down your arm.",
+        "why": "Juliana points out the blood flow before Alexander admits how badly he is wounded."
+      },
+      {
+        "beat_id": "E10.B023",
+        "cliffhanger_tension": 7.0,
+        "open_question": "What will be revealed when Alexander takes off his shirt?",
+        "excerpt": "Then removing your shirt should not trouble you.",
+        "why": "Juliana challenges his stubborn pride, setting up a dramatic physical reveal."
+      },
+      {
+        "beat_id": "E10.B049",
+        "cliffhanger_tension": 7.0,
+        "open_question": "Will their unspoken feelings finally be confessed?",
+        "excerpt": "Because you are looking at me.",
+        "why": "Alexander responds with intense focus, escalating the romantic tension between them."
+      },
+      {
+        "beat_id": "E10.B055",
+        "cliffhanger_tension": 8.0,
+        "open_question": "Will Juliana pull back or give in to the intimacy?",
+        "excerpt": "Perhaps it is your hand.",
+        "why": "Alexander turns her command around, teasingly pointing out her trembling hand right before grabbing it."
+      },
+      {
+        "beat_id": "E10.B058",
+        "cliffhanger_tension": 9.0,
+        "open_question": "How will Juliana respond to Alexander's confession?",
+        "excerpt": "Your touch is the only medicine that has ever eased my pain.",
+        "why": "The emotional peak of the episode leaves Juliana speechless with firelight reflecting in her eyes."
+      }
+    ]
+  },
+  "accepted": [
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E10.B010",
+      "episode": 10,
+      "strength": 7,
+      "label": "How badly hurt is Alexander?",
+      "excerpt": "There is blood running down your arm.",
+      "why": "Juliana points out the blood flow before Alexander admits how badly he is wounded.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E10.B023",
+      "episode": 10,
+      "strength": 7,
+      "label": "What will be revealed when Alexander takes off his shirt?",
+      "excerpt": "Then removing your shirt should not trouble you.",
+      "why": "Juliana challenges his stubborn pride, setting up a dramatic physical reveal.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E10.B049",
+      "episode": 10,
+      "strength": 7,
+      "label": "Will their unspoken feelings finally be confessed?",
+      "excerpt": "Because you are looking at me.",
+      "why": "Alexander responds with intense focus, escalating the romantic tension between them.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E10.B055",
+      "episode": 10,
+      "strength": 8,
+      "label": "Will Juliana pull back or give in to the intimacy?",
+      "excerpt": "Perhaps it is your hand.",
+      "why": "Alexander turns her command around, teasingly pointing out her trembling hand right before grabbing it.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E10.B058",
+      "episode": 10,
+      "strength": 9,
+      "label": "How will Juliana respond to Alexander's confession?",
+      "excerpt": "Your touch is the only medicine that has ever eased my pain.",
+      "why": "The emotional peak of the episode leaves Juliana speechless with firelight reflecting in her eyes.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E10.B004",
+      "episode": 10,
+      "strength": 8,
+      "label": "injury reveal",
+      "excerpt": "Alexander stands framed in the dark threshold, panting heavily, his hand pressed against his blood-soaked chest.",
+      "why": "Alexander suddenly appears at the cottage door bleeding profusely and panting, creating immediate visual shock.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E10.B026",
+      "episode": 10,
+      "strength": 8,
+      "label": "reveal",
+      "excerpt": "revealing his muscular torso crisscrossed with jagged battle scars and fresh bleeding lacerations.",
+      "why": "Removing his shirt reveals alarming battle scars alongside fresh bloody wounds.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E10.B047",
+      "episode": 10,
+      "strength": 6,
+      "label": "confrontation",
+      "excerpt": "Why do you look at me like that?",
+      "why": "A direct, emotionally charged question that shifts the scene into intense romantic vulnerability.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E10.B058",
+      "episode": 10,
+      "strength": 9,
+      "label": "confession",
+      "excerpt": "Your touch is the only medicine that has ever eased my pain.",
+      "why": "A powerful, romantic vulnerability confession delivered while holding her hands over his heart.",
+      "repointed_from": null
+    }
+  ],
+  "dropped": []
+}

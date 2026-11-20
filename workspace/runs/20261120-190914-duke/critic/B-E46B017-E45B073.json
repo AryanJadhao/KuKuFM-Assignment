@@ -1,0 +1,24 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "B-E46B017-E45B073",
+    "first_3s_hook": 9.0,
+    "cliffhanger_open": 8.0,
+    "cold_viewer_clarity": 7.0,
+    "ambiguity": [
+      {
+        "kind": "prior_event",
+        "beat_id": "E45.B063",
+        "detail": "The legal validity of the marriage and the High Priest's sudden intervention require context."
+      }
+    ],
+    "ending_resolves_tension": false,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "Three years later, the beggar is revealed to be a Duke. The marriage does not rise with him.",
+    "cliffhanger_line": "You are not Alexander Ashburton's lawful wife.",
+    "viewer_takeaway": "Religious authorities attempt to invalidate the hero's marriage, giving the villain renewed hope.",
+    "why_it_works": "A classic power struggle with a sharp villainous smirk at the end creates an addictive push-and-pull dynamic."
+  }
+}

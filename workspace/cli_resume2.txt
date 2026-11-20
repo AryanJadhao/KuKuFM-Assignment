@@ -1,0 +1,41 @@
+run_id: 20261120-190914-duke
+[anchors ]  48/50  tagging 2 episodes, 4 at a time
+WARNING anchorcut.llm: [anchors_ep047] gemini-3.5-flash: quota exhausted (retry in 17.9 h) -> trying next model
+[anchors ]  49/50  49/50 episodes tagged
+[anchors ]  50/50  50/50 episodes tagged
+[anchors ]  50/50  anchor tagging finished
+[windows ]   1/1   112 candidate windows built
+[critic  ]   0/18  cold-viewer review: 18 batches, 4 at a time
+[critic  ]   1/18  1/18 critic batches done
+WARNING anchorcut.llm: gemini-3.5-flash-lite HTTP 503 (attempt 1/4) - waiting 4s
+WARNING anchorcut.llm: gemini-3.5-flash-lite HTTP 503 (attempt 1/4) - waiting 4s
+[critic  ]   2/18  2/18 critic batches done
+[critic  ]   3/18  3/18 critic batches done
+[critic  ]   4/18  4/18 critic batches done
+[critic  ]   5/18  5/18 critic batches done
+WARNING anchorcut.llm: gemini-3.5-flash-lite HTTP 503 (attempt 1/4) - waiting 4s
+[critic  ]   6/18  6/18 critic batches done
+WARNING anchorcut.llm: gemini-3.5-flash-lite HTTP 429 (attempt 1/4) - waiting 53s
+WARNING anchorcut.llm: gemini-3.5-flash-lite HTTP 503 (attempt 1/4) - waiting 4s
+[critic  ]   7/18  7/18 critic batches done
+[critic  ]   8/18  8/18 critic batches done
+[critic  ]   9/18  9/18 critic batches done
+[critic  ]  10/18  10/18 critic batches done
+WARNING anchorcut.llm: gemini-3.5-flash-lite HTTP 503 (attempt 1/4) - waiting 4s
+[critic  ]  11/18  11/18 critic batches done
+WARNING anchorcut.llm: gemini-3.5-flash-lite HTTP 503 (attempt 1/4) - waiting 4s
+[critic  ]  12/18  12/18 critic batches done
+[critic  ]  13/18  13/18 critic batches done
+[critic  ]  14/18  14/18 critic batches done
+[critic  ]  15/18  15/18 critic batches done
+WARNING anchorcut.llm: gemini-3.5-flash-lite HTTP 503 (attempt 1/4) - waiting 4s
+WARNING anchorcut.llm: gemini-3.5-flash-lite HTTP 503 (attempt 1/4) - waiting 4s
+WARNING anchorcut.llm: gemini-3.5-flash-lite HTTP 503 (attempt 1/4) - waiting 4s
+WARNING anchorcut.llm: gemini-3.5-flash-lite HTTP 503 (attempt 2/4) - waiting 8s
+[critic  ]  16/18  16/18 critic batches done
+[critic  ]  17/18  17/18 critic batches done
+[critic  ]  18/18  18/18 critic batches done
+[critic  ]  18/18  critic finished
+[done    ]   1/1   23 promos scheduled
+state=complete  error=None
+results: C:\Users\sumit\OneDrive\Desktop\Aryan assn\workspace\runs\20261120-190914-duke\results

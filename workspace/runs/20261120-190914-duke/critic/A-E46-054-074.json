@@ -1,0 +1,24 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "A-E46-054-074",
+    "first_3s_hook": 9.0,
+    "cliffhanger_open": 8.0,
+    "cold_viewer_clarity": 7.0,
+    "ambiguity": [
+      {
+        "kind": "prior_event",
+        "beat_id": "E46.B054",
+        "detail": "What took three years to steal is not fully explained."
+      }
+    ],
+    "ending_resolves_tension": false,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "And I have the power to undo in one hearing what took you three years to steal!",
+    "cliffhanger_line": "Ten days is plenty of time.",
+    "viewer_takeaway": "A duke defiantly enters a ten-day countdown against a corrupt priest and a scheming bride to save his marriage.",
+    "why_it_works": "Establishes a ticking-clock conflict with strong defiance from the male lead and a chilling villainous final line."
+  }
+}

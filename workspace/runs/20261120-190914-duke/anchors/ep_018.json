@@ -1,0 +1,150 @@
+{
+  "episode": 18,
+  "prompt_version": "anchors-v1",
+  "model": "gemini:gemini-3.5-flash-lite",
+  "model_output": {
+    "hook_anchors": [
+      {
+        "beat_id": "E18.B005",
+        "hook_intensity": 7.0,
+        "device": "threat",
+        "excerpt": "Alexander!",
+        "why": "Juliana's sudden terrified scream establishes immediate mortal danger from the fire."
+      },
+      {
+        "beat_id": "E18.B011",
+        "hook_intensity": 8.0,
+        "device": "collapse",
+        "excerpt": "A violent crash as the bedroom door is kicked open.",
+        "why": "A sudden explosive jolt breaks the mounting tension as someone forces entry into the burning room."
+      },
+      {
+        "beat_id": "E18.B039",
+        "hook_intensity": 8.0,
+        "device": "collapse",
+        "excerpt": "Wide shot of the room as a massive burning crossbeam collapses into the floorboards",
+        "why": "A high-impact visual of structural failure immediately escalates the physical peril."
+      },
+      {
+        "beat_id": "E18.B059",
+        "hook_intensity": 9.0,
+        "device": "collapse",
+        "excerpt": "Alexander leaps forward, using his shoulder and back to shatter through the burning window",
+        "why": "A thrilling stunt action beat as they crash through glass to escape the inferno."
+      },
+      {
+        "beat_id": "E18.B077",
+        "hook_intensity": 8.0,
+        "device": "threat",
+        "excerpt": "They took our home. I will not let them take anything else now.",
+        "why": "A cold, lethal declaration of intent and promise of vengeance."
+      }
+    ],
+    "cliffhanger_anchors": [
+      {
+        "beat_id": "E18.B034",
+        "cliffhanger_tension": 6.0,
+        "open_question": "Will Juliana survive running back into the burning room for the ledger?",
+        "excerpt": "No! No!",
+        "why": "Juliana defies Alexander and rushes back into deadly flames, creating immediate suspense."
+      },
+      {
+        "beat_id": "E18.B070",
+        "cliffhanger_tension": 7.0,
+        "open_question": "Who is responsible for deliberately burning down their cottage?",
+        "excerpt": "Why would anyone do this?",
+        "why": "The realization that the fire was an intentional attack sets up the central mystery and conflict."
+      },
+      {
+        "beat_id": "E18.B079",
+        "cliffhanger_tension": 9.0,
+        "open_question": "What is Alexander planning to do to the people responsible?",
+        "excerpt": "What are you going to do?",
+        "why": "Leaves the audience hanging right before Alexander acts on his vow of vengeance."
+      }
+    ]
+  },
+  "accepted": [
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E18.B034",
+      "episode": 18,
+      "strength": 6,
+      "label": "Will Juliana survive running back into the burning room for the ledger?",
+      "excerpt": "No! No!",
+      "why": "Juliana defies Alexander and rushes back into deadly flames, creating immediate suspense.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E18.B070",
+      "episode": 18,
+      "strength": 7,
+      "label": "Who is responsible for deliberately burning down their cottage?",
+      "excerpt": "Why would anyone do this?",
+      "why": "The realization that the fire was an intentional attack sets up the central mystery and conflict.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E18.B079",
+      "episode": 18,
+      "strength": 9,
+      "label": "What is Alexander planning to do to the people responsible?",
+      "excerpt": "What are you going to do?",
+      "why": "Leaves the audience hanging right before Alexander acts on his vow of vengeance.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E18.B005",
+      "episode": 18,
+      "strength": 7,
+      "label": "threat",
+      "excerpt": "Alexander!",
+      "why": "Juliana's sudden terrified scream establishes immediate mortal danger from the fire.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E18.B011",
+      "episode": 18,
+      "strength": 8,
+      "label": "collapse",
+      "excerpt": "A violent crash as the bedroom door is kicked open.",
+      "why": "A sudden explosive jolt breaks the mounting tension as someone forces entry into the burning room.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E18.B039",
+      "episode": 18,
+      "strength": 8,
+      "label": "collapse",
+      "excerpt": "Wide shot of the room as a massive burning crossbeam collapses into the floorboards",
+      "why": "A high-impact visual of structural failure immediately escalates the physical peril.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E18.B059",
+      "episode": 18,
+      "strength": 9,
+      "label": "collapse",
+      "excerpt": "Alexander leaps forward, using his shoulder and back to shatter through the burning window",
+      "why": "A thrilling stunt action beat as they crash through glass to escape the inferno.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E18.B077",
+      "episode": 18,
+      "strength": 8,
+      "label": "threat",
+      "excerpt": "They took our home. I will not let them take anything else now.",
+      "why": "A cold, lethal declaration of intent and promise of vengeance.",
+      "repointed_from": null
+    }
+  ],
+  "dropped": []
+}

@@ -1,0 +1,29 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "A-E25-050-065",
+    "first_3s_hook": 9.0,
+    "cliffhanger_open": 7.0,
+    "cold_viewer_clarity": 5.0,
+    "ambiguity": [
+      {
+        "kind": "unexplained_name",
+        "beat_id": "E25.B050",
+        "detail": "Who is being poisoned ('her') is unknown to a first-time viewer."
+      },
+      {
+        "kind": "relationship",
+        "beat_id": "E25.B059",
+        "detail": "The exact relationship between Juliana and Alexander is unclear."
+      }
+    ],
+    "ending_resolves_tension": false,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "Arsenic.",
+    "cliffhanger_line": "Will you be going there again?",
+    "viewer_takeaway": "A woman reveals to a scarred man that someone is slowly poisoning a female victim with arsenic, and he worries for her safety.",
+    "why_it_works": "Dropping 'Arsenic' right at t=0 grabs scrollers instantly, and the intense, hushed conspiratorial dialogue keeps retention high."
+  }
+}

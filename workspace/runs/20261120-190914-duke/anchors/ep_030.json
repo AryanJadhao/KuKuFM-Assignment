@@ -1,0 +1,218 @@
+{
+  "episode": 30,
+  "prompt_version": "anchors-v1",
+  "model": "gemini:gemini-3.5-flash-lite",
+  "model_output": {
+    "hook_anchors": [
+      {
+        "beat_id": "E30.B006",
+        "hook_intensity": 7.0,
+        "device": "threat",
+        "excerpt": "You have a rat in your cellar, Rupert. And the servants are beginning to smell it.",
+        "why": "Establishes immediate danger and a hidden captive that threatens their conspiracy."
+      },
+      {
+        "beat_id": "E30.B018",
+        "hook_intensity": 9.0,
+        "device": "threat",
+        "excerpt": "Then make certain she isn't! A peasant weed, Rupert! You do not store weeds in your cellar, you burn them!",
+        "why": "Physical aggression combined with a lethal directive to eliminate the prisoner."
+      },
+      {
+        "beat_id": "E30.B038",
+        "hook_intensity": 8.0,
+        "device": "confession",
+        "excerpt": "Give those facts to a magistrate in the right order, and she becomes a poisoner.",
+        "why": "Lays out the cold, calculated framework for framing an innocent person."
+      },
+      {
+        "beat_id": "E30.B042",
+        "hook_intensity": 9.0,
+        "device": "reveal",
+        "excerpt": "Then call it witchcraft.",
+        "why": "Escalates the plot from simple murder framing to capital witchcraft charges."
+      },
+      {
+        "beat_id": "E30.B048",
+        "hook_intensity": 8.0,
+        "device": "threat",
+        "excerpt": "Do not hide the evidence, manufacture it. Drag her before the magistrate tomorrow, frame the trial, buy the jury, and let the State hang her.",
+        "why": "A chilling directive summarizing the entire conspiracy to execute the girl."
+      },
+      {
+        "beat_id": "E30.B062",
+        "hook_intensity": 7.0,
+        "device": "humiliation",
+        "excerpt": "She will hang. A perfect solution. The town will cheer as the witch's disgraced daughter faces the noose.",
+        "why": "Shows sadistic delight in the impending public execution."
+      }
+    ],
+    "cliffhanger_anchors": [
+      {
+        "beat_id": "E30.B022",
+        "cliffhanger_tension": 6.0,
+        "open_question": "How will they stop hiding the prisoner?",
+        "excerpt": "We stop hiding the prisoner.",
+        "why": "Shifts the strategy from concealment to exposure, raising the stakes."
+      },
+      {
+        "beat_id": "E30.B030",
+        "cliffhanger_tension": 7.0,
+        "open_question": "How do they plan to use the law to destroy her?",
+        "excerpt": "We use the law to destroy her.",
+        "why": "Introduces a sinister legal scheme against the victim."
+      },
+      {
+        "beat_id": "E30.B056",
+        "cliffhanger_tension": 6.0,
+        "open_question": "Will anyone believe the dying Dowager over them?",
+        "excerpt": "She is weak, confused. No magistrate will trust a dying woman's accusations",
+        "why": "Dismisses the only potential voice that could save the prisoner."
+      },
+      {
+        "beat_id": "E30.B060",
+        "cliffhanger_tension": 8.0,
+        "open_question": "What will happen to Juliana tomorrow?",
+        "excerpt": "She goes before the magistrate tomorrow.",
+        "why": "Sets a concrete, terrifying deadline for the victim's fate."
+      },
+      {
+        "beat_id": "E30.B066",
+        "cliffhanger_tension": 9.0,
+        "open_question": "Can Juliana survive being turned into a witch?",
+        "excerpt": "Tomorrow, she stops being a prisoner. She becomes a witch.",
+        "why": "A definitive, chilling sentence that seals her doom before the final transition to the dungeon."
+      },
+      {
+        "beat_id": "E30.B070",
+        "cliffhanger_tension": 8.0,
+        "open_question": "Will Juliana escape the gallows?",
+        "excerpt": "Juliana clutches a rough burlap rag to her trembling chest",
+        "why": "Leaves the helpless victim shivering in the dark dungeon as her execution is plotted."
+      }
+    ]
+  },
+  "accepted": [
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E30.B022",
+      "episode": 30,
+      "strength": 6,
+      "label": "How will they stop hiding the prisoner?",
+      "excerpt": "We stop hiding the prisoner.",
+      "why": "Shifts the strategy from concealment to exposure, raising the stakes.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E30.B030",
+      "episode": 30,
+      "strength": 7,
+      "label": "How do they plan to use the law to destroy her?",
+      "excerpt": "We use the law to destroy her.",
+      "why": "Introduces a sinister legal scheme against the victim.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E30.B056",
+      "episode": 30,
+      "strength": 6,
+      "label": "Will anyone believe the dying Dowager over them?",
+      "excerpt": "She is weak, confused. No magistrate will trust a dying woman's accusations",
+      "why": "Dismisses the only potential voice that could save the prisoner.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E30.B060",
+      "episode": 30,
+      "strength": 8,
+      "label": "What will happen to Juliana tomorrow?",
+      "excerpt": "She goes before the magistrate tomorrow.",
+      "why": "Sets a concrete, terrifying deadline for the victim's fate.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E30.B066",
+      "episode": 30,
+      "strength": 9,
+      "label": "Can Juliana survive being turned into a witch?",
+      "excerpt": "Tomorrow, she stops being a prisoner. She becomes a witch.",
+      "why": "A definitive, chilling sentence that seals her doom before the final transition to the dungeon.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E30.B070",
+      "episode": 30,
+      "strength": 8,
+      "label": "Will Juliana escape the gallows?",
+      "excerpt": "Juliana clutches a rough burlap rag to her trembling chest",
+      "why": "Leaves the helpless victim shivering in the dark dungeon as her execution is plotted.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E30.B006",
+      "episode": 30,
+      "strength": 7,
+      "label": "threat",
+      "excerpt": "You have a rat in your cellar, Rupert. And the servants are beginning to smell it.",
+      "why": "Establishes immediate danger and a hidden captive that threatens their conspiracy.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E30.B018",
+      "episode": 30,
+      "strength": 9,
+      "label": "threat",
+      "excerpt": "Then make certain she isn't! A peasant weed, Rupert! You do not store weeds in your cellar, you burn them!",
+      "why": "Physical aggression combined with a lethal directive to eliminate the prisoner.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E30.B038",
+      "episode": 30,
+      "strength": 8,
+      "label": "confession",
+      "excerpt": "Give those facts to a magistrate in the right order, and she becomes a poisoner.",
+      "why": "Lays out the cold, calculated framework for framing an innocent person.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E30.B042",
+      "episode": 30,
+      "strength": 9,
+      "label": "reveal",
+      "excerpt": "Then call it witchcraft.",
+      "why": "Escalates the plot from simple murder framing to capital witchcraft charges.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E30.B048",
+      "episode": 30,
+      "strength": 8,
+      "label": "threat",
+      "excerpt": "Do not hide the evidence, manufacture it. Drag her before the magistrate tomorrow, frame the trial, buy the jury, and let the State hang her.",
+      "why": "A chilling directive summarizing the entire conspiracy to execute the girl.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E30.B062",
+      "episode": 30,
+      "strength": 7,
+      "label": "humiliation",
+      "excerpt": "She will hang. A perfect solution. The town will cheer as the witch's disgraced daughter faces the noose.",
+      "why": "Shows sadistic delight in the impending public execution.",
+      "repointed_from": null
+    }
+  ],
+  "dropped": []
+}

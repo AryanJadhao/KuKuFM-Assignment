@@ -1,0 +1,24 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "B-E34B001-E33B091",
+    "first_3s_hook": 9.0,
+    "cliffhanger_open": 9.0,
+    "cold_viewer_clarity": 7.0,
+    "ambiguity": [
+      {
+        "kind": "relationship",
+        "beat_id": "E33.B075",
+        "detail": "It is initially unclear how the crying maid is connected to the stern Lord and the accused woman."
+      }
+    ],
+    "ending_resolves_tension": false,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "Lady Juliana Ashcroft, you are accused of witchcraft, unlawful healing, and poisoning.",
+    "cliffhanger_line": "And now... you will save your brother.",
+    "viewer_takeaway": "A ruthless lord is manipulating a terrified maid into giving false testimony to convict an innocent woman of witchcraft.",
+    "why_it_works": "Strong flash-forward hook combined with a masterclass in psychological manipulation and a chilling ultimatum makes it impossible to scroll away."
+  }
+}

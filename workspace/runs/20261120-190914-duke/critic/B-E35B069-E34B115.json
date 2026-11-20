@@ -1,0 +1,24 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "B-E35B069-E34B115",
+    "first_3s_hook": 8.0,
+    "cliffhanger_open": 10.0,
+    "cold_viewer_clarity": 7.0,
+    "ambiguity": [
+      {
+        "kind": "unexplained_name",
+        "beat_id": "E35.B069",
+        "detail": "Alexander is mentioned in the cold open flash-forward without prior context for who he is."
+      }
+    ],
+    "ending_resolves_tension": false,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "The men behind it... are the same men ruling Ashwood now.",
+    "cliffhanger_line": "Lady Juliana Ashcroft...",
+    "viewer_takeaway": "A noble woman faces a rigged witchcraft trial and prepares to hear her final sentence as her supporters weep.",
+    "why_it_works": "The flash-forward conspiracy tease combined with the dramatic gavel slam and impending sentencing creates maximum cliffhanger anxiety."
+  }
+}

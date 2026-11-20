@@ -1,0 +1,184 @@
+{
+  "episode": 27,
+  "prompt_version": "anchors-v1",
+  "model": "gemini:gemini-3.5-flash-lite",
+  "model_output": {
+    "hook_anchors": [
+      {
+        "beat_id": "E27.B003",
+        "hook_intensity": 7.0,
+        "device": "threat",
+        "excerpt": "Look at me, girl. Who gave this to you?",
+        "why": "The urgent demand instantly establishes high stakes regarding the mysterious ring."
+      },
+      {
+        "beat_id": "E27.B011",
+        "hook_intensity": 8.0,
+        "device": "reveal",
+        "excerpt": "That is no ordinary band. It bears the Ashbourne crest.",
+        "why": "A massive secret about the protagonist's husband and high aristocracy is dropped."
+      },
+      {
+        "beat_id": "E27.B025",
+        "hook_intensity": 8.0,
+        "device": "threat",
+        "excerpt": "Loud, violent pounding echoes on the wooden double doors.",
+        "why": "Sudden violent disruption creates an immediate sense of danger and interruption."
+      },
+      {
+        "beat_id": "E27.B034",
+        "hook_intensity": 7.0,
+        "device": "insult",
+        "excerpt": "What are you hiding?",
+        "why": "Aggressive confrontation starts the frame-up sequence."
+      },
+      {
+        "beat_id": "E27.B072",
+        "hook_intensity": 9.0,
+        "device": "confession",
+        "excerpt": "Poison.",
+        "why": "A blunt, dangerous single-word admission that sets off the villains' trap."
+      },
+      {
+        "beat_id": "E27.B080",
+        "hook_intensity": 9.0,
+        "device": "insult",
+        "excerpt": "She admits she has been giving the Duchess poison in secret!",
+        "why": "A malicious and dangerous lie that frames the heroine for attempted murder."
+      }
+    ],
+    "cliffhanger_anchors": [
+      {
+        "beat_id": "E27.B024",
+        "cliffhanger_tension": 7.0,
+        "open_question": "Will Juliana reveal her husband's name to the Duchess?",
+        "excerpt": "What is your husband's name?",
+        "why": "The crucial secret about Alexander's identity is about to drop before being violently interrupted."
+      },
+      {
+        "beat_id": "E27.B063",
+        "cliffhanger_tension": 8.0,
+        "open_question": "How will Juliana defend herself against the poisoned medicine accusation?",
+        "excerpt": "holding a substance no one authorized her to give.",
+        "why": "The antagonists corner Juliana with damning visual evidence in her hand."
+      },
+      {
+        "beat_id": "E27.B090",
+        "cliffhanger_tension": 9.0,
+        "open_question": "Will Juliana be executed or imprisoned for the framing?",
+        "excerpt": "Take her.",
+        "why": "The villains successfully execute their plot to arrest Juliana for poisoning."
+      },
+      {
+        "beat_id": "E27.B094",
+        "cliffhanger_tension": 10.0,
+        "open_question": "Can Juliana escape this deadly trap?",
+        "excerpt": "an extreme close-up of Juliana's wide, terrified eyes",
+        "why": "The episode ends on a harrowing note with Juliana dragged away in a frame-up."
+      }
+    ]
+  },
+  "accepted": [
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E27.B024",
+      "episode": 27,
+      "strength": 7,
+      "label": "Will Juliana reveal her husband's name to the Duchess?",
+      "excerpt": "What is your husband's name?",
+      "why": "The crucial secret about Alexander's identity is about to drop before being violently interrupted.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E27.B063",
+      "episode": 27,
+      "strength": 8,
+      "label": "How will Juliana defend herself against the poisoned medicine accusation?",
+      "excerpt": "holding a substance no one authorized her to give.",
+      "why": "The antagonists corner Juliana with damning visual evidence in her hand.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E27.B090",
+      "episode": 27,
+      "strength": 9,
+      "label": "Will Juliana be executed or imprisoned for the framing?",
+      "excerpt": "Take her.",
+      "why": "The villains successfully execute their plot to arrest Juliana for poisoning.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E27.B094",
+      "episode": 27,
+      "strength": 10,
+      "label": "Can Juliana escape this deadly trap?",
+      "excerpt": "an extreme close-up of Juliana's wide, terrified eyes",
+      "why": "The episode ends on a harrowing note with Juliana dragged away in a frame-up.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E27.B003",
+      "episode": 27,
+      "strength": 7,
+      "label": "threat",
+      "excerpt": "Look at me, girl. Who gave this to you?",
+      "why": "The urgent demand instantly establishes high stakes regarding the mysterious ring.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E27.B011",
+      "episode": 27,
+      "strength": 8,
+      "label": "reveal",
+      "excerpt": "That is no ordinary band. It bears the Ashbourne crest.",
+      "why": "A massive secret about the protagonist's husband and high aristocracy is dropped.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E27.B025",
+      "episode": 27,
+      "strength": 8,
+      "label": "threat",
+      "excerpt": "Loud, violent pounding echoes on the wooden double doors.",
+      "why": "Sudden violent disruption creates an immediate sense of danger and interruption.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E27.B034",
+      "episode": 27,
+      "strength": 7,
+      "label": "insult",
+      "excerpt": "What are you hiding?",
+      "why": "Aggressive confrontation starts the frame-up sequence.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E27.B072",
+      "episode": 27,
+      "strength": 9,
+      "label": "confession",
+      "excerpt": "Poison.",
+      "why": "A blunt, dangerous single-word admission that sets off the villains' trap.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E27.B080",
+      "episode": 27,
+      "strength": 9,
+      "label": "insult",
+      "excerpt": "She admits she has been giving the Duchess poison in secret!",
+      "why": "A malicious and dangerous lie that frames the heroine for attempted murder.",
+      "repointed_from": null
+    }
+  ],
+  "dropped": []
+}

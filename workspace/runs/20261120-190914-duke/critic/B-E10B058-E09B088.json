@@ -1,0 +1,24 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "B-E10B058-E09B088",
+    "first_3s_hook": 8.0,
+    "cliffhanger_open": 9.0,
+    "cold_viewer_clarity": 6.0,
+    "ambiguity": [
+      {
+        "kind": "unexplained_name",
+        "beat_id": "E09.B074",
+        "detail": "The identity of the 'late Duke' and why his survival matters is completely opaque."
+      }
+    ],
+    "ending_resolves_tension": false,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "Your touch is the only medicine that has ever eased my pain.",
+    "cliffhanger_line": "Impossible.",
+    "viewer_takeaway": "A nobleman learns a rumor that a scarred war veteran might actually be a powerful deceased Duke, sparking intense paranoia.",
+    "why_it_works": "Jumping straight from a romantic confession into a high-stakes conspiracy thriller creates an irresistible narrative whiplash."
+  }
+}

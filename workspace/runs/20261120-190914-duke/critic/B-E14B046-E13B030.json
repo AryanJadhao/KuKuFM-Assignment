@@ -1,0 +1,29 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "B-E14B046-E13B030",
+    "first_3s_hook": 8.0,
+    "cliffhanger_open": 9.0,
+    "cold_viewer_clarity": 6.0,
+    "ambiguity": [
+      {
+        "kind": "relationship",
+        "beat_id": "E13.B010",
+        "detail": "Gerald and Clarissa mock them from above, but their exact familial or social tie is unclear."
+      },
+      {
+        "kind": "prior_event",
+        "beat_id": "E13.B017",
+        "detail": "Reference to Alexander abandoning everyone else lacks context for a cold viewer."
+      }
+    ],
+    "ending_resolves_tension": false,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "No one will ever hurt you for protecting me again.",
+    "cliffhanger_line": "Please...",
+    "viewer_takeaway": "A devoted woman crawls through a dangerous, thorny briar patch to save her bound husband while cruel onlookers watch.",
+    "why_it_works": "The flash-forward hook grabs attention immediately, followed by high-stakes physical agony and a desperate cliffhanger."
+  }
+}

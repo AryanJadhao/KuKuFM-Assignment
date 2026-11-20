@@ -1,0 +1,18 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "A-E43-056-085",
+    "first_3s_hook": 9.0,
+    "cliffhanger_open": 8.0,
+    "cold_viewer_clarity": 8.0,
+    "ambiguity": [],
+    "ending_resolves_tension": false,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "You sold my men to the enemy.",
+    "cliffhanger_line": "Going somewhere, Lord Sterling?",
+    "viewer_takeaway": "The betrayed duke corners the conspirators one by one as law enforcement closes in.",
+    "why_it_works": "Fast-paced escalation from verbal confrontation to a fleeing villain getting trapped at the exit creates great vertical pacing."
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "A-E16-013-043",
+    "first_3s_hook": 9.0,
+    "cliffhanger_open": 9.0,
+    "cold_viewer_clarity": 8.0,
+    "ambiguity": [
+      {
+        "kind": "unexplained_name",
+        "beat_id": "E16.B043",
+        "detail": "Gerald Harrington is introduced as the mastermind without prior context."
+      }
+    ],
+    "ending_resolves_tension": false,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "Aaargh!",
+    "cliffhanger_line": "Harrington! Gerald Harrington paid us!",
+    "viewer_takeaway": "A capable hero easily dismantles a group of thugs and forces a confession out of them.",
+    "why_it_works": "Delivers satisfying action and a high-stakes confession right at the cliffhanger."
+  }
+}

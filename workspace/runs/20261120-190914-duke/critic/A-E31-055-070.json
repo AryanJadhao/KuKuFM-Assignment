@@ -1,0 +1,24 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "A-E31-055-070",
+    "first_3s_hook": 7.0,
+    "cliffhanger_open": 5.0,
+    "cold_viewer_clarity": 8.0,
+    "ambiguity": [
+      {
+        "kind": "relationship",
+        "beat_id": "E31.B055",
+        "detail": "We see two women arguing, one chained and one oppressing her, but their exact history isn't fully explained."
+      }
+    ],
+    "ending_resolves_tension": false,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "No. But cruelty certainly doesn't make you better than me.",
+    "cliffhanger_line": "Enough!",
+    "viewer_takeaway": "A captive woman calmly dismantles her aristocratic tormentor's ego using only words.",
+    "why_it_works": "Strong verbal sparring and psychological dominance play well on vertical feeds, making viewers root for the chained underdog."
+  }
+}

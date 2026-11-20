@@ -1,0 +1,18 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "A-E34-068-097",
+    "first_3s_hook": 7.0,
+    "cliffhanger_open": 7.0,
+    "cold_viewer_clarity": 8.0,
+    "ambiguity": [],
+    "ending_resolves_tension": false,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "The people call it poisoning!",
+    "cliffhanger_line": "I have.",
+    "viewer_takeaway": "A courageous woman on trial for witchcraft refuses to back down, insisting her herbal remedies were acts of healing.",
+    "why_it_works": "Pure courtroom drama driven by a charismatic, unyielding lead character facing unjust authority."
+  }
+}

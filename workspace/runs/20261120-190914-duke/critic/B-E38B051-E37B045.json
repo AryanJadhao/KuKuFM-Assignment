@@ -1,0 +1,29 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "B-E38B051-E37B045",
+    "first_3s_hook": 7.0,
+    "cliffhanger_open": 8.0,
+    "cold_viewer_clarity": 5.0,
+    "ambiguity": [
+      {
+        "kind": "prior_event",
+        "beat_id": "E38.B051",
+        "detail": "The flash-forward drops the viewer into a prison cell without context for why Juliana is there."
+      },
+      {
+        "kind": "relationship",
+        "beat_id": "E37.B029",
+        "detail": "Lady Catherine Ashbridge is mentioned via an invitation, but her connection to the plot is mysterious."
+      }
+    ],
+    "ending_resolves_tension": false,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "Then I suppose I'm next.",
+    "cliffhanger_line": "To every woman who thinks she can rise above the place she was given.",
+    "viewer_takeaway": "An imprisoned woman bravely faces her impending fate while her cruel social superiors celebrate an upcoming wedding and execution.",
+    "why_it_works": "The flash-forward cold open creates immediate high stakes before jumping back to explain the villains' sadistic plans."
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "episode": 24,
+  "prompt_version": "anchors-v1",
+  "model": "gemini:gemini-3.5-flash-lite",
+  "model_output": {
+    "hook_anchors": [
+      {
+        "beat_id": "E24.B005",
+        "hook_intensity": 7.0,
+        "device": "insult",
+        "excerpt": "Who are you?",
+        "why": "A sharp, confrontational opening demand that establishes immediate tension."
+      },
+      {
+        "beat_id": "E24.B020",
+        "hook_intensity": 9.0,
+        "device": "threat",
+        "excerpt": "Then let her suffer.",
+        "why": "A chilling display of malice and cruelty regarding a dying woman."
+      },
+      {
+        "beat_id": "E24.B023",
+        "hook_intensity": 10.0,
+        "device": "humiliation",
+        "excerpt": "The noblewoman suddenly rears back her riding crop and strikes Juliana violently",
+        "why": "A sudden, brutal physical assault that serves as a powerful visual shock."
+      },
+      {
+        "beat_id": "E24.B045",
+        "hook_intensity": 8.0,
+        "device": "humiliation",
+        "excerpt": "Every stone. Perhaps when your hands are black enough, you will finally remember what you are.",
+        "why": "A deeply degrading punishment delivered with sadistic relish."
+      },
+      {
+        "beat_id": "E24.B060",
+        "hook_intensity": 7.0,
+        "device": "insult",
+        "excerpt": "That is where clever little servants belong.",
+        "why": "A smug, condescending remark that underscores the unfair oppression."
+      }
+    ],
+    "cliffhanger_anchors": [
+      {
+        "beat_id": "E24.B067",
+        "cliffhanger_tension": 9.0,
+        "open_question": "How will Juliana use the hidden remedy to strike back?",
+        "excerpt": "Tight close-up of Juliana's soot-streaked face turning slowly toward the chamber exit",
+        "why": "Juliana's intense, defiant look promises impending retaliation and revenge."
+      }
+    ]
+  },
+  "accepted": [
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E24.B067",
+      "episode": 24,
+      "strength": 9,
+      "label": "How will Juliana use the hidden remedy to strike back?",
+      "excerpt": "Tight close-up of Juliana's soot-streaked face turning slowly toward the chamber exit",
+      "why": "Juliana's intense, defiant look promises impending retaliation and revenge.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E24.B005",
+      "episode": 24,
+      "strength": 7,
+      "label": "insult",
+      "excerpt": "Who are you?",
+      "why": "A sharp, confrontational opening demand that establishes immediate tension.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E24.B020",
+      "episode": 24,
+      "strength": 9,
+      "label": "threat",
+      "excerpt": "Then let her suffer.",
+      "why": "A chilling display of malice and cruelty regarding a dying woman.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E24.B023",
+      "episode": 24,
+      "strength": 10,
+      "label": "humiliation",
+      "excerpt": "The noblewoman suddenly rears back her riding crop and strikes Juliana violently",
+      "why": "A sudden, brutal physical assault that serves as a powerful visual shock.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E24.B045",
+      "episode": 24,
+      "strength": 8,
+      "label": "humiliation",
+      "excerpt": "Every stone. Perhaps when your hands are black enough, you will finally remember what you are.",
+      "why": "A deeply degrading punishment delivered with sadistic relish.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E24.B060",
+      "episode": 24,
+      "strength": 7,
+      "label": "insult",
+      "excerpt": "That is where clever little servants belong.",
+      "why": "A smug, condescending remark that underscores the unfair oppression.",
+      "repointed_from": null
+    }
+  ],
+  "dropped": []
+}

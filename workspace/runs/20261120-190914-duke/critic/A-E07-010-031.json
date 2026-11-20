@@ -1,0 +1,24 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "A-E07-010-031",
+    "first_3s_hook": 9.0,
+    "cliffhanger_open": 9.0,
+    "cold_viewer_clarity": 8.0,
+    "ambiguity": [
+      {
+        "kind": "relationship",
+        "beat_id": "E07.B010",
+        "detail": "Gerald and the Aristocratic Woman's past ties to Juliana are strongly implied but specific history is unstated."
+      }
+    ],
+    "ending_resolves_tension": false,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "A fitting home for a woman who threw away everything for a penniless soldier.",
+    "cliffhanger_line": "I have enough influence to make a beggar disappear.",
+    "viewer_takeaway": "A proud woman stands her ground against her wealthy, cruel former associates who mock her new impoverished life.",
+    "why_it_works": "Pure high-stakes confrontation drama; the insults and unyielding defiance create an immediate rush of righteous anger and anticipation."
+  }
+}

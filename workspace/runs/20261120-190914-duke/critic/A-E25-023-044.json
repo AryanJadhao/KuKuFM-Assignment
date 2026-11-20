@@ -1,0 +1,29 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "A-E25-023-044",
+    "first_3s_hook": 7.0,
+    "cliffhanger_open": 7.0,
+    "cold_viewer_clarity": 6.0,
+    "ambiguity": [
+      {
+        "kind": "relationship",
+        "beat_id": "E25.B023",
+        "detail": "Alexander and Juliana's romantic or protective dynamic is not explicitly explained to a fresh viewer."
+      },
+      {
+        "kind": "unexplained_name",
+        "beat_id": "E25.B023",
+        "detail": "Lady Catherine's connection to the events is left hanging."
+      }
+    ],
+    "ending_resolves_tension": false,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "Lady Catherine.",
+    "cliffhanger_line": "But it wasn't age.",
+    "viewer_takeaway": "A protective man interrogates a secretive female healer about her dangerous trespass into a manor.",
+    "why_it_works": "The rapid-fire questioning builds investigative tension, anchoring the broader conspiracy plot around the poisoned duchess."
+  }
+}

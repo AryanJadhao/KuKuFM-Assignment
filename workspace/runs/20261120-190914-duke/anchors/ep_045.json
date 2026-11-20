@@ -1,0 +1,201 @@
+{
+  "episode": 45,
+  "prompt_version": "anchors-v1",
+  "model": "gemini:gemini-3.5-flash-lite",
+  "model_output": {
+    "hook_anchors": [
+      {
+        "beat_id": "E45.B009",
+        "hook_intensity": 6.0,
+        "device": "reveal",
+        "excerpt": "Heavy iron clanking as the shackles fall away.",
+        "why": "The sudden physical release of the chains grabs attention visually."
+      },
+      {
+        "beat_id": "E45.B020",
+        "hook_intensity": 7.0,
+        "device": "reveal",
+        "excerpt": "Alexander Ashburton. The rightful Duke of Ashburton.",
+        "why": "A powerful identity reveal that shifts the power dynamic instantly."
+      },
+      {
+        "beat_id": "E45.B039",
+        "hook_intensity": 9.0,
+        "device": "accusation",
+        "excerpt": "You poisoned my mother. You tortured my wife.",
+        "why": "A brutal, direct accusation delivered with cold fury."
+      },
+      {
+        "beat_id": "E45.B052",
+        "hook_intensity": 8.0,
+        "device": "reveal",
+        "excerpt": "Lady Juliana Ashcroft is my lawful wife... and the Duchess of Ashburton!",
+        "why": "A grand public proclamation that upends the social hierarchy."
+      },
+      {
+        "beat_id": "E45.B059",
+        "hook_intensity": 7.0,
+        "device": "threat",
+        "excerpt": "No one will bow yet!",
+        "why": "An unexpected interruption that halts the climax in its tracks."
+      },
+      {
+        "beat_id": "E45.B069",
+        "hook_intensity": 8.0,
+        "device": "humiliation",
+        "excerpt": "You are not Alexander Ashburton's lawful wife.",
+        "why": "A devastating public invalidation of her newly claimed status."
+      }
+    ],
+    "cliffhanger_anchors": [
+      {
+        "beat_id": "E45.B022",
+        "cliffhanger_tension": 5.0,
+        "open_question": "How did he hide his true identity for so long?",
+        "excerpt": "All this time?",
+        "why": "Leaves viewers wondering about the backstory of his disguise."
+      },
+      {
+        "beat_id": "E45.B046",
+        "cliffhanger_tension": 6.0,
+        "open_question": "How will Catherine react to discovering Juliana is the wife?",
+        "excerpt": "Wife?!",
+        "why": "Captures the exact moment the antagonist's world shatters."
+      },
+      {
+        "beat_id": "E45.B054",
+        "cliffhanger_tension": 6.0,
+        "open_question": "How will the shocked onlookers react to Juliana's rise?",
+        "excerpt": "Juliana?!",
+        "why": "Highlights the shellshocked disbelief of the rival family."
+      },
+      {
+        "beat_id": "E45.B063",
+        "cliffhanger_tension": 8.0,
+        "open_question": "Is their marriage truly illegal?",
+        "excerpt": "This ceremony was performed without a Crown marriage license",
+        "why": "Presents a formidable legal and institutional obstacle to their happily-ever-after."
+      },
+      {
+        "beat_id": "E45.B073",
+        "cliffhanger_tension": 9.0,
+        "open_question": "What revenge will Catherine take now that the marriage is invalidated?",
+        "excerpt": "a vindictive smirk spreading across her lips",
+        "why": "Ends on the villain's triumphant smile, leaving the heroes' fate uncertain."
+      }
+    ]
+  },
+  "accepted": [
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E45.B022",
+      "episode": 45,
+      "strength": 5,
+      "label": "How did he hide his true identity for so long?",
+      "excerpt": "All this time?",
+      "why": "Leaves viewers wondering about the backstory of his disguise.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E45.B046",
+      "episode": 45,
+      "strength": 6,
+      "label": "How will Catherine react to discovering Juliana is the wife?",
+      "excerpt": "Wife?!",
+      "why": "Captures the exact moment the antagonist's world shatters.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E45.B054",
+      "episode": 45,
+      "strength": 6,
+      "label": "How will the shocked onlookers react to Juliana's rise?",
+      "excerpt": "Juliana?!",
+      "why": "Highlights the shellshocked disbelief of the rival family.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E45.B063",
+      "episode": 45,
+      "strength": 8,
+      "label": "Is their marriage truly illegal?",
+      "excerpt": "This ceremony was performed without a Crown marriage license",
+      "why": "Presents a formidable legal and institutional obstacle to their happily-ever-after.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E45.B073",
+      "episode": 45,
+      "strength": 9,
+      "label": "What revenge will Catherine take now that the marriage is invalidated?",
+      "excerpt": "a vindictive smirk spreading across her lips",
+      "why": "Ends on the villain's triumphant smile, leaving the heroes' fate uncertain.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E45.B009",
+      "episode": 45,
+      "strength": 6,
+      "label": "reveal",
+      "excerpt": "Heavy iron clanking as the shackles fall away.",
+      "why": "The sudden physical release of the chains grabs attention visually.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E45.B020",
+      "episode": 45,
+      "strength": 7,
+      "label": "reveal",
+      "excerpt": "Alexander Ashburton. The rightful Duke of Ashburton.",
+      "why": "A powerful identity reveal that shifts the power dynamic instantly.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E45.B039",
+      "episode": 45,
+      "strength": 9,
+      "label": "accusation",
+      "excerpt": "You poisoned my mother. You tortured my wife.",
+      "why": "A brutal, direct accusation delivered with cold fury.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E45.B052",
+      "episode": 45,
+      "strength": 8,
+      "label": "reveal",
+      "excerpt": "Lady Juliana Ashcroft is my lawful wife... and the Duchess of Ashburton!",
+      "why": "A grand public proclamation that upends the social hierarchy.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E45.B059",
+      "episode": 45,
+      "strength": 7,
+      "label": "threat",
+      "excerpt": "No one will bow yet!",
+      "why": "An unexpected interruption that halts the climax in its tracks.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E45.B069",
+      "episode": 45,
+      "strength": 8,
+      "label": "humiliation",
+      "excerpt": "You are not Alexander Ashburton's lawful wife.",
+      "why": "A devastating public invalidation of her newly claimed status.",
+      "repointed_from": null
+    }
+  ],
+  "dropped": []
+}

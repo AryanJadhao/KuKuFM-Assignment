@@ -1,0 +1,24 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "A-E28-072-094",
+    "first_3s_hook": 8.0,
+    "cliffhanger_open": 9.0,
+    "cold_viewer_clarity": 7.0,
+    "ambiguity": [
+      {
+        "kind": "prior_event",
+        "beat_id": "E28.B076",
+        "detail": "Unexplained backstory about why Juliana was thrown out of her family home."
+      }
+    ],
+    "ending_resolves_tension": false,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "Lady Juliana Ashcroft.",
+    "cliffhanger_line": "...before he sends you to the gallows.",
+    "viewer_takeaway": "A cruel antagonist exposes a disguised noble-turned-maid and plans to use a botanical book to frame her for witchcraft.",
+    "why_it_works": "Strong villain dialogue and the immediate threat of a death sentence drive compulsive watch time."
+  }
+}

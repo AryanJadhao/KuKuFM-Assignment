@@ -1,0 +1,24 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "B-E23B005-E22B046",
+    "first_3s_hook": 9.0,
+    "cliffhanger_open": 6.0,
+    "cold_viewer_clarity": 7.0,
+    "ambiguity": [
+      {
+        "kind": "prior_event",
+        "beat_id": "E23.B005",
+        "detail": "The cause of the Duchess's blackened fingernails is strongly implied to be poison."
+      }
+    ],
+    "ending_resolves_tension": true,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "How long has she been like this?",
+    "cliffhanger_line": "Then prove it. The manor has no use for useless girls.",
+    "viewer_takeaway": "An undercover noblewoman takes a servant job inside a corrupt manor to investigate a mysterious poisoning.",
+    "why_it_works": "Visually striking poisoned hands hook viewers instantly, followed by a satisfying plunge into undercover intrigue."
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "episode": 49,
+  "prompt_version": "anchors-v1",
+  "model": "gemini:gemini-3.5-flash-lite",
+  "model_output": {
+    "hook_anchors": [
+      {
+        "beat_id": "E49.B019",
+        "hook_intensity": 8.0,
+        "device": "threat",
+        "excerpt": "It will keep serving us as long as neither of us gets careless.",
+        "why": "Establishes a dangerous, high-stakes conspiracy with an immediate warning."
+      },
+      {
+        "beat_id": "E49.B036",
+        "hook_intensity": 9.0,
+        "device": "confession",
+        "excerpt": "Every argument, every witness, every whisper against her.",
+        "why": "Clearly reveals her ruthless ambition and desire for total espionage."
+      },
+      {
+        "beat_id": "E49.B049",
+        "hook_intensity": 8.0,
+        "device": "threat",
+        "excerpt": "Careful men still hang, my lady, when the crime is treason",
+        "why": "Directly highlights the extreme lethal penalty of their alliance."
+      },
+      {
+        "beat_id": "E49.B053",
+        "hook_intensity": 7.0,
+        "device": "confession",
+        "excerpt": "A grateful Duchess collects debts differently than a desperate one.",
+        "why": "A powerful declaration of future power dynamics and leverage."
+      }
+    ],
+    "cliffhanger_anchors": [
+      {
+        "beat_id": "E49.B045",
+        "cliffhanger_tension": 8.0,
+        "open_question": "Will Father Thomas agree to the dangerous conspiracy?",
+        "excerpt": "what happens to me when the Duke finds out a crowned priest conspired against him?",
+        "why": "Puts the priest's life directly on the line, forcing a major turning point."
+      },
+      {
+        "beat_id": "E49.B062",
+        "cliffhanger_tension": 9.0,
+        "open_question": "Can their treasonous alliance remain hidden from the Duke?",
+        "excerpt": "Father Thomas gently raises his other hand and cups Catherine's cheek tenderly",
+        "why": "Seals the dangerous pact with intimacy right before cutting to black."
+      }
+    ]
+  },
+  "accepted": [
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E49.B045",
+      "episode": 49,
+      "strength": 8,
+      "label": "Will Father Thomas agree to the dangerous conspiracy?",
+      "excerpt": "what happens to me when the Duke finds out a crowned priest conspired against him?",
+      "why": "Puts the priest's life directly on the line, forcing a major turning point.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E49.B062",
+      "episode": 49,
+      "strength": 9,
+      "label": "Can their treasonous alliance remain hidden from the Duke?",
+      "excerpt": "Father Thomas gently raises his other hand and cups Catherine's cheek tenderly",
+      "why": "Seals the dangerous pact with intimacy right before cutting to black.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E49.B019",
+      "episode": 49,
+      "strength": 8,
+      "label": "threat",
+      "excerpt": "It will keep serving us as long as neither of us gets careless.",
+      "why": "Establishes a dangerous, high-stakes conspiracy with an immediate warning.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E49.B036",
+      "episode": 49,
+      "strength": 9,
+      "label": "confession",
+      "excerpt": "Every argument, every witness, every whisper against her.",
+      "why": "Clearly reveals her ruthless ambition and desire for total espionage.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E49.B049",
+      "episode": 49,
+      "strength": 8,
+      "label": "threat",
+      "excerpt": "Careful men still hang, my lady, when the crime is treason",
+      "why": "Directly highlights the extreme lethal penalty of their alliance.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E49.B053",
+      "episode": 49,
+      "strength": 7,
+      "label": "confession",
+      "excerpt": "A grateful Duchess collects debts differently than a desperate one.",
+      "why": "A powerful declaration of future power dynamics and leverage.",
+      "repointed_from": null
+    }
+  ],
+  "dropped": []
+}

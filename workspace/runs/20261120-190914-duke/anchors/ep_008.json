@@ -1,0 +1,116 @@
+{
+  "episode": 8,
+  "prompt_version": "anchors-v1",
+  "model": "gemini:gemini-3.5-flash",
+  "model_output": {
+    "hook_anchors": [
+      {
+        "beat_id": "E08.B016",
+        "hook_intensity": 5.0,
+        "device": "grim reveal",
+        "excerpt": "Soldiers learn quickly which plants keep a man alive.",
+        "why": "Alexander hints at his survival background in war, creating intriguing backstory mystery."
+      },
+      {
+        "beat_id": "E08.B028",
+        "hook_intensity": 7.0,
+        "device": "physical boundary",
+        "excerpt": "Not yet.",
+        "why": "Alexander suddenly catches Juliana's wrist in midair with a firm, low command."
+      },
+      {
+        "beat_id": "E08.B050",
+        "hook_intensity": 6.0,
+        "device": "interrogation",
+        "excerpt": "And the scars... were they from the war?",
+        "why": "Juliana directly addresses his facial scars and painful past."
+      }
+    ],
+    "cliffhanger_anchors": [
+      {
+        "beat_id": "E08.B028",
+        "cliffhanger_tension": 7.0,
+        "open_question": "Why is Alexander refusing to let Juliana cut his hair or get close?",
+        "excerpt": "Not yet.",
+        "why": "He abruptly halts her intimate gesture, leaving their physical dynamic hanging."
+      },
+      {
+        "beat_id": "E08.B052",
+        "cliffhanger_tension": 7.0,
+        "open_question": "Where did Alexander's non-war scars come from?",
+        "excerpt": "Some were.",
+        "why": "Alexander admits not all his scars came from battle, teasing a darker hidden past."
+      },
+      {
+        "beat_id": "E08.B061",
+        "cliffhanger_tension": 5.0,
+        "open_question": "Will Juliana fully abandon her past view of wealth for Alexander?",
+        "excerpt": "Perhaps I was wrong.",
+        "why": "Juliana's realization marks a turning point in her worldview just as the scene ends."
+      }
+    ]
+  },
+  "accepted": [
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E08.B028",
+      "episode": 8,
+      "strength": 7,
+      "label": "Why is Alexander refusing to let Juliana cut his hair or get close?",
+      "excerpt": "Not yet.",
+      "why": "He abruptly halts her intimate gesture, leaving their physical dynamic hanging.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E08.B052",
+      "episode": 8,
+      "strength": 7,
+      "label": "Where did Alexander's non-war scars come from?",
+      "excerpt": "Some were.",
+      "why": "Alexander admits not all his scars came from battle, teasing a darker hidden past.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E08.B061",
+      "episode": 8,
+      "strength": 5,
+      "label": "Will Juliana fully abandon her past view of wealth for Alexander?",
+      "excerpt": "Perhaps I was wrong.",
+      "why": "Juliana's realization marks a turning point in her worldview just as the scene ends.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E08.B016",
+      "episode": 8,
+      "strength": 5,
+      "label": "grim reveal",
+      "excerpt": "Soldiers learn quickly which plants keep a man alive.",
+      "why": "Alexander hints at his survival background in war, creating intriguing backstory mystery.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E08.B028",
+      "episode": 8,
+      "strength": 7,
+      "label": "physical boundary",
+      "excerpt": "Not yet.",
+      "why": "Alexander suddenly catches Juliana's wrist in midair with a firm, low command.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E08.B050",
+      "episode": 8,
+      "strength": 6,
+      "label": "interrogation",
+      "excerpt": "And the scars... were they from the war?",
+      "why": "Juliana directly addresses his facial scars and painful past.",
+      "repointed_from": null
+    }
+  ],
+  "dropped": []
+}

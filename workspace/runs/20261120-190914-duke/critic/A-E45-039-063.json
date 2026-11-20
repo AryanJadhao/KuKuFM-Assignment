@@ -1,0 +1,24 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "A-E45-039-063",
+    "first_3s_hook": 9.0,
+    "cliffhanger_open": 8.0,
+    "cold_viewer_clarity": 7.0,
+    "ambiguity": [
+      {
+        "kind": "relationship",
+        "beat_id": "E45.B046",
+        "detail": "Catherine is shocked to learn Alexander married someone else."
+      }
+    ],
+    "ending_resolves_tension": false,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "You poisoned my mother. You tortured my wife.",
+    "cliffhanger_line": "This ceremony was performed without a Crown marriage license, by a priest without authority to sanctify a ducal union.",
+    "viewer_takeaway": "A vengeful lord exposes a poisoning plot and marries his true love, only for the church to interrupt and invalidate the wedding.",
+    "why_it_works": "High-stakes emotional confrontation with an immediate public wedding twist and a shocking religious intervention at the end."
+  }
+}

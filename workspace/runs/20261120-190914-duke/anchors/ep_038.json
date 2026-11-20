@@ -1,0 +1,99 @@
+{
+  "episode": 38,
+  "prompt_version": "anchors-v1",
+  "model": "gemini:gemini-3.5-flash-lite",
+  "model_output": {
+    "hook_anchors": [
+      {
+        "beat_id": "E38.B010",
+        "hook_intensity": 7.0,
+        "device": "confession",
+        "excerpt": "Why?",
+        "why": "A starving prisoner questions an unexpected act of kindness from a guard in the dungeon."
+      },
+      {
+        "beat_id": "E38.B026",
+        "hook_intensity": 8.0,
+        "device": "threat",
+        "excerpt": "Do you even know what happened to me?",
+        "why": "An emotional outcry directed at her absent husband highlights her desperate plight."
+      },
+      {
+        "beat_id": "E38.B039",
+        "hook_intensity": 9.0,
+        "device": "confession",
+        "excerpt": "I will not give them my husband.",
+        "why": "A fierce display of unwavering loyalty despite facing condemnation and death."
+      },
+      {
+        "beat_id": "E38.B051",
+        "hook_intensity": 8.0,
+        "device": "threat",
+        "excerpt": "Then I suppose I'm next.",
+        "why": "The chilling realization that the wedding bells signal her imminent execution."
+      }
+    ],
+    "cliffhanger_anchors": [
+      {
+        "beat_id": "E38.B054",
+        "cliffhanger_tension": 9.0,
+        "open_question": "Will Juliana face her execution while her husband remains unaware?",
+        "excerpt": "Alexander...",
+        "why": "Her tender final whisper before the cut to black leaves her fate entirely unresolved as the bells toll."
+      }
+    ]
+  },
+  "accepted": [
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E38.B054",
+      "episode": 38,
+      "strength": 9,
+      "label": "Will Juliana face her execution while her husband remains unaware?",
+      "excerpt": "Alexander...",
+      "why": "Her tender final whisper before the cut to black leaves her fate entirely unresolved as the bells toll.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E38.B010",
+      "episode": 38,
+      "strength": 7,
+      "label": "confession",
+      "excerpt": "Why?",
+      "why": "A starving prisoner questions an unexpected act of kindness from a guard in the dungeon.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E38.B026",
+      "episode": 38,
+      "strength": 8,
+      "label": "threat",
+      "excerpt": "Do you even know what happened to me?",
+      "why": "An emotional outcry directed at her absent husband highlights her desperate plight.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E38.B039",
+      "episode": 38,
+      "strength": 9,
+      "label": "confession",
+      "excerpt": "I will not give them my husband.",
+      "why": "A fierce display of unwavering loyalty despite facing condemnation and death.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E38.B051",
+      "episode": 38,
+      "strength": 8,
+      "label": "threat",
+      "excerpt": "Then I suppose I'm next.",
+      "why": "The chilling realization that the wedding bells signal her imminent execution.",
+      "repointed_from": null
+    }
+  ],
+  "dropped": []
+}

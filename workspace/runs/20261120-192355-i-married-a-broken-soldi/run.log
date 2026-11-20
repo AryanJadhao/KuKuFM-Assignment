@@ -1,0 +1,2 @@
+2026-11-20 19:25:11,141 WARNING anchorcut.llm: [anchors_ep002] gemini-3.5-flash: quota exhausted (retry in 18.1 h) -> trying next model
+2026-11-20 19:25:18,522 WARNING anchorcut.llm: gemini-3.5-flash HTTP 429 (attempt 1/4) - waiting 40s

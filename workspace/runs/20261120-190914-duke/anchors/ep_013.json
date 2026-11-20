@@ -1,0 +1,150 @@
+{
+  "episode": 13,
+  "prompt_version": "anchors-v1",
+  "model": "gemini:gemini-3.5-flash",
+  "model_output": {
+    "hook_anchors": [
+      {
+        "beat_id": "E13.B013",
+        "hook_intensity": 7.0,
+        "device": "declaration",
+        "excerpt": "I would rather face the gallows than watch you hurt yourself for me.",
+        "why": "Alexander delivers an intense, high-stakes declaration preferring death over her suffering."
+      },
+      {
+        "beat_id": "E13.B022",
+        "hook_intensity": 7.0,
+        "device": "insult",
+        "excerpt": "That garden has swallowed better women than you.",
+        "why": "Clarissa's cruel taunt creates immediate villainous friction and establishes high physical danger."
+      },
+      {
+        "beat_id": "E13.B035",
+        "hook_intensity": 9.0,
+        "device": "physical pain",
+        "excerpt": "Sharp blackthorn spines rake across Juliana's fingers and knuckles, carving bloody gashes across her skin.",
+        "why": "Visceral physical injury provides a shock moment guaranteed to stop scrollers."
+      },
+      {
+        "beat_id": "E13.B052",
+        "hook_intensity": 8.0,
+        "device": "outburst",
+        "excerpt": "Alexander loses control, violently lunging past the Constable toward the briars.",
+        "why": "A violent, desperate outburst that breaks restraint and escalates physical chaos."
+      }
+    ],
+    "cliffhanger_anchors": [
+      {
+        "beat_id": "E13.B030",
+        "cliffhanger_tension": 8.0,
+        "open_question": "Will Juliana survive crawling into the razor-sharp blackthorn thicket?",
+        "excerpt": "Juliana crawls forward on all fours, lowering her head under the jagged, arching thorns.",
+        "why": "Juliana enters extreme danger despite all warnings, leaving her fate hanging."
+      },
+      {
+        "beat_id": "E13.B043",
+        "cliffhanger_tension": 7.0,
+        "open_question": "Can Juliana locate the hidden ring before the thorns completely tear her apart?",
+        "excerpt": "Keep searching, Juliana. Your husband's freedom is somewhere in that garden.",
+        "why": "Gerald lays down the ruthless challenge while Juliana bleeds in the briars."
+      },
+      {
+        "beat_id": "E13.B066",
+        "cliffhanger_tension": 9.0,
+        "open_question": "Has Juliana finally found the emerald signet ring?",
+        "excerpt": "Her blood-smeared index finger brushes against a solid metallic object half-buried in the frozen dirt",
+        "why": "She touches the hidden object right before confirmation, building extreme suspense."
+      },
+      {
+        "beat_id": "E13.B074",
+        "cliffhanger_tension": 9.0,
+        "open_question": "Will the emerald signet ring be enough to prove Alexander's innocence?",
+        "excerpt": "Macro close-up holding on Juliana's bloodied fist firmly gripping the emerald ring against the frozen ground",
+        "why": "The episode ends with her bloody victory, leaving the political and legal outcome unresolved."
+      }
+    ]
+  },
+  "accepted": [
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E13.B030",
+      "episode": 13,
+      "strength": 8,
+      "label": "Will Juliana survive crawling into the razor-sharp blackthorn thicket?",
+      "excerpt": "Juliana crawls forward on all fours, lowering her head under the jagged, arching thorns.",
+      "why": "Juliana enters extreme danger despite all warnings, leaving her fate hanging.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E13.B043",
+      "episode": 13,
+      "strength": 7,
+      "label": "Can Juliana locate the hidden ring before the thorns completely tear her apart?",
+      "excerpt": "Keep searching, Juliana. Your husband's freedom is somewhere in that garden.",
+      "why": "Gerald lays down the ruthless challenge while Juliana bleeds in the briars.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E13.B066",
+      "episode": 13,
+      "strength": 9,
+      "label": "Has Juliana finally found the emerald signet ring?",
+      "excerpt": "Her blood-smeared index finger brushes against a solid metallic object half-buried in the frozen dirt",
+      "why": "She touches the hidden object right before confirmation, building extreme suspense.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E13.B074",
+      "episode": 13,
+      "strength": 9,
+      "label": "Will the emerald signet ring be enough to prove Alexander's innocence?",
+      "excerpt": "Macro close-up holding on Juliana's bloodied fist firmly gripping the emerald ring against the frozen ground",
+      "why": "The episode ends with her bloody victory, leaving the political and legal outcome unresolved.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E13.B013",
+      "episode": 13,
+      "strength": 7,
+      "label": "declaration",
+      "excerpt": "I would rather face the gallows than watch you hurt yourself for me.",
+      "why": "Alexander delivers an intense, high-stakes declaration preferring death over her suffering.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E13.B022",
+      "episode": 13,
+      "strength": 7,
+      "label": "insult",
+      "excerpt": "That garden has swallowed better women than you.",
+      "why": "Clarissa's cruel taunt creates immediate villainous friction and establishes high physical danger.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E13.B035",
+      "episode": 13,
+      "strength": 9,
+      "label": "physical pain",
+      "excerpt": "Sharp blackthorn spines rake across Juliana's fingers and knuckles, carving bloody gashes across her skin.",
+      "why": "Visceral physical injury provides a shock moment guaranteed to stop scrollers.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E13.B052",
+      "episode": 13,
+      "strength": 8,
+      "label": "outburst",
+      "excerpt": "Alexander loses control, violently lunging past the Constable toward the briars.",
+      "why": "A violent, desperate outburst that breaks restraint and escalates physical chaos.",
+      "repointed_from": null
+    }
+  ],
+  "dropped": []
+}

@@ -1,0 +1,2872 @@
+{
+  "stats": {
+    "hook_anchors": 226,
+    "cliffhanger_anchors": 161,
+    "mode_a_windows": 216,
+    "mode_b_windows": 408,
+    "selected": 112,
+    "selected_mode_a": 62,
+    "selected_mode_b": 50,
+    "skipped": {
+      "anchor_already_used": 302,
+      "overlaps_kept_window": 86,
+      "episode_cap": 124
+    },
+    "episodes_without_candidates": [],
+    "episodes_without_anchors": []
+  },
+  "candidates": [
+    {
+      "cand_id": "A-E01-026-051",
+      "mode": "A",
+      "segments": [
+        {
+          "episode": 1,
+          "start_sec": 39.1,
+          "end_sec": 78.5,
+          "first_beat": "E01.B026",
+          "last_beat": "E01.B051",
+          "role": "arc"
+        }
+      ],
+      "hook_beat": "E01.B026",
+      "cliff_beat": "E01.B051",
+      "hook_intensity": 9,
+      "cliffhanger_tension": 8,
+      "hook_offset": 0.0,
+      "prior": 16.94,
+      "notes": []
+    },
+    {
+      "cand_id": "B-E02B066-E01B091",
+      "mode": "B",
+      "segments": [
+        {
+          "episode": 2,
+          "start_sec": 93.4,
+          "end_sec": 96.6,
+          "first_beat": "E02.B066",
+          "last_beat": "E02.B066",
+          "role": "flash_forward"
+        },
+        {
+          "episode": 1,
+          "start_sec": 98.8,
+          "end_sec": 137.0,
+          "first_beat": "E01.B068",
+          "last_beat": "E01.B093",
+          "role": "scene_body"
+        }
+      ],
+      "hook_beat": "E02.B066",
+      "cliff_beat": "E01.B091",
+      "hook_intensity": 9,
+      "cliffhanger_tension": 9,
+      "hook_offset": 0.0,
+      "prior": 17.11,
+      "notes": [
+        "flash-forward from episode 2 3.2s, then episode 1 body"
+      ]
+    },
+    {
+      "cand_id": "B-E01B074-E01B031",
+      "mode": "B",
+      "segments": [
+        {
+          "episode": 1,
+          "start_sec": 107.5,
+          "end_sec": 110.8,
+          "first_beat": "E01.B074",
+          "last_beat": "E01.B075",
+          "role": "flash_forward"
+        },
+        {
+          "episode": 1,
+          "start_sec": 13.5,
+          "end_sec": 50.0,
+          "first_beat": "E01.B008",
+          "last_beat": "E01.B031",
+          "role": "scene_body"
+        }
+      ],
+      "hook_beat": "E01.B074",
+      "cliff_beat": "E01.B031",
+      "hook_intensity": 9,
+      "cliffhanger_tension": 7,
+      "hook_offset": 0.0,
+      "prior": 15.23,
+      "notes": [
+        "flash-forward from episode 1 3.3s, then episode 1 body"
+      ]
+    },
+    {
+      "cand_id": "A-E02-001-029",
+      "mode": "A",
+      "segments": [
+        {
+          "episode": 2,
+          "start_sec": 0.0,
+          "end_sec": 44.7,
+          "first_beat": "E02.B000",
+          "last_beat": "E02.B029",
+          "role": "arc"
+        }
+      ],
+      "hook_beat": "E02.B001",
+      "cliff_beat": "E02.B029",
+      "hook_intensity": 9,
+      "cliffhanger_tension": 7,
+      "hook_offset": 0.0,
+      "prior": 15.53,
+      "notes": []
+    },
+    {
+      "cand_id": "B-E03B058-E02B066",
+      "mode": "B",
+      "segments": [
+        {
+          "episode": 3,
+          "start_sec": 69.9,
+          "end_sec": 76.8,
+          "first_beat": "E03.B058",
+          "last_beat": "E03.B062",
+          "role": "flash_forward"
+        },
+        {
+          "episode": 2,
+          "start_sec": 63.5,
+          "end_sec": 96.6,
+          "first_beat": "E02.B045",
+          "last_beat": "E02.B066",
+          "role": "scene_body"
+        }
+      ],
+      "hook_beat": "E03.B058",
+      "cliff_beat": "E02.B066",
+      "hook_intensity": 9,
+      "cliffhanger_tension": 8,
+      "hook_offset": 0.0,
+      "prior": 16.25,
+      "notes": [
+        "flash-forward from episode 3 6.9s, then episode 2 body"
+      ]
+    },
+    {
+      "cand_id": "A-E03-006-044",
+      "mode": "A",
+      "segments": [
+        {
+          "episode": 3,
+          "start_sec": 8.8,
+          "end_sec": 58.2,
+          "first_beat": "E03.B006",
+          "last_beat": "E03.B044",
+          "role": "arc"
+        }
+      ],
+      "hook_beat": "E03.B006",
+      "cliff_beat": "E03.B044",
+      "hook_intensity": 7,
+      "cliffhanger_tension": 7,
+      "hook_offset": 0.0,
+      "prior": 13.06,
+      "notes": []
+    },
+    {
+      "cand_id": "A-E03-070-115",
+      "mode": "A",
+      "segments": [
+        {
+          "episode": 3,
+          "start_sec": 84.0,
+          "end_sec": 140.3,
+          "first_beat": "E03.B069",
+          "last_beat": "E03.B115",
+          "role": "arc"
+        }
+      ],
+      "hook_beat": "E03.B070",
+      "cliff_beat": "E03.B115",
+      "hook_intensity": 9,
+      "cliffhanger_tension": 10,
+      "hook_offset": 0.0,
+      "prior": 17.37,
+      "notes": []
+    },
+    {
+      "cand_id": "B-E04B096-E03B061",
+      "mode": "B",
+      "segments": [
+        {
+          "episode": 4,
+          "start_sec": 127.5,
+          "end_sec": 131.5,
+          "first_beat": "E04.B096",
+          "last_beat": "E04.B096",
+          "role": "flash_forward"
+        },
+        {
+          "episode": 3,
+          "start_sec": 40.5,
+          "end_sec": 76.8,
+          "first_beat": "E03.B030",
+          "last_beat": "E03.B062",
+          "role": "scene_body"
+        }
+      ],
+      "hook_beat": "E04.B096",
+      "cliff_beat": "E03.B061",
+      "hook_intensity": 9,
+      "cliffhanger_tension": 8,
+      "hook_offset": 0.0,
+      "prior": 16.22,
+      "notes": [
+        "flash-forward from episode 4 4.0s, then episode 3 body"
+      ]
+    },
+    {
+      "cand_id": "A-E04-011-045",
+      "mode": "A",
+      "segments": [
+        {
+          "episode": 4,
+          "start_sec": 10.6,
+          "end_sec": 65.5,
+          "first_beat": "E04.B011",
+          "last_beat": "E04.B045",
+          "role": "arc"
+        }
+      ],
+      "hook_beat": "E04.B011",
+      "cliff_beat": "E04.B045",
+      "hook_intensity": 8,
+      "cliffhanger_tension": 8,
+      "hook_offset": 0.0,
+      "prior": 14.51,
+      "notes": []
+    },
+    {
+      "cand_id": "B-E05B016-E04B081",
+      "mode": "B",
+      "segments": [
+        {
+          "episode": 5,
+          "start_sec": 25.4,
+          "end_sec": 28.9,
+          "first_beat": "E05.B016",
+          "last_beat": "E05.B016",
+          "role": "flash_forward"
+        },
+        {
+          "episode": 4,
+          "start_sec": 76.2,
+          "end_sec": 113.0,
+          "first_beat": "E04.B055",
+          "last_beat": "E04.B082",
+          "role": "scene_body"
+        }
+      ],
+      "hook_beat": "E05.B016",
+      "cliff_beat": "E04.B081",
+      "hook_intensity": 8,
+      "cliffhanger_tension": 8,
+      "hook_offset": 0.0,
+      "prior": 15.22,
+      "notes": [
+        "flash-forward from episode 5 3.5s, then episode 4 body"
+      ]
+    },
+    {
+      "cand_id": "A-E04-086-108",
+      "mode": "A",
+      "segments": [
+        {
+          "episode": 4,
+          "start_sec": 115.0,
+          "end_sec": 151.4,
+          "first_beat": "E04.B086",
+          "last_beat": "E04.B109",
+          "role": "arc"
+        }
+      ],
+      "hook_beat": "E04.B086",
+      "cliff_beat": "E04.B108",
+      "hook_intensity": 8,
+      "cliffhanger_tension": 9,
+      "hook_offset": 0.0,
+      "prior": 16.64,
+      "notes": []
+    },
+    {
+      "cand_id": "A-E05-031-057",
+      "mode": "A",
+      "segments": [
+        {
+          "episode": 5,
+          "start_sec": 54.5,
+          "end_sec": 100.8,
+          "first_beat": "E05.B031",
+          "last_beat": "E05.B057",
+          "role": "arc"
+        }
+      ],
+      "hook_beat": "E05.B031",
+      "cliff_beat": "E05.B057",
+      "hook_intensity": 9,
+      "cliffhanger_tension": 8,
+      "hook_offset": 0.0,
+      "prior": 16.37,
+      "notes": []
+    },
+    {
+      "cand_id": "B-E05B055-E05B016",
+      "mode": "B",
+      "segments": [
+        {
+          "episode": 5,
+          "start_sec": 93.0,
+          "end_sec": 96.5,
+          "first_beat": "E05.B055",
+          "last_beat": "E05.B055",
+          "role": "flash_forward"
+        },
+        {
+          "episode": 5,
+          "start_sec": 0.0,
+          "end_sec": 28.9,
+          "first_beat": "E05.B000",
+          "last_beat": "E05.B016",
+          "role": "scene_body"
+        }
+      ],
+      "hook_beat": "E05.B055",
+      "cliff_beat": "E05.B016",
+      "hook_intensity": 7,
+      "cliffhanger_tension": 7,
+      "hook_offset": 0.0,
+      "prior": 12.49,
+      "notes": [
+        "flash-forward from episode 5 3.5s, then episode 5 body"
+      ]
+    },
+    {
+      "cand_id": "B-E05B057-E05B029",
+      "mode": "B",
+      "segments": [
+        {
+          "episode": 5,
+          "start_sec": 98.0,
+          "end_sec": 105.2,
+          "first_beat": "E05.B057",
+          "last_beat": "E05.B059",
+          "role": "flash_forward"
+        },
+        {
+          "episode": 5,
+          "start_sec": 21.0,
+          "end_sec": 54.0,
+          "first_beat": "E05.B013",
+          "last_beat": "E05.B029",
+          "role": "scene_body"
+        }
+      ],
+      "hook_beat": "E05.B057",
+      "cliff_beat": "E05.B029",
+      "hook_intensity": 8,
+      "cliffhanger_tension": 8,
+      "hook_offset": 0.0,
+      "prior": 15.23,
+      "notes": [
+        "flash-forward from episode 5 7.2s, then episode 5 body"
+      ]
+    },
+    {
+      "cand_id": "A-E06-028-051",
+      "mode": "A",
+      "segments": [
+        {
+          "episode": 6,
+          "start_sec": 30.15,
+          "end_sec": 60.0,
+          "first_beat": "E06.B027",
+          "last_beat": "E06.B052",
+          "role": "arc"
+        }
+      ],
+      "hook_beat": "E06.B028",
+      "cliff_beat": "E06.B051",
+      "hook_intensity": 6,
+      "cliffhanger_tension": 6,
+      "hook_offset": 0.0,
+      "prior": 10.985,
+      "notes": []
+    },
+    {
+      "cand_id": "B-E07B031-E06B062",
+      "mode": "B",
+      "segments": [
+        {
+          "episode": 7,
+          "start_sec": 65.6,
+          "end_sec": 69.5,
+          "first_beat": "E07.B031",
+          "last_beat": "E07.B032",
+          "role": "flash_forward"
+        },
+        {
+          "episode": 6,
+          "start_sec": 36.7,
+          "end_sec": 73.2,
+          "first_beat": "E06.B032",
+          "last_beat": "E06.B063",
+          "role": "scene_body"
+        }
+      ],
+      "hook_beat": "E07.B031",
+      "cliff_beat": "E06.B062",
+      "hook_intensity": 8,
+      "cliffhanger_tension": 7,
+      "hook_offset": 0.0,
+      "prior": 14.21,
+      "notes": [
+        "flash-forward from episode 7 3.9s, then episode 6 body"
+      ]
+    },
+    {
+      "cand_id": "A-E06-062-093",
+      "mode": "A",
+      "segments": [
+        {
+          "episode": 6,
+          "start_sec": 70.1,
+          "end_sec": 109.0,
+          "first_beat": "E06.B062",
+          "last_beat": "E06.B093",
+          "role": "arc"
+        }
+      ],
+      "hook_beat": "E06.B062",
+      "cliff_beat": "E06.B093",
+      "hook_intensity": 7,
+      "cliffhanger_tension": 5,
+      "hook_offset": 0.0,
+      "prior": 11.89,
+      "notes": []
+    },
+    {
+      "cand_id": "A-E07-010-031",
+      "mode": "A",
+      "segments": [
+        {
+          "episode": 7,
+          "start_sec": 25.0,
+          "end_sec": 68.5,
+          "first_beat": "E07.B010",
+          "last_beat": "E07.B031",
+          "role": "arc"
+        }
+      ],
+      "hook_beat": "E07.B010",
+      "cliff_beat": "E07.B031",
+      "hook_intensity": 7,
+      "cliffhanger_tension": 8,
+      "hook_offset": 0.0,
+      "prior": 14.65,
+      "notes": []
+    },
+    {
+      "cand_id": "A-E07-027-040",
+      "mode": "A",
+      "segments": [
+        {
+          "episode": 7,
+          "start_sec": 57.8,
+          "end_sec": 84.0,
+          "first_beat": "E07.B027",
+          "last_beat": "E07.B042",
+          "role": "arc"
+        }
+      ],
+      "hook_beat": "E07.B027",
+      "cliff_beat": "E07.B040",
+      "hook_intensity": 7,
+      "cliffhanger_tension": 8,
+      "hook_offset": 0.0,
+      "prior": 13.62,
+      "notes": []
+    },
+    {
+      "cand_id": "B-E09B008-E08B052",
+      "mode": "B",
+      "segments": [
+        {
+          "episode": 9,
+          "start_sec": 6.3,
+          "end_sec": 11.1,
+          "first_beat": "E09.B008",
+          "last_beat": "E09.B008",
+          "role": "flash_forward"
+        },
+        {
+          "episode": 8,
+          "start_sec": 30.1,
+          "end_sec": 64.2,
+          "first_beat": "E08.B025",
+          "last_beat": "E08.B052",
+          "role": "scene_body"
+        }
+      ],
+      "hook_beat": "E09.B008",
+      "cliff_beat": "E08.B052",
+      "hook_intensity": 7,
+      "cliffhanger_tension": 7,
+      "hook_offset": 0.0,
+      "prior": 13.14,
+      "notes": [
+        "flash-forward from episode 9 4.8s, then episode 8 body"
+      ]
+    },
+    {
+      "cand_id": "B-E09B078-E08B028",
+      "mode": "B",
+      "segments": [
+        {
+          "episode": 9,
+          "start_sec": 97.5,
+          "end_sec": 101.2,
+          "first_beat": "E09.B078",
+          "last_beat": "E09.B079",
+          "role": "flash_forward"
+        },
+        {
+          "episode": 8,
+          "start_sec": 0.0,
+          "end_sec": 34.5,
+          "first_beat": "E08.B000",
+          "last_beat": "E08.B028",
+          "role": "scene_body"
+        }
+      ],
+      "hook_beat": "E09.B078",
+      "cliff_beat": "E08.B028",
+      "hook_intensity": 8,
+      "cliffhanger_tension": 7,
+      "hook_offset": 0.0,
+      "prior": 14.07,
+      "notes": [
+        "flash-forward from episode 9 3.7s, then episode 8 body"
+      ]
+    },
+    {
+      "cand_id": "B-E10B026-E09B055",
+      "mode": "B",
+      "segments": [
+        {
+          "episode": 10,
+          "start_sec": 33.2,
+          "end_sec": 36.5,
+          "first_beat": "E10.B026",
+          "last_beat": "E10.B026",
+          "role": "flash_forward"
+        },
+        {
+          "episode": 9,
+          "start_sec": 40.8,
+          "end_sec": 77.5,
+          "first_beat": "E09.B031",
+          "last_beat": "E09.B058",
+          "role": "scene_body"
+        }
+      ],
+      "hook_beat": "E10.B026",
+      "cliff_beat": "E09.B055",
+      "hook_intensity": 8,
+      "cliffhanger_tension": 7,
+      "hook_offset": 0.0,
+      "prior": 14.25,
+      "notes": [
+        "flash-forward from episode 10 3.3s, then episode 9 body"
+      ]
+    },
+    {
+      "cand_id": "B-E10B058-E09B088",
+      "mode": "B",
+      "segments": [
+        {
+          "episode": 10,
+          "start_sec": 82.6,
+          "end_sec": 85.9,
+          "first_beat": "E10.B058",
+          "last_beat": "E10.B058",
+          "role": "flash_forward"
+        },
+        {
+          "episode": 9,
+          "start_sec": 84.0,
+          "end_sec": 115.5,
+          "first_beat": "E09.B066",
+          "last_beat": "E09.B088",
+          "role": "scene_body"
+        }
+      ],
+      "hook_beat": "E10.B058",
+      "cliff_beat": "E09.B088",
+      "hook_intensity": 9,
+      "cliffhanger_tension": 9,
+      "hook_offset": 0.0,
+      "prior": 16.73,
+      "notes": [
+        "flash-forward from episode 10 3.3s, then episode 9 body"
+      ]
+    },
+    {
+      "cand_id": "A-E10-004-023",
+      "mode": "A",
+      "segments": [
+        {
+          "episode": 10,
+          "start_sec": 2.6,
+          "end_sec": 28.0,
+          "first_beat": "E10.B004",
+          "last_beat": "E10.B023",
+          "role": "arc"
+        }
+      ],
+      "hook_beat": "E10.B004",
+      "cliff_beat": "E10.B023",
+      "hook_intensity": 8,
+      "cliffhanger_tension": 7,
+      "hook_offset": 0.0,
+      "prior": 13.54,
+      "notes": []
+    },
+    {
+      "cand_id": "B-E11B077-E10B058",
+      "mode": "B",
+      "segments": [
+        {
+          "episode": 11,
+          "start_sec": 93.2,
+          "end_sec": 96.8,
+          "first_beat": "E11.B077",
+          "last_beat": "E11.B078",
+          "role": "flash_forward"
+        },
+        {
+          "episode": 10,
+          "start_sec": 49.7,
+          "end_sec": 85.9,
+          "first_beat": "E10.B037",
+          "last_beat": "E10.B058",
+          "role": "scene_body"
+        }
+      ],
+      "hook_beat": "E11.B077",
+      "cliff_beat": "E10.B058",
+      "hook_intensity": 9,
+      "cliffhanger_tension": 9,
+      "hook_offset": 0.0,
+      "prior": 17.23,
+      "notes": [
+        "flash-forward from episode 11 3.6s, then episode 10 body"
+      ]
+    },
+    {
+      "cand_id": "B-E12B001-E11B073",
+      "mode": "B",
+      "segments": [
+        {
+          "episode": 12,
+          "start_sec": 0.5,
+          "end_sec": 4.5,
+          "first_beat": "E12.B001",
+          "last_beat": "E12.B001",
+          "role": "flash_forward"
+        },
+        {
+          "episode": 11,
+          "start_sec": 54.5,
+          "end_sec": 90.0,
+          "first_beat": "E11.B048",
+          "last_beat": "E11.B074",
+          "role": "scene_body"
+        }
+      ],
+      "hook_beat": "E12.B001",
+      "cliff_beat": "E11.B073",
+      "hook_intensity": 8,
+      "cliffhanger_tension": 7,
+      "hook_offset": 0.0,
+      "prior": 14.2,
+      "notes": [
+        "flash-forward from episode 12 4.0s, then episode 11 body"
+      ]
+    },
+    {
+      "cand_id": "B-E12B021-E11B029",
+      "mode": "B",
+      "segments": [
+        {
+          "episode": 12,
+          "start_sec": 30.0,
+          "end_sec": 35.2,
+          "first_beat": "E12.B020",
+          "last_beat": "E12.B023",
+          "role": "flash_forward"
+        },
+        {
+          "episode": 11,
+          "start_sec": 0.0,
+          "end_sec": 34.9,
+          "first_beat": "E11.B000",
+          "last_beat": "E11.B029",
+          "role": "scene_body"
+        }
+      ],
+      "hook_beat": "E12.B021",
+      "cliff_beat": "E11.B029",
+      "hook_intensity": 8,
+      "cliffhanger_tension": 7,
+      "hook_offset": 0.0,
+      "prior": 14.24,
+      "notes": [
+        "flash-forward from episode 12 5.2s, then episode 11 body"
+      ]
+    },
+    {
+      "cand_id": "B-E12B044-E11B084",
+      "mode": "B",
+      "segments": [
+        {
+          "episode": 12,
+          "start_sec": 65.4,
+          "end_sec": 69.2,
+          "first_beat": "E12.B044",
+          "last_beat": "E12.B044",
+          "role": "flash_forward"
+        },
+        {
+          "episode": 11,
+          "start_sec": 75.5,
+          "end_sec": 112.75,
+          "first_beat": "E11.B064",
+          "last_beat": "E11.B084",
+          "role": "scene_body"
+        }
+      ],
+      "hook_beat": "E12.B044",
+      "cliff_beat": "E11.B084",
+      "hook_intensity": 9,
+      "cliffhanger_tension": 10,
+      "hook_offset": 0.0,
+      "prior": 18.145,
+      "notes": [
+        "flash-forward from episode 12 3.8s, then episode 11 body"
+      ]
+    },
+    {
+      "cand_id": "A-E12-031-053",
+      "mode": "A",
+      "segments": [
+        {
+          "episode": 12,
+          "start_sec": 44.0,
+          "end_sec": 84.7,
+          "first_beat": "E12.B031",
+          "last_beat": "E12.B053",
+          "role": "arc"
+        }
+      ],
+      "hook_beat": "E12.B031",
+      "cliff_beat": "E12.B053",
+      "hook_intensity": 8,
+      "cliffhanger_tension": 9,
+      "hook_offset": 0.0,
+      "prior": 16.93,
+      "notes": []
+    },
+    {
+      "cand_id": "B-E14B016-E13B043",
+      "mode": "B",
+      "segments": [
+        {
+          "episode": 14,
+          "start_sec": 23.1,
+          "end_sec": 28.5,
+          "first_beat": "E14.B016",
+          "last_beat": "E14.B018",
+          "role": "flash_forward"
+        },
+        {
+          "episode": 13,
+          "start_sec": 45.8,
+          "end_sec": 67.0,
+          "first_beat": "E13.B025",
+          "last_beat": "E13.B043",
+          "role": "scene_body"
+        }
+      ],
+      "hook_beat": "E14.B016",
+      "cliff_beat": "E13.B043",
+      "hook_intensity": 8,
+      "cliffhanger_tension": 7,
+      "hook_offset": 0.0,
+      "prior": 12.91,
+      "notes": [
+        "flash-forward from episode 14 5.4s, then episode 13 body"
+      ]
+    },
+    {
+      "cand_id": "B-E14B046-E13B030",
+      "mode": "B",
+      "segments": [
+        {
+          "episode": 14,
+          "start_sec": 76.5,
+          "end_sec": 81.0,
+          "first_beat": "E14.B046",
+          "last_beat": "E14.B046",
+          "role": "flash_forward"
+        },
+        {
+          "episode": 13,
+          "start_sec": 14.4,
+          "end_sec": 53.0,
+          "first_beat": "E13.B009",
+          "last_beat": "E13.B033",
+          "role": "scene_body"
+        }
+      ],
+      "hook_beat": "E14.B046",
+      "cliff_beat": "E13.B030",
+      "hook_intensity": 8,
+      "cliffhanger_tension": 8,
+      "hook_offset": 0.0,
+      "prior": 14.94,
+      "notes": [
+        "flash-forward from episode 14 4.5s, then episode 13 body"
+      ]
+    },
+    {
+      "cand_id": "A-E13-052-074",
+      "mode": "A",
+      "segments": [
+        {
+          "episode": 13,
+          "start_sec": 80.5,
+          "end_sec": 118.88,
+          "first_beat": "E13.B052",
+          "last_beat": "E13.B074",
+          "role": "arc"
+        }
+      ],
+      "hook_beat": "E13.B052",
+      "cliff_beat": "E13.B074",
+      "hook_intensity": 8,
+      "cliffhanger_tension": 9,
+      "hook_offset": 0.0,
+      "prior": 16.838,
+      "notes": []
+    },
+    {
+      "cand_id": "B-E15B041-E14B016",
+      "mode": "B",
+      "segments": [
+        {
+          "episode": 15,
+          "start_sec": 60.0,
+          "end_sec": 67.5,
+          "first_beat": "E15.B041",
+          "last_beat": "E15.B045",
+          "role": "flash_forward"
+        },
+        {
+          "episode": 14,
+          "start_sec": 0.5,
+          "end_sec": 25.0,
+          "first_beat": "E14.B001",
+          "last_beat": "E14.B016",
+          "role": "scene_body"
+        }
+      ],
+      "hook_beat": "E15.B041",
+      "cliff_beat": "E14.B016",
+      "hook_intensity": 8,
+      "cliffhanger_tension": 7,
+      "hook_offset": 0.0,
+      "prior": 13.45,
+      "notes": [
+        "flash-forward from episode 15 7.5s, then episode 14 body"
+      ]
+    },
+    {
+      "cand_id": "B-E15B045-E14B049",
+      "mode": "B",
+      "segments": [
+        {
+          "episode": 15,
+          "start_sec": 63.5,
+          "end_sec": 67.5,
+          "first_beat": "E15.B045",
+          "last_beat": "E15.B045",
+          "role": "flash_forward"
+        },
+        {
+          "episode": 14,
+          "start_sec": 51.8,
+          "end_sec": 87.0,
+          "first_beat": "E14.B033",
+          "last_beat": "E14.B050",
+          "role": "scene_body"
+        }
+      ],
+      "hook_beat": "E15.B045",
+      "cliff_beat": "E14.B049",
+      "hook_intensity": 8,
+      "cliffhanger_tension": 9,
+      "hook_offset": 0.0,
+      "prior": 16.17,
+      "notes": [
+        "flash-forward from episode 15 4.0s, then episode 14 body"
+      ]
+    },
+    {
+      "cand_id": "A-E15-006-034",
+      "mode": "A",
+      "segments": [
+        {
+          "episode": 15,
+          "start_sec": 5.1,
+          "end_sec": 49.5,
+          "first_beat": "E15.B006",
+          "last_beat": "E15.B034",
+          "role": "arc"
+        }
+      ],
+      "hook_beat": "E15.B006",
+      "cliff_beat": "E15.B034",
+      "hook_intensity": 8,
+      "cliffhanger_tension": 7,
+      "hook_offset": 0.0,
+      "prior": 14.56,
+      "notes": []
+    },
+    {
+      "cand_id": "A-E15-033-054",
+      "mode": "A",
+      "segments": [
+        {
+          "episode": 15,
+          "start_sec": 47.4,
+          "end_sec": 86.0,
+          "first_beat": "E15.B033",
+          "last_beat": "E15.B054",
+          "role": "arc"
+        }
+      ],
+      "hook_beat": "E15.B033",
+      "cliff_beat": "E15.B054",
+      "hook_intensity": 9,
+      "cliffhanger_tension": 9,
+      "hook_offset": 0.0,
+      "prior": 17.86,
+      "notes": []
+    },
+    {
+      "cand_id": "A-E16-013-043",
+      "mode": "A",
+      "segments": [
+        {
+          "episode": 16,
+          "start_sec": 14.4,
+          "end_sec": 52.2,
+          "first_beat": "E16.B012",
+          "last_beat": "E16.B043",
+          "role": "arc"
+        }
+      ],
+      "hook_beat": "E16.B013",
+      "cliff_beat": "E16.B043",
+      "hook_intensity": 8,
+      "cliffhanger_tension": 8,
+      "hook_offset": 0.0,
+      "prior": 15.78,
+      "notes": []
+    },
+    {
+      "cand_id": "A-E16-043-062",
+      "mode": "A",
+      "segments": [
+        {
+          "episode": 16,
+          "start_sec": 49.8,
+          "end_sec": 83.19,
+          "first_beat": "E16.B042",
+          "last_beat": "E16.B063",
+          "role": "arc"
+        }
+      ],
+      "hook_beat": "E16.B043",
+      "cliff_beat": "E16.B062",
+      "hook_intensity": 9,
+      "cliffhanger_tension": 8,
+      "hook_offset": 0.0,
+      "prior": 16.339,
+      "notes": []
+    },
+    {
+      "cand_id": "B-E18B039-E17B024",
+      "mode": "B",
+      "segments": [
+        {
+          "episode": 18,
+          "start_sec": 70.5,
+          "end_sec": 73.5,
+          "first_beat": "E18.B039",
+          "last_beat": "E18.B039",
+          "role": "flash_forward"
+        },
+        {
+          "episode": 17,
+          "start_sec": 0.0,
+          "end_sec": 34.2,
+          "first_beat": "E17.B000",
+          "last_beat": "E17.B024",
+          "role": "scene_body"
+        }
+      ],
+      "hook_beat": "E18.B039",
+      "cliff_beat": "E17.B024",
+      "hook_intensity": 8,
+      "cliffhanger_tension": 6,
+      "hook_offset": 0.0,
+      "prior": 12.97,
+      "notes": [
+        "flash-forward from episode 18 3.0s, then episode 17 body"
+      ]
+    },
+    {
+      "cand_id": "A-E17-044-056",
+      "mode": "A",
+      "segments": [
+        {
+          "episode": 17,
+          "start_sec": 60.8,
+          "end_sec": 90.0,
+          "first_beat": "E17.B044",
+          "last_beat": "E17.B056",
+          "role": "arc"
+        }
+      ],
+      "hook_beat": "E17.B044",
+      "cliff_beat": "E17.B056",
+      "hook_intensity": 8,
+      "cliffhanger_tension": 5,
+      "hook_offset": 0.0,
+      "prior": 11.92,
+      "notes": []
+    },
+    {
+      "cand_id": "B-E18B077-E17B073",
+      "mode": "B",
+      "segments": [
+        {
+          "episode": 18,
+          "start_sec": 171.8,
+          "end_sec": 177.2,
+          "first_beat": "E18.B077",
+          "last_beat": "E18.B077",
+          "role": "flash_forward"
+        },
+        {
+          "episode": 17,
+          "start_sec": 81.2,
+          "end_sec": 116.0,
+          "first_beat": "E17.B052",
+          "last_beat": "E17.B074",
+          "role": "scene_body"
+        }
+      ],
+      "hook_beat": "E18.B077",
+      "cliff_beat": "E17.B073",
+      "hook_intensity": 8,
+      "cliffhanger_tension": 7,
+      "hook_offset": 0.0,
+      "prior": 14.23,
+      "notes": [
+        "flash-forward from episode 18 5.4s, then episode 17 body"
+      ]
+    },
+    {
+      "cand_id": "B-E19B002-E18B079",
+      "mode": "B",
+      "segments": [
+        {
+          "episode": 19,
+          "start_sec": 1.8,
+          "end_sec": 9.2,
+          "first_beat": "E19.B002",
+          "last_beat": "E19.B005",
+          "role": "flash_forward"
+        },
+        {
+          "episode": 18,
+          "start_sec": 153.2,
+          "end_sec": 186.5,
+          "first_beat": "E18.B071",
+          "last_beat": "E18.B079",
+          "role": "scene_body"
+        }
+      ],
+      "hook_beat": "E19.B002",
+      "cliff_beat": "E18.B079",
+      "hook_intensity": 7,
+      "cliffhanger_tension": 9,
+      "hook_offset": 0.0,
+      "prior": 15.18,
+      "notes": [
+        "flash-forward from episode 19 7.4s, then episode 18 body"
+      ]
+    },
+    {
+      "cand_id": "A-E18-011-034",
+      "mode": "A",
+      "segments": [
+        {
+          "episode": 18,
+          "start_sec": 17.8,
+          "end_sec": 62.5,
+          "first_beat": "E18.B010",
+          "last_beat": "E18.B034",
+          "role": "arc"
+        }
+      ],
+      "hook_beat": "E18.B011",
+      "cliff_beat": "E18.B034",
+      "hook_intensity": 8,
+      "cliffhanger_tension": 6,
+      "hook_offset": 1.7,
+      "prior": 13.53,
+      "notes": []
+    },
+    {
+      "cand_id": "A-E18-059-070",
+      "mode": "A",
+      "segments": [
+        {
+          "episode": 18,
+          "start_sec": 111.5,
+          "end_sec": 155.0,
+          "first_beat": "E18.B059",
+          "last_beat": "E18.B071",
+          "role": "arc"
+        }
+      ],
+      "hook_beat": "E18.B059",
+      "cliff_beat": "E18.B070",
+      "hook_intensity": 9,
+      "cliffhanger_tension": 7,
+      "hook_offset": 0.0,
+      "prior": 15.65,
+      "notes": []
+    },
+    {
+      "cand_id": "B-E20B026-E19B046",
+      "mode": "B",
+      "segments": [
+        {
+          "episode": 20,
+          "start_sec": 39.4,
+          "end_sec": 42.4,
+          "first_beat": "E20.B026",
+          "last_beat": "E20.B026",
+          "role": "flash_forward"
+        },
+        {
+          "episode": 19,
+          "start_sec": 47.1,
+          "end_sec": 83.7,
+          "first_beat": "E19.B029",
+          "last_beat": "E19.B046",
+          "role": "scene_body"
+        }
+      ],
+      "hook_beat": "E20.B026",
+      "cliff_beat": "E19.B046",
+      "hook_intensity": 9,
+      "cliffhanger_tension": 9,
+      "hook_offset": 0.0,
+      "prior": 17.21,
+      "notes": [
+        "flash-forward from episode 20 3.0s, then episode 19 body"
+      ]
+    },
+    {
+      "cand_id": "B-E21B004-E20B033",
+      "mode": "B",
+      "segments": [
+        {
+          "episode": 21,
+          "start_sec": 4.2,
+          "end_sec": 8.0,
+          "first_beat": "E21.B004",
+          "last_beat": "E21.B004",
+          "role": "flash_forward"
+        },
+        {
+          "episode": 20,
+          "start_sec": 20.1,
+          "end_sec": 56.0,
+          "first_beat": "E20.B013",
+          "last_beat": "E20.B033",
+          "role": "scene_body"
+        }
+      ],
+      "hook_beat": "E21.B004",
+      "cliff_beat": "E20.B033",
+      "hook_intensity": 9,
+      "cliffhanger_tension": 7,
+      "hook_offset": 0.0,
+      "prior": 15.22,
+      "notes": [
+        "flash-forward from episode 21 3.8s, then episode 20 body"
+      ]
+    },
+    {
+      "cand_id": "B-E21B015-E20B021",
+      "mode": "B",
+      "segments": [
+        {
+          "episode": 21,
+          "start_sec": 21.8,
+          "end_sec": 27.4,
+          "first_beat": "E21.B014",
+          "last_beat": "E21.B017",
+          "role": "flash_forward"
+        },
+        {
+          "episode": 20,
+          "start_sec": 2.9,
+          "end_sec": 36.8,
+          "first_beat": "E20.B002",
+          "last_beat": "E20.B023",
+          "role": "scene_body"
+        }
+      ],
+      "hook_beat": "E21.B015",
+      "cliff_beat": "E20.B021",
+      "hook_intensity": 8,
+      "cliffhanger_tension": 6,
+      "hook_offset": 0.0,
+      "prior": 13.2,
+      "notes": [
+        "flash-forward from episode 21 5.6s, then episode 20 body"
+      ]
+    },
+    {
+      "cand_id": "A-E20-040-066",
+      "mode": "A",
+      "segments": [
+        {
+          "episode": 20,
+          "start_sec": 66.7,
+          "end_sec": 109.2,
+          "first_beat": "E20.B039",
+          "last_beat": "E20.B066",
+          "role": "arc"
+        }
+      ],
+      "hook_beat": "E20.B040",
+      "cliff_beat": "E20.B066",
+      "hook_intensity": 8,
+      "cliffhanger_tension": 9,
+      "hook_offset": 0.0,
+      "prior": 16.75,
+      "notes": []
+    },
+    {
+      "cand_id": "B-E22B075-E21B069",
+      "mode": "B",
+      "segments": [
+        {
+          "episode": 22,
+          "start_sec": 123.5,
+          "end_sec": 127.0,
+          "first_beat": "E22.B075",
+          "last_beat": "E22.B077",
+          "role": "flash_forward"
+        },
+        {
+          "episode": 21,
+          "start_sec": 64.5,
+          "end_sec": 101.2,
+          "first_beat": "E21.B045",
+          "last_beat": "E21.B069",
+          "role": "scene_body"
+        }
+      ],
+      "hook_beat": "E22.B075",
+      "cliff_beat": "E21.B069",
+      "hook_intensity": 9,
+      "cliffhanger_tension": 9,
+      "hook_offset": 0.0,
+      "prior": 17.23,
+      "notes": [
+        "flash-forward from episode 22 3.5s, then episode 21 body"
+      ]
+    },
+    {
+      "cand_id": "B-E23B005-E22B046",
+      "mode": "B",
+      "segments": [
+        {
+          "episode": 23,
+          "start_sec": 11.8,
+          "end_sec": 16.8,
+          "first_beat": "E23.B005",
+          "last_beat": "E23.B006",
+          "role": "flash_forward"
+        },
+        {
+          "episode": 22,
+          "start_sec": 43.0,
+          "end_sec": 77.5,
+          "first_beat": "E22.B023",
+          "last_beat": "E22.B046",
+          "role": "scene_body"
+        }
+      ],
+      "hook_beat": "E23.B005",
+      "cliff_beat": "E22.B046",
+      "hook_intensity": 7,
+      "cliffhanger_tension": 5,
+      "hook_offset": 0.0,
+      "prior": 11.2,
+      "notes": [
+        "flash-forward from episode 23 5.0s, then episode 22 body"
+      ]
+    },
+    {
+      "cand_id": "B-E23B039-E22B080",
+      "mode": "B",
+      "segments": [
+        {
+          "episode": 23,
+          "start_sec": 79.0,
+          "end_sec": 84.0,
+          "first_beat": "E23.B039",
+          "last_beat": "E23.B042",
+          "role": "flash_forward"
+        },
+        {
+          "episode": 22,
+          "start_sec": 105.5,
+          "end_sec": 131.0,
+          "first_beat": "E22.B063",
+          "last_beat": "E22.B080",
+          "role": "scene_body"
+        }
+      ],
+      "hook_beat": "E23.B039",
+      "cliff_beat": "E22.B080",
+      "hook_intensity": 9,
+      "cliffhanger_tension": 10,
+      "hook_offset": 0.0,
+      "prior": 17.3,
+      "notes": [
+        "flash-forward from episode 23 5.0s, then episode 22 body"
+      ]
+    },
+    {
+      "cand_id": "A-E23-044-066",
+      "mode": "A",
+      "segments": [
+        {
+          "episode": 23,
+          "start_sec": 86.0,
+          "end_sec": 131.5,
+          "first_beat": "E23.B044",
+          "last_beat": "E23.B066",
+          "role": "arc"
+        }
+      ],
+      "hook_beat": "E23.B044",
+      "cliff_beat": "E23.B066",
+      "hook_intensity": 10,
+      "cliffhanger_tension": 10,
+      "hook_offset": 0.0,
+      "prior": 19.45,
+      "notes": []
+    },
+    {
+      "cand_id": "A-E24-023-067",
+      "mode": "A",
+      "segments": [
+        {
+          "episode": 24,
+          "start_sec": 32.5,
+          "end_sec": 92.0,
+          "first_beat": "E24.B023",
+          "last_beat": "E24.B068",
+          "role": "arc"
+        }
+      ],
+      "hook_beat": "E24.B023",
+      "cliff_beat": "E24.B067",
+      "hook_intensity": 10,
+      "cliffhanger_tension": 9,
+      "hook_offset": 0.0,
+      "prior": 17.05,
+      "notes": []
+    },
+    {
+      "cand_id": "A-E25-023-044",
+      "mode": "A",
+      "segments": [
+        {
+          "episode": 25,
+          "start_sec": 36.0,
+          "end_sec": 75.8,
+          "first_beat": "E25.B023",
+          "last_beat": "E25.B044",
+          "role": "arc"
+        }
+      ],
+      "hook_beat": "E25.B023",
+      "cliff_beat": "E25.B044",
+      "hook_intensity": 9,
+      "cliffhanger_tension": 8,
+      "hook_offset": 0.0,
+      "prior": 16.98,
+      "notes": []
+    },
+    {
+      "cand_id": "B-E26B046-E25B092",
+      "mode": "B",
+      "segments": [
+        {
+          "episode": 26,
+          "start_sec": 109.2,
+          "end_sec": 115.5,
+          "first_beat": "E26.B046",
+          "last_beat": "E26.B048",
+          "role": "flash_forward"
+        },
+        {
+          "episode": 25,
+          "start_sec": 125.8,
+          "end_sec": 159.2,
+          "first_beat": "E25.B074",
+          "last_beat": "E25.B092",
+          "role": "scene_body"
+        }
+      ],
+      "hook_beat": "E26.B046",
+      "cliff_beat": "E25.B092",
+      "hook_intensity": 9,
+      "cliffhanger_tension": 8,
+      "hook_offset": 0.0,
+      "prior": 16.22,
+      "notes": [
+        "flash-forward from episode 26 6.3s, then episode 25 body"
+      ]
+    },
+    {
+      "cand_id": "A-E25-050-065",
+      "mode": "A",
+      "segments": [
+        {
+          "episode": 25,
+          "start_sec": 83.5,
+          "end_sec": 114.4,
+          "first_beat": "E25.B050",
+          "last_beat": "E25.B065",
+          "role": "arc"
+        }
+      ],
+      "hook_beat": "E25.B050",
+      "cliff_beat": "E25.B065",
+      "hook_intensity": 9,
+      "cliffhanger_tension": 7,
+      "hook_offset": 0.0,
+      "prior": 15.09,
+      "notes": []
+    },
+    {
+      "cand_id": "B-E27B025-E26B050",
+      "mode": "B",
+      "segments": [
+        {
+          "episode": 27,
+          "start_sec": 46.4,
+          "end_sec": 51.5,
+          "first_beat": "E27.B025",
+          "last_beat": "E27.B028",
+          "role": "flash_forward"
+        },
+        {
+          "episode": 26,
+          "start_sec": 87.0,
+          "end_sec": 120.88,
+          "first_beat": "E26.B034",
+          "last_beat": "E26.B050",
+          "role": "scene_body"
+        }
+      ],
+      "hook_beat": "E27.B025",
+      "cliff_beat": "E26.B050",
+      "hook_intensity": 8,
+      "cliffhanger_tension": 10,
+      "hook_offset": 0.0,
+      "prior": 17.148,
+      "notes": [
+        "flash-forward from episode 27 5.1s, then episode 26 body"
+      ]
+    },
+    {
+      "cand_id": "A-E27-011-024",
+      "mode": "A",
+      "segments": [
+        {
+          "episode": 27,
+          "start_sec": 17.2,
+          "end_sec": 46.4,
+          "first_beat": "E27.B011",
+          "last_beat": "E27.B024",
+          "role": "arc"
+        }
+      ],
+      "hook_beat": "E27.B011",
+      "cliff_beat": "E27.B024",
+      "hook_intensity": 8,
+      "cliffhanger_tension": 7,
+      "hook_offset": 0.0,
+      "prior": 13.92,
+      "notes": []
+    },
+    {
+      "cand_id": "A-E27-034-063",
+      "mode": "A",
+      "segments": [
+        {
+          "episode": 27,
+          "start_sec": 60.0,
+          "end_sec": 107.5,
+          "first_beat": "E27.B034",
+          "last_beat": "E27.B063",
+          "role": "arc"
+        }
+      ],
+      "hook_beat": "E27.B034",
+      "cliff_beat": "E27.B063",
+      "hook_intensity": 7,
+      "cliffhanger_tension": 8,
+      "hook_offset": 0.0,
+      "prior": 14.25,
+      "notes": []
+    },
+    {
+      "cand_id": "A-E27-072-094",
+      "mode": "A",
+      "segments": [
+        {
+          "episode": 27,
+          "start_sec": 115.1,
+          "end_sec": 150.5,
+          "first_beat": "E27.B072",
+          "last_beat": "E27.B094",
+          "role": "arc"
+        }
+      ],
+      "hook_beat": "E27.B072",
+      "cliff_beat": "E27.B094",
+      "hook_intensity": 9,
+      "cliffhanger_tension": 10,
+      "hook_offset": 0.0,
+      "prior": 18.54,
+      "notes": []
+    },
+    {
+      "cand_id": "B-E29B063-E28B052",
+      "mode": "B",
+      "segments": [
+        {
+          "episode": 29,
+          "start_sec": 99.7,
+          "end_sec": 105.3,
+          "first_beat": "E29.B063",
+          "last_beat": "E29.B066",
+          "role": "flash_forward"
+        },
+        {
+          "episode": 28,
+          "start_sec": 38.2,
+          "end_sec": 72.0,
+          "first_beat": "E28.B030",
+          "last_beat": "E28.B053",
+          "role": "scene_body"
+        }
+      ],
+      "hook_beat": "E29.B063",
+      "cliff_beat": "E28.B052",
+      "hook_intensity": 8,
+      "cliffhanger_tension": 8,
+      "hook_offset": 0.0,
+      "prior": 15.19,
+      "notes": [
+        "flash-forward from episode 29 5.6s, then episode 28 body"
+      ]
+    },
+    {
+      "cand_id": "A-E28-072-094",
+      "mode": "A",
+      "segments": [
+        {
+          "episode": 28,
+          "start_sec": 98.2,
+          "end_sec": 136.7,
+          "first_beat": "E28.B072",
+          "last_beat": "E28.B094",
+          "role": "arc"
+        }
+      ],
+      "hook_beat": "E28.B072",
+      "cliff_beat": "E28.B094",
+      "hook_intensity": 9,
+      "cliffhanger_tension": 8,
+      "hook_offset": 0.0,
+      "prior": 16.85,
+      "notes": []
+    },
+    {
+      "cand_id": "B-E28B086-E28B070",
+      "mode": "B",
+      "segments": [
+        {
+          "episode": 28,
+          "start_sec": 122.0,
+          "end_sec": 125.7,
+          "first_beat": "E28.B085",
+          "last_beat": "E28.B088",
+          "role": "flash_forward"
+        },
+        {
+          "episode": 28,
+          "start_sec": 60.1,
+          "end_sec": 97.0,
+          "first_beat": "E28.B045",
+          "last_beat": "E28.B070",
+          "role": "scene_body"
+        }
+      ],
+      "hook_beat": "E28.B086",
+      "cliff_beat": "E28.B070",
+      "hook_intensity": 8,
+      "cliffhanger_tension": 9,
+      "hook_offset": 0.0,
+      "prior": 16.19,
+      "notes": [
+        "flash-forward from episode 28 3.7s, then episode 28 body"
+      ]
+    },
+    {
+      "cand_id": "A-E29-003-033",
+      "mode": "A",
+      "segments": [
+        {
+          "episode": 29,
+          "start_sec": 2.9,
+          "end_sec": 56.5,
+          "first_beat": "E29.B003",
+          "last_beat": "E29.B033",
+          "role": "arc"
+        }
+      ],
+      "hook_beat": "E29.B003",
+      "cliff_beat": "E29.B033",
+      "hook_intensity": 7,
+      "cliffhanger_tension": 7,
+      "hook_offset": 0.0,
+      "prior": 12.64,
+      "notes": []
+    },
+    {
+      "cand_id": "A-E29-021-041",
+      "mode": "A",
+      "segments": [
+        {
+          "episode": 29,
+          "start_sec": 37.7,
+          "end_sec": 69.1,
+          "first_beat": "E29.B021",
+          "last_beat": "E29.B041",
+          "role": "arc"
+        }
+      ],
+      "hook_beat": "E29.B021",
+      "cliff_beat": "E29.B041",
+      "hook_intensity": 9,
+      "cliffhanger_tension": 8,
+      "hook_offset": 0.0,
+      "prior": 16.14,
+      "notes": []
+    },
+    {
+      "cand_id": "A-E29-052-070",
+      "mode": "A",
+      "segments": [
+        {
+          "episode": 29,
+          "start_sec": 84.0,
+          "end_sec": 112.6,
+          "first_beat": "E29.B052",
+          "last_beat": "E29.B070",
+          "role": "arc"
+        }
+      ],
+      "hook_beat": "E29.B052",
+      "cliff_beat": "E29.B070",
+      "hook_intensity": 8,
+      "cliffhanger_tension": 9,
+      "hook_offset": 0.0,
+      "prior": 15.86,
+      "notes": []
+    },
+    {
+      "cand_id": "A-E30-018-030",
+      "mode": "A",
+      "segments": [
+        {
+          "episode": 30,
+          "start_sec": 33.6,
+          "end_sec": 62.5,
+          "first_beat": "E30.B018",
+          "last_beat": "E30.B030",
+          "role": "arc"
+        }
+      ],
+      "hook_beat": "E30.B018",
+      "cliff_beat": "E30.B030",
+      "hook_intensity": 9,
+      "cliffhanger_tension": 7,
+      "hook_offset": 0.0,
+      "prior": 14.89,
+      "notes": []
+    },
+    {
+      "cand_id": "A-E30-042-060",
+      "mode": "A",
+      "segments": [
+        {
+          "episode": 30,
+          "start_sec": 85.8,
+          "end_sec": 124.9,
+          "first_beat": "E30.B042",
+          "last_beat": "E30.B060",
+          "role": "arc"
+        }
+      ],
+      "hook_beat": "E30.B042",
+      "cliff_beat": "E30.B060",
+      "hook_intensity": 9,
+      "cliffhanger_tension": 8,
+      "hook_offset": 0.0,
+      "prior": 16.91,
+      "notes": []
+    },
+    {
+      "cand_id": "B-E31B079-E30B066",
+      "mode": "B",
+      "segments": [
+        {
+          "episode": 31,
+          "start_sec": 140.7,
+          "end_sec": 143.8,
+          "first_beat": "E31.B079",
+          "last_beat": "E31.B079",
+          "role": "flash_forward"
+        },
+        {
+          "episode": 30,
+          "start_sec": 107.3,
+          "end_sec": 143.5,
+          "first_beat": "E30.B054",
+          "last_beat": "E30.B066",
+          "role": "scene_body"
+        }
+      ],
+      "hook_beat": "E31.B079",
+      "cliff_beat": "E30.B066",
+      "hook_intensity": 7,
+      "cliffhanger_tension": 9,
+      "hook_offset": 0.0,
+      "prior": 15.18,
+      "notes": [
+        "flash-forward from episode 31 3.1s, then episode 30 body"
+      ]
+    },
+    {
+      "cand_id": "B-E32B016-E31B053",
+      "mode": "B",
+      "segments": [
+        {
+          "episode": 32,
+          "start_sec": 20.2,
+          "end_sec": 24.8,
+          "first_beat": "E32.B016",
+          "last_beat": "E32.B019",
+          "role": "flash_forward"
+        },
+        {
+          "episode": 31,
+          "start_sec": 59.2,
+          "end_sec": 94.2,
+          "first_beat": "E31.B033",
+          "last_beat": "E31.B053",
+          "role": "scene_body"
+        }
+      ],
+      "hook_beat": "E32.B016",
+      "cliff_beat": "E31.B053",
+      "hook_intensity": 9,
+      "cliffhanger_tension": 5,
+      "hook_offset": 0.0,
+      "prior": 13.21,
+      "notes": [
+        "flash-forward from episode 32 4.6s, then episode 31 body"
+      ]
+    },
+    {
+      "cand_id": "A-E31-055-070",
+      "mode": "A",
+      "segments": [
+        {
+          "episode": 31,
+          "start_sec": 94.5,
+          "end_sec": 132.8,
+          "first_beat": "E31.B055",
+          "last_beat": "E31.B070",
+          "role": "arc"
+        }
+      ],
+      "hook_beat": "E31.B055",
+      "cliff_beat": "E31.B070",
+      "hook_intensity": 9,
+      "cliffhanger_tension": 7,
+      "hook_offset": 0.0,
+      "prior": 15.83,
+      "notes": []
+    },
+    {
+      "cand_id": "B-E32B102-E31B086",
+      "mode": "B",
+      "segments": [
+        {
+          "episode": 32,
+          "start_sec": 135.0,
+          "end_sec": 138.6,
+          "first_beat": "E32.B102",
+          "last_beat": "E32.B103",
+          "role": "flash_forward"
+        },
+        {
+          "episode": 31,
+          "start_sec": 124.2,
+          "end_sec": 160.0,
+          "first_beat": "E31.B068",
+          "last_beat": "E31.B086",
+          "role": "scene_body"
+        }
+      ],
+      "hook_beat": "E32.B102",
+      "cliff_beat": "E31.B086",
+      "hook_intensity": 10,
+      "cliffhanger_tension": 10,
+      "hook_offset": 0.0,
+      "prior": 19.19,
+      "notes": [
+        "flash-forward from episode 32 3.6s, then episode 31 body"
+      ]
+    },
+    {
+      "cand_id": "A-E32-000-022",
+      "mode": "A",
+      "segments": [
+        {
+          "episode": 32,
+          "start_sec": 0.0,
+          "end_sec": 32.8,
+          "first_beat": "E32.B000",
+          "last_beat": "E32.B024",
+          "role": "arc"
+        }
+      ],
+      "hook_beat": "E32.B000",
+      "cliff_beat": "E32.B022",
+      "hook_intensity": 9,
+      "cliffhanger_tension": 6,
+      "hook_offset": 0.0,
+      "prior": 14.28,
+      "notes": []
+    },
+    {
+      "cand_id": "B-E33B039-E32B068",
+      "mode": "B",
+      "segments": [
+        {
+          "episode": 33,
+          "start_sec": 64.4,
+          "end_sec": 68.5,
+          "first_beat": "E33.B039",
+          "last_beat": "E33.B039",
+          "role": "flash_forward"
+        },
+        {
+          "episode": 32,
+          "start_sec": 58.2,
+          "end_sec": 92.8,
+          "first_beat": "E32.B045",
+          "last_beat": "E32.B069",
+          "role": "scene_body"
+        }
+      ],
+      "hook_beat": "E33.B039",
+      "cliff_beat": "E32.B068",
+      "hook_intensity": 9,
+      "cliffhanger_tension": 8,
+      "hook_offset": 0.0,
+      "prior": 16.12,
+      "notes": [
+        "flash-forward from episode 33 4.1s, then episode 32 body"
+      ]
+    },
+    {
+      "cand_id": "A-E32-088-115",
+      "mode": "A",
+      "segments": [
+        {
+          "episode": 32,
+          "start_sec": 116.9,
+          "end_sec": 154.38,
+          "first_beat": "E32.B088",
+          "last_beat": "E32.B116",
+          "role": "arc"
+        }
+      ],
+      "hook_beat": "E32.B088",
+      "cliff_beat": "E32.B115",
+      "hook_intensity": 9,
+      "cliffhanger_tension": 10,
+      "hook_offset": 0.0,
+      "prior": 18.748,
+      "notes": []
+    },
+    {
+      "cand_id": "B-E34B001-E33B091",
+      "mode": "B",
+      "segments": [
+        {
+          "episode": 34,
+          "start_sec": 1.2,
+          "end_sec": 7.8,
+          "first_beat": "E34.B001",
+          "last_beat": "E34.B002",
+          "role": "flash_forward"
+        },
+        {
+          "episode": 33,
+          "start_sec": 124.5,
+          "end_sec": 156.0,
+          "first_beat": "E33.B074",
+          "last_beat": "E33.B091",
+          "role": "scene_body"
+        }
+      ],
+      "hook_beat": "E34.B001",
+      "cliff_beat": "E33.B091",
+      "hook_intensity": 9,
+      "cliffhanger_tension": 9,
+      "hook_offset": 0.0,
+      "prior": 17.06,
+      "notes": [
+        "flash-forward from episode 34 6.6s, then episode 33 body"
+      ]
+    },
+    {
+      "cand_id": "B-E34B105-E33B078",
+      "mode": "B",
+      "segments": [
+        {
+          "episode": 34,
+          "start_sec": 167.0,
+          "end_sec": 173.6,
+          "first_beat": "E34.B105",
+          "last_beat": "E34.B105",
+          "role": "flash_forward"
+        },
+        {
+          "episode": 33,
+          "start_sec": 101.0,
+          "end_sec": 134.0,
+          "first_beat": "E33.B061",
+          "last_beat": "E33.B078",
+          "role": "scene_body"
+        }
+      ],
+      "hook_beat": "E34.B105",
+      "cliff_beat": "E33.B078",
+      "hook_intensity": 9,
+      "cliffhanger_tension": 7,
+      "hook_offset": 0.0,
+      "prior": 15.21,
+      "notes": [
+        "flash-forward from episode 34 6.6s, then episode 33 body"
+      ]
+    },
+    {
+      "cand_id": "A-E34-068-097",
+      "mode": "A",
+      "segments": [
+        {
+          "episode": 34,
+          "start_sec": 110.1,
+          "end_sec": 156.4,
+          "first_beat": "E34.B068",
+          "last_beat": "E34.B097",
+          "role": "arc"
+        }
+      ],
+      "hook_beat": "E34.B068",
+      "cliff_beat": "E34.B097",
+      "hook_intensity": 8,
+      "cliffhanger_tension": 8,
+      "hook_offset": 0.0,
+      "prior": 15.37,
+      "notes": []
+    },
+    {
+      "cand_id": "B-E35B069-E34B115",
+      "mode": "B",
+      "segments": [
+        {
+          "episode": 35,
+          "start_sec": 145.5,
+          "end_sec": 150.0,
+          "first_beat": "E35.B069",
+          "last_beat": "E35.B069",
+          "role": "flash_forward"
+        },
+        {
+          "episode": 34,
+          "start_sec": 155.2,
+          "end_sec": 190.0,
+          "first_beat": "E34.B097",
+          "last_beat": "E34.B115",
+          "role": "scene_body"
+        }
+      ],
+      "hook_beat": "E35.B069",
+      "cliff_beat": "E34.B115",
+      "hook_intensity": 10,
+      "cliffhanger_tension": 9,
+      "hook_offset": 0.0,
+      "prior": 18.18,
+      "notes": [
+        "flash-forward from episode 35 4.5s, then episode 34 body"
+      ]
+    },
+    {
+      "cand_id": "B-E34B099-E34B044",
+      "mode": "B",
+      "segments": [
+        {
+          "episode": 34,
+          "start_sec": 157.0,
+          "end_sec": 161.8,
+          "first_beat": "E34.B099",
+          "last_beat": "E34.B099",
+          "role": "flash_forward"
+        },
+        {
+          "episode": 34,
+          "start_sec": 45.3,
+          "end_sec": 80.5,
+          "first_beat": "E34.B027",
+          "last_beat": "E34.B044",
+          "role": "scene_body"
+        }
+      ],
+      "hook_beat": "E34.B099",
+      "cliff_beat": "E34.B044",
+      "hook_intensity": 9,
+      "cliffhanger_tension": 7,
+      "hook_offset": 0.0,
+      "prior": 15.25,
+      "notes": [
+        "flash-forward from episode 34 4.8s, then episode 34 body"
+      ]
+    },
+    {
+      "cand_id": "B-E36B008-E35B056",
+      "mode": "B",
+      "segments": [
+        {
+          "episode": 36,
+          "start_sec": 13.5,
+          "end_sec": 17.0,
+          "first_beat": "E36.B008",
+          "last_beat": "E36.B008",
+          "role": "flash_forward"
+        },
+        {
+          "episode": 35,
+          "start_sec": 89.8,
+          "end_sec": 125.5,
+          "first_beat": "E35.B039",
+          "last_beat": "E35.B056",
+          "role": "scene_body"
+        }
+      ],
+      "hook_beat": "E36.B008",
+      "cliff_beat": "E35.B056",
+      "hook_intensity": 8,
+      "cliffhanger_tension": 8,
+      "hook_offset": 0.0,
+      "prior": 15.17,
+      "notes": [
+        "flash-forward from episode 36 3.5s, then episode 35 body"
+      ]
+    },
+    {
+      "cand_id": "A-E35-019-031",
+      "mode": "A",
+      "segments": [
+        {
+          "episode": 35,
+          "start_sec": 37.0,
+          "end_sec": 74.0,
+          "first_beat": "E35.B019",
+          "last_beat": "E35.B031",
+          "role": "arc"
+        }
+      ],
+      "hook_beat": "E35.B019",
+      "cliff_beat": "E35.B031",
+      "hook_intensity": 9,
+      "cliffhanger_tension": 7,
+      "hook_offset": 0.0,
+      "prior": 15.7,
+      "notes": []
+    },
+    {
+      "cand_id": "A-E35-058-070",
+      "mode": "A",
+      "segments": [
+        {
+          "episode": 35,
+          "start_sec": 126.0,
+          "end_sec": 157.5,
+          "first_beat": "E35.B058",
+          "last_beat": "E35.B071",
+          "role": "arc"
+        }
+      ],
+      "hook_beat": "E35.B058",
+      "cliff_beat": "E35.B070",
+      "hook_intensity": 9,
+      "cliffhanger_tension": 9,
+      "hook_offset": 0.0,
+      "prior": 17.15,
+      "notes": []
+    },
+    {
+      "cand_id": "A-E36-061-095",
+      "mode": "A",
+      "segments": [
+        {
+          "episode": 36,
+          "start_sec": 99.5,
+          "end_sec": 156.0,
+          "first_beat": "E36.B061",
+          "last_beat": "E36.B095",
+          "role": "arc"
+        }
+      ],
+      "hook_beat": "E36.B061",
+      "cliff_beat": "E36.B095",
+      "hook_intensity": 9,
+      "cliffhanger_tension": 7,
+      "hook_offset": 0.0,
+      "prior": 14.35,
+      "notes": []
+    },
+    {
+      "cand_id": "A-E36-099-118",
+      "mode": "A",
+      "segments": [
+        {
+          "episode": 36,
+          "start_sec": 160.5,
+          "end_sec": 196.8,
+          "first_beat": "E36.B099",
+          "last_beat": "E36.B118",
+          "role": "arc"
+        }
+      ],
+      "hook_beat": "E36.B099",
+      "cliff_beat": "E36.B118",
+      "hook_intensity": 10,
+      "cliffhanger_tension": 10,
+      "hook_offset": 0.0,
+      "prior": 19.63,
+      "notes": []
+    },
+    {
+      "cand_id": "A-E37-041-062",
+      "mode": "A",
+      "segments": [
+        {
+          "episode": 37,
+          "start_sec": 69.5,
+          "end_sec": 116.2,
+          "first_beat": "E37.B041",
+          "last_beat": "E37.B062",
+          "role": "arc"
+        }
+      ],
+      "hook_beat": "E37.B041",
+      "cliff_beat": "E37.B062",
+      "hook_intensity": 8,
+      "cliffhanger_tension": 8,
+      "hook_offset": 0.0,
+      "prior": 15.33,
+      "notes": []
+    },
+    {
+      "cand_id": "B-E38B051-E37B045",
+      "mode": "B",
+      "segments": [
+        {
+          "episode": 38,
+          "start_sec": 76.0,
+          "end_sec": 84.0,
+          "first_beat": "E38.B051",
+          "last_beat": "E38.B054",
+          "role": "flash_forward"
+        },
+        {
+          "episode": 37,
+          "start_sec": 50.0,
+          "end_sec": 81.8,
+          "first_beat": "E37.B029",
+          "last_beat": "E37.B045",
+          "role": "scene_body"
+        }
+      ],
+      "hook_beat": "E38.B051",
+      "cliff_beat": "E37.B045",
+      "hook_intensity": 8,
+      "cliffhanger_tension": 7,
+      "hook_offset": 0.0,
+      "prior": 14.23,
+      "notes": [
+        "flash-forward from episode 38 8.0s, then episode 37 body"
+      ]
+    },
+    {
+      "cand_id": "A-E37-055-078",
+      "mode": "A",
+      "segments": [
+        {
+          "episode": 37,
+          "start_sec": 100.8,
+          "end_sec": 156.47,
+          "first_beat": "E37.B055",
+          "last_beat": "E37.B078",
+          "role": "arc"
+        }
+      ],
+      "hook_beat": "E37.B055",
+      "cliff_beat": "E37.B078",
+      "hook_intensity": 9,
+      "cliffhanger_tension": 9,
+      "hook_offset": 0.0,
+      "prior": 16.433,
+      "notes": []
+    },
+    {
+      "cand_id": "B-E39B021-E38B054",
+      "mode": "B",
+      "segments": [
+        {
+          "episode": 39,
+          "start_sec": 32.8,
+          "end_sec": 36.5,
+          "first_beat": "E39.B021",
+          "last_beat": "E39.B022",
+          "role": "flash_forward"
+        },
+        {
+          "episode": 38,
+          "start_sec": 47.8,
+          "end_sec": 84.0,
+          "first_beat": "E38.B030",
+          "last_beat": "E38.B054",
+          "role": "scene_body"
+        }
+      ],
+      "hook_beat": "E39.B021",
+      "cliff_beat": "E38.B054",
+      "hook_intensity": 9,
+      "cliffhanger_tension": 9,
+      "hook_offset": 0.0,
+      "prior": 17.24,
+      "notes": [
+        "flash-forward from episode 39 3.7s, then episode 38 body"
+      ]
+    },
+    {
+      "cand_id": "A-E39-040-057",
+      "mode": "A",
+      "segments": [
+        {
+          "episode": 39,
+          "start_sec": 63.0,
+          "end_sec": 98.41,
+          "first_beat": "E39.B040",
+          "last_beat": "E39.B058",
+          "role": "arc"
+        }
+      ],
+      "hook_beat": "E39.B040",
+      "cliff_beat": "E39.B057",
+      "hook_intensity": 8,
+      "cliffhanger_tension": 9,
+      "hook_offset": 0.0,
+      "prior": 16.541,
+      "notes": []
+    },
+    {
+      "cand_id": "A-E40-013-035",
+      "mode": "A",
+      "segments": [
+        {
+          "episode": 40,
+          "start_sec": 26.2,
+          "end_sec": 74.2,
+          "first_beat": "E40.B012",
+          "last_beat": "E40.B035",
+          "role": "arc"
+        }
+      ],
+      "hook_beat": "E40.B013",
+      "cliff_beat": "E40.B035",
+      "hook_intensity": 8,
+      "cliffhanger_tension": 7,
+      "hook_offset": 0.0,
+      "prior": 14.2,
+      "notes": []
+    },
+    {
+      "cand_id": "B-E41B046-E40B050",
+      "mode": "B",
+      "segments": [
+        {
+          "episode": 41,
+          "start_sec": 81.0,
+          "end_sec": 85.5,
+          "first_beat": "E41.B046",
+          "last_beat": "E41.B049",
+          "role": "flash_forward"
+        },
+        {
+          "episode": 40,
+          "start_sec": 78.5,
+          "end_sec": 110.08,
+          "first_beat": "E40.B038",
+          "last_beat": "E40.B050",
+          "role": "scene_body"
+        }
+      ],
+      "hook_beat": "E41.B046",
+      "cliff_beat": "E40.B050",
+      "hook_intensity": 10,
+      "cliffhanger_tension": 9,
+      "hook_offset": 0.0,
+      "prior": 17.858,
+      "notes": [
+        "flash-forward from episode 41 4.5s, then episode 40 body"
+      ]
+    },
+    {
+      "cand_id": "A-E41-033-052",
+      "mode": "A",
+      "segments": [
+        {
+          "episode": 41,
+          "start_sec": 58.0,
+          "end_sec": 96.09,
+          "first_beat": "E41.B033",
+          "last_beat": "E41.B052",
+          "role": "arc"
+        }
+      ],
+      "hook_beat": "E41.B033",
+      "cliff_beat": "E41.B052",
+      "hook_intensity": 8,
+      "cliffhanger_tension": 10,
+      "hook_offset": 0.0,
+      "prior": 17.809,
+      "notes": []
+    },
+    {
+      "cand_id": "B-E43B018-E42B016",
+      "mode": "B",
+      "segments": [
+        {
+          "episode": 43,
+          "start_sec": 19.2,
+          "end_sec": 24.0,
+          "first_beat": "E43.B016",
+          "last_beat": "E43.B020",
+          "role": "flash_forward"
+        },
+        {
+          "episode": 42,
+          "start_sec": 1.0,
+          "end_sec": 28.8,
+          "first_beat": "E42.B001",
+          "last_beat": "E42.B016",
+          "role": "scene_body"
+        }
+      ],
+      "hook_beat": "E43.B018",
+      "cliff_beat": "E42.B016",
+      "hook_intensity": 8,
+      "cliffhanger_tension": 7,
+      "hook_offset": 0.0,
+      "prior": 13.51,
+      "notes": [
+        "flash-forward from episode 43 4.8s, then episode 42 body"
+      ]
+    },
+    {
+      "cand_id": "A-E42-020-036",
+      "mode": "A",
+      "segments": [
+        {
+          "episode": 42,
+          "start_sec": 30.5,
+          "end_sec": 77.5,
+          "first_beat": "E42.B020",
+          "last_beat": "E42.B036",
+          "role": "arc"
+        }
+      ],
+      "hook_beat": "E42.B020",
+      "cliff_beat": "E42.B036",
+      "hook_intensity": 9,
+      "cliffhanger_tension": 9,
+      "hook_offset": 0.0,
+      "prior": 17.3,
+      "notes": []
+    },
+    {
+      "cand_id": "A-E43-011-051",
+      "mode": "A",
+      "segments": [
+        {
+          "episode": 43,
+          "start_sec": 14.2,
+          "end_sec": 64.2,
+          "first_beat": "E43.B011",
+          "last_beat": "E43.B051",
+          "role": "arc"
+        }
+      ],
+      "hook_beat": "E43.B011",
+      "cliff_beat": "E43.B051",
+      "hook_intensity": 9,
+      "cliffhanger_tension": 7,
+      "hook_offset": 0.0,
+      "prior": 15.0,
+      "notes": []
+    },
+    {
+      "cand_id": "A-E43-056-085",
+      "mode": "A",
+      "segments": [
+        {
+          "episode": 43,
+          "start_sec": 69.0,
+          "end_sec": 112.5,
+          "first_beat": "E43.B056",
+          "last_beat": "E43.B085",
+          "role": "arc"
+        }
+      ],
+      "hook_beat": "E43.B056",
+      "cliff_beat": "E43.B085",
+      "hook_intensity": 10,
+      "cliffhanger_tension": 9,
+      "hook_offset": 0.0,
+      "prior": 18.65,
+      "notes": []
+    },
+    {
+      "cand_id": "B-E44B040-E44B031",
+      "mode": "B",
+      "segments": [
+        {
+          "episode": 44,
+          "start_sec": 53.0,
+          "end_sec": 58.2,
+          "first_beat": "E44.B039",
+          "last_beat": "E44.B042",
+          "role": "flash_forward"
+        },
+        {
+          "episode": 44,
+          "start_sec": 14.0,
+          "end_sec": 46.4,
+          "first_beat": "E44.B009",
+          "last_beat": "E44.B032",
+          "role": "scene_body"
+        }
+      ],
+      "hook_beat": "E44.B040",
+      "cliff_beat": "E44.B031",
+      "hook_intensity": 8,
+      "cliffhanger_tension": 7,
+      "hook_offset": 0.0,
+      "prior": 14.01,
+      "notes": [
+        "flash-forward from episode 44 5.2s, then episode 44 body"
+      ]
+    },
+    {
+      "cand_id": "B-E45B069-E44B052",
+      "mode": "B",
+      "segments": [
+        {
+          "episode": 45,
+          "start_sec": 109.0,
+          "end_sec": 113.0,
+          "first_beat": "E45.B069",
+          "last_beat": "E45.B069",
+          "role": "flash_forward"
+        },
+        {
+          "episode": 44,
+          "start_sec": 34.2,
+          "end_sec": 70.5,
+          "first_beat": "E44.B025",
+          "last_beat": "E44.B053",
+          "role": "scene_body"
+        }
+      ],
+      "hook_beat": "E45.B069",
+      "cliff_beat": "E44.B052",
+      "hook_intensity": 8,
+      "cliffhanger_tension": 10,
+      "hook_offset": 0.0,
+      "prior": 17.22,
+      "notes": [
+        "flash-forward from episode 45 4.0s, then episode 44 body"
+      ]
+    },
+    {
+      "cand_id": "A-E45-020-046",
+      "mode": "A",
+      "segments": [
+        {
+          "episode": 45,
+          "start_sec": 24.6,
+          "end_sec": 70.5,
+          "first_beat": "E45.B020",
+          "last_beat": "E45.B046",
+          "role": "arc"
+        }
+      ],
+      "hook_beat": "E45.B020",
+      "cliff_beat": "E45.B046",
+      "hook_intensity": 7,
+      "cliffhanger_tension": 6,
+      "hook_offset": 0.0,
+      "prior": 12.41,
+      "notes": []
+    },
+    {
+      "cand_id": "A-E45-039-063",
+      "mode": "A",
+      "segments": [
+        {
+          "episode": 45,
+          "start_sec": 54.0,
+          "end_sec": 101.1,
+          "first_beat": "E45.B039",
+          "last_beat": "E45.B063",
+          "role": "arc"
+        }
+      ],
+      "hook_beat": "E45.B039",
+      "cliff_beat": "E45.B063",
+      "hook_intensity": 9,
+      "cliffhanger_tension": 8,
+      "hook_offset": 0.0,
+      "prior": 16.29,
+      "notes": []
+    },
+    {
+      "cand_id": "B-E46B067-E45B073",
+      "mode": "B",
+      "segments": [
+        {
+          "episode": 46,
+          "start_sec": 127.2,
+          "end_sec": 133.2,
+          "first_beat": "E46.B066",
+          "last_beat": "E46.B067",
+          "role": "flash_forward"
+        },
+        {
+          "episode": 45,
+          "start_sec": 87.5,
+          "end_sec": 121.75,
+          "first_beat": "E45.B058",
+          "last_beat": "E45.B073",
+          "role": "scene_body"
+        }
+      ],
+      "hook_beat": "E46.B067",
+      "cliff_beat": "E45.B073",
+      "hook_intensity": 9,
+      "cliffhanger_tension": 9,
+      "hook_offset": 0.0,
+      "prior": 17.225,
+      "notes": [
+        "flash-forward from episode 46 6.0s, then episode 45 body"
+      ]
+    },
+    {
+      "cand_id": "A-E46-054-074",
+      "mode": "A",
+      "segments": [
+        {
+          "episode": 46,
+          "start_sec": 96.8,
+          "end_sec": 143.8,
+          "first_beat": "E46.B053",
+          "last_beat": "E46.B074",
+          "role": "arc"
+        }
+      ],
+      "hook_beat": "E46.B054",
+      "cliff_beat": "E46.B074",
+      "hook_intensity": 9,
+      "cliffhanger_tension": 9,
+      "hook_offset": 0.0,
+      "prior": 17.3,
+      "notes": []
+    },
+    {
+      "cand_id": "A-E47-032-062",
+      "mode": "A",
+      "segments": [
+        {
+          "episode": 47,
+          "start_sec": 67.2,
+          "end_sec": 118.5,
+          "first_beat": "E47.B032",
+          "last_beat": "E47.B062",
+          "role": "arc"
+        }
+      ],
+      "hook_beat": "E47.B032",
+      "cliff_beat": "E47.B062",
+      "hook_intensity": 8,
+      "cliffhanger_tension": 8,
+      "hook_offset": 0.0,
+      "prior": 14.87,
+      "notes": []
+    },
+    {
+      "cand_id": "A-E47-052-068",
+      "mode": "A",
+      "segments": [
+        {
+          "episode": 47,
+          "start_sec": 99.2,
+          "end_sec": 131.2,
+          "first_beat": "E47.B052",
+          "last_beat": "E47.B068",
+          "role": "arc"
+        }
+      ],
+      "hook_beat": "E47.B052",
+      "cliff_beat": "E47.B068",
+      "hook_intensity": 9,
+      "cliffhanger_tension": 9,
+      "hook_offset": 0.0,
+      "prior": 17.2,
+      "notes": []
+    },
+    {
+      "cand_id": "B-E47B064-E47B040",
+      "mode": "B",
+      "segments": [
+        {
+          "episode": 47,
+          "start_sec": 119.2,
+          "end_sec": 127.2,
+          "first_beat": "E47.B064",
+          "last_beat": "E47.B066",
+          "role": "flash_forward"
+        },
+        {
+          "episode": 47,
+          "start_sec": 56.8,
+          "end_sec": 83.4,
+          "first_beat": "E47.B025",
+          "last_beat": "E47.B040",
+          "role": "scene_body"
+        }
+      ],
+      "hook_beat": "E47.B064",
+      "cliff_beat": "E47.B040",
+      "hook_intensity": 7,
+      "cliffhanger_tension": 7,
+      "hook_offset": 0.0,
+      "prior": 12.71,
+      "notes": [
+        "flash-forward from episode 47 8.0s, then episode 47 body"
+      ]
+    },
+    {
+      "cand_id": "A-E48-002-013",
+      "mode": "A",
+      "segments": [
+        {
+          "episode": 48,
+          "start_sec": 2.4,
+          "end_sec": 26.5,
+          "first_beat": "E48.B002",
+          "last_beat": "E48.B013",
+          "role": "arc"
+        }
+      ],
+      "hook_beat": "E48.B002",
+      "cliff_beat": "E48.B013",
+      "hook_intensity": 8,
+      "cliffhanger_tension": 7,
+      "hook_offset": 0.0,
+      "prior": 13.41,
+      "notes": []
+    },
+    {
+      "cand_id": "A-E48-012-040",
+      "mode": "A",
+      "segments": [
+        {
+          "episode": 48,
+          "start_sec": 20.1,
+          "end_sec": 73.4,
+          "first_beat": "E48.B012",
+          "last_beat": "E48.B040",
+          "role": "arc"
+        }
+      ],
+      "hook_beat": "E48.B012",
+      "cliff_beat": "E48.B040",
+      "hook_intensity": 9,
+      "cliffhanger_tension": 8,
+      "hook_offset": 0.0,
+      "prior": 15.67,
+      "notes": []
+    },
+    {
+      "cand_id": "A-E49-036-045",
+      "mode": "A",
+      "segments": [
+        {
+          "episode": 49,
+          "start_sec": 84.2,
+          "end_sec": 112.8,
+          "first_beat": "E49.B036",
+          "last_beat": "E49.B045",
+          "role": "arc"
+        }
+      ],
+      "hook_beat": "E49.B036",
+      "cliff_beat": "E49.B045",
+      "hook_intensity": 9,
+      "cliffhanger_tension": 8,
+      "hook_offset": 0.0,
+      "prior": 15.86,
+      "notes": []
+    },
+    {
+      "cand_id": "A-E49-049-062",
+      "mode": "A",
+      "segments": [
+        {
+          "episode": 49,
+          "start_sec": 118.2,
+          "end_sec": 144.75,
+          "first_beat": "E49.B049",
+          "last_beat": "E49.B062",
+          "role": "arc"
+        }
+      ],
+      "hook_beat": "E49.B049",
+      "cliff_beat": "E49.B062",
+      "hook_intensity": 8,
+      "cliffhanger_tension": 9,
+      "hook_offset": 0.0,
+      "prior": 15.655,
+      "notes": []
+    },
+    {
+      "cand_id": "A-E50-003-020",
+      "mode": "A",
+      "segments": [
+        {
+          "episode": 50,
+          "start_sec": 1.8,
+          "end_sec": 42.5,
+          "first_beat": "E50.B002",
+          "last_beat": "E50.B020",
+          "role": "arc"
+        }
+      ],
+      "hook_beat": "E50.B003",
+      "cliff_beat": "E50.B020",
+      "hook_intensity": 7,
+      "cliffhanger_tension": 5,
+      "hook_offset": 0.0,
+      "prior": 11.93,
+      "notes": []
+    },
+    {
+      "cand_id": "A-E50-016-039",
+      "mode": "A",
+      "segments": [
+        {
+          "episode": 50,
+          "start_sec": 31.0,
+          "end_sec": 80.0,
+          "first_beat": "E50.B016",
+          "last_beat": "E50.B039",
+          "role": "arc"
+        }
+      ],
+      "hook_beat": "E50.B016",
+      "cliff_beat": "E50.B039",
+      "hook_intensity": 8,
+      "cliffhanger_tension": 10,
+      "hook_offset": 0.0,
+      "prior": 17.1,
+      "notes": []
+    }
+  ]
+}

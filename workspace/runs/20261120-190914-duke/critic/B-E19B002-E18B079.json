@@ -1,0 +1,24 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "B-E19B002-E18B079",
+    "first_3s_hook": 8.0,
+    "cliffhanger_open": 9.0,
+    "cold_viewer_clarity": 8.0,
+    "ambiguity": [
+      {
+        "kind": "relationship",
+        "beat_id": "E18.B071",
+        "detail": "The exact nature of the threat behind the fire remains mysterious to a cold viewer."
+      }
+    ],
+    "ending_resolves_tension": false,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "This was our home.",
+    "cliffhanger_line": "What are you going to do?",
+    "viewer_takeaway": "After losing their home to a malicious arson attack, a couple resolves to strike back.",
+    "why_it_works": "Packs instant visual stakes with the ruined ledger and transitions into a chilling promise of lethal retaliation."
+  }
+}

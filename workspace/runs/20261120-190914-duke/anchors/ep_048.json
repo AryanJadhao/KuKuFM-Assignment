@@ -1,0 +1,116 @@
+{
+  "episode": 48,
+  "prompt_version": "anchors-v1",
+  "model": "gemini:gemini-3.5-flash-lite",
+  "model_output": {
+    "hook_anchors": [
+      {
+        "beat_id": "E48.B002",
+        "hook_intensity": 8.0,
+        "device": "threat",
+        "excerpt": "Two words, and that healer's crown rolls right back into the gutter",
+        "why": "Catherine immediately establishes a cold, vindictive threat right at the start."
+      },
+      {
+        "beat_id": "E48.B012",
+        "hook_intensity": 9.0,
+        "device": "threat",
+        "excerpt": "Ten days is not a wall, Alexander. It's a door.",
+        "why": "A chilling and menacing proclamation directed at her rival."
+      },
+      {
+        "beat_id": "E48.B022",
+        "hook_intensity": 7.0,
+        "device": "humiliation",
+        "excerpt": "Everyone in that chapel saw me humiliated today.",
+        "why": "Leans directly into her recent public disgrace and weaponizes it."
+      },
+      {
+        "beat_id": "E48.B028",
+        "hook_intensity": 8.0,
+        "device": "threat",
+        "excerpt": "I'm not leaving the county, Agnes. I'm going back into that house.",
+        "why": "A dangerous declaration of intent to re-enter the lion's den."
+      }
+    ],
+    "cliffhanger_anchors": [
+      {
+        "beat_id": "E48.B013",
+        "cliffhanger_tension": 7.0,
+        "open_question": "How will Catherine close the door on Alexander from the other side?",
+        "excerpt": "And doors can be closed from the other side.",
+        "why": "Leaves her ominous scheme entirely open-ended."
+      },
+      {
+        "beat_id": "E48.B040",
+        "cliffhanger_tension": 8.0,
+        "open_question": "Will Agnes successfully smuggle the priest into the house without being caught?",
+        "excerpt": "And make sure no one sees him arrive.",
+        "why": "Sets up a high-stakes clandestine meeting that could ruin them if discovered."
+      }
+    ]
+  },
+  "accepted": [
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E48.B013",
+      "episode": 48,
+      "strength": 7,
+      "label": "How will Catherine close the door on Alexander from the other side?",
+      "excerpt": "And doors can be closed from the other side.",
+      "why": "Leaves her ominous scheme entirely open-ended.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E48.B040",
+      "episode": 48,
+      "strength": 8,
+      "label": "Will Agnes successfully smuggle the priest into the house without being caught?",
+      "excerpt": "And make sure no one sees him arrive.",
+      "why": "Sets up a high-stakes clandestine meeting that could ruin them if discovered.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E48.B002",
+      "episode": 48,
+      "strength": 8,
+      "label": "threat",
+      "excerpt": "Two words, and that healer's crown rolls right back into the gutter",
+      "why": "Catherine immediately establishes a cold, vindictive threat right at the start.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E48.B012",
+      "episode": 48,
+      "strength": 9,
+      "label": "threat",
+      "excerpt": "Ten days is not a wall, Alexander. It's a door.",
+      "why": "A chilling and menacing proclamation directed at her rival.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E48.B022",
+      "episode": 48,
+      "strength": 7,
+      "label": "humiliation",
+      "excerpt": "Everyone in that chapel saw me humiliated today.",
+      "why": "Leans directly into her recent public disgrace and weaponizes it.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E48.B028",
+      "episode": 48,
+      "strength": 8,
+      "label": "threat",
+      "excerpt": "I'm not leaving the county, Agnes. I'm going back into that house.",
+      "why": "A dangerous declaration of intent to re-enter the lion's den.",
+      "repointed_from": null
+    }
+  ],
+  "dropped": []
+}

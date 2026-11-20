@@ -1,0 +1,24 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "B-E31B079-E30B066",
+    "first_3s_hook": 8.0,
+    "cliffhanger_open": 9.0,
+    "cold_viewer_clarity": 6.0,
+    "ambiguity": [
+      {
+        "kind": "prior_event",
+        "beat_id": "E31.B079",
+        "detail": "The flash-forward opening drops the viewer into a confrontation with zero context on what just hurt the character."
+      }
+    ],
+    "ending_resolves_tension": false,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "There. Finally. Something still hurts you.",
+    "cliffhanger_line": "Tomorrow, she stops being a prisoner. She becomes a witch.",
+    "viewer_takeaway": "Corrupt aristocrats finalize a sinister plan to turn a prisoner into a condemned witch through a rigged trial.",
+    "why_it_works": "The flash-forward hook followed by pure villainous escalation leaves the viewer desperate for the hero's survival."
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "B-E11B077-E10B058",
+    "first_3s_hook": 7.0,
+    "cliffhanger_open": 8.0,
+    "cold_viewer_clarity": 8.0,
+    "ambiguity": [
+      {
+        "kind": "relationship",
+        "beat_id": "E10.B049",
+        "detail": "The growing romantic tension explodes into a deeply vulnerable physical connection."
+      }
+    ],
+    "ending_resolves_tension": false,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "The Constable's hand sliding deep inside the inner coat lining and withdrawing a gleaming gold pocket watch with an attached chain.",
+    "cliffhanger_line": "Your touch is the only medicine that has ever eased my pain.",
+    "viewer_takeaway": "A dramatic mystery element involving a pocket watch gives way to a deeply emotional and romantic healing scene between two leads.",
+    "why_it_works": "The cold open mystery grabs attention, and the ensuing slow-burn romantic vulnerability plays heavily into vertical video appeal."
+  }
+}

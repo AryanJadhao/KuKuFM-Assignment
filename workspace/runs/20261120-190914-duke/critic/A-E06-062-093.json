@@ -1,0 +1,18 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "A-E06-062-093",
+    "first_3s_hook": 5.0,
+    "cliffhanger_open": 5.0,
+    "cold_viewer_clarity": 7.0,
+    "ambiguity": [],
+    "ending_resolves_tension": true,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "If I stop now, I will think about everything I lost.",
+    "cliffhanger_line": "Sitting here with him, I don't feel afraid.",
+    "viewer_takeaway": "A displaced woman finds unexpected comfort and safety bonding with a quiet, rugged man in his modest forest home.",
+    "why_it_works": "It delivers high emotional payoff and romantic tension, satisfying fans of cozy slow-burn relationship development."
+  }
+}

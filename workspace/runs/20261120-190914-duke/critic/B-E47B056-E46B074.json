@@ -1,0 +1,24 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "B-E47B056-E46B074",
+    "first_3s_hook": 9.0,
+    "cliffhanger_open": 7.0,
+    "cold_viewer_clarity": 6.0,
+    "ambiguity": [
+      {
+        "kind": "prior_event",
+        "beat_id": "E47.B056",
+        "detail": "Flash-forward line introduces a punishment out of sequence."
+      }
+    ],
+    "ending_resolves_tension": false,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "You will scrub the floors you walked on as an impostor.",
+    "cliffhanger_line": "Ten days is plenty of time.",
+    "viewer_takeaway": "An aristocratic family battles religious authorities while a villainous woman plots their downfall in the background.",
+    "why_it_works": "The cold open flash-forward instantly hooks the scroll, followed by high-tension standoffs and a scheming villain."
+  }
+}

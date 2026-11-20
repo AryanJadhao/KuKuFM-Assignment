@@ -1,0 +1,24 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "B-E22B075-E21B069",
+    "first_3s_hook": 9.0,
+    "cliffhanger_open": 9.0,
+    "cold_viewer_clarity": 8.0,
+    "ambiguity": [
+      {
+        "kind": "unexplained_name",
+        "beat_id": "E22.B076",
+        "detail": "The Dowager Duchess's sudden illness connects back to the poisoning plot."
+      }
+    ],
+    "ending_resolves_tension": false,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "This isn't ordinary fever.",
+    "cliffhanger_line": "She is dying, Lady Juliana.",
+    "viewer_takeaway": "A healer successfully cures a poor boy, only to learn that a high-ranking noblewoman is now mysteriously dying.",
+    "why_it_works": "The medical emergency flash-open combined with the chilling cliffhanger makes this prime top-of-funnel ad material."
+  }
+}

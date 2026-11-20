@@ -1,0 +1,24 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "A-E12-031-053",
+    "first_3s_hook": 9.0,
+    "cliffhanger_open": 8.0,
+    "cold_viewer_clarity": 9.0,
+    "ambiguity": [
+      {
+        "kind": "relationship",
+        "beat_id": "E12.B031",
+        "detail": "Clarissa addresses Juliana as sister, establishing deep family betrayal."
+      }
+    ],
+    "ending_resolves_tension": false,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "I want to see you crawl, sister.",
+    "cliffhanger_line": "Tell me where the garden is.",
+    "viewer_takeaway": "A sadistic sister forces a devoted wife to mutilate her hands in thorny briars to save her husband from execution.",
+    "why_it_works": "High emotional blackmail and clear physical stakes provide maximum vertical-video retention."
+  }
+}

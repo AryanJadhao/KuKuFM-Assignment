@@ -1,0 +1,24 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "B-E05B057-E05B029",
+    "first_3s_hook": 9.0,
+    "cliffhanger_open": 9.0,
+    "cold_viewer_clarity": 8.0,
+    "ambiguity": [
+      {
+        "kind": "relationship",
+        "beat_id": "E05.B022",
+        "detail": "Lady Ashcroft's exact legal status relative to Juliana's biological mother is unstated."
+      }
+    ],
+    "ending_resolves_tension": false,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "Choose your next words carefully.",
+    "cliffhanger_line": "Then you should have guarded it better.",
+    "viewer_takeaway": "An outcast bride loses her final family heirloom to her wicked stepfamily right after being disowned.",
+    "why_it_works": "Stacked injustices against the protagonist create unbearable tension that forces viewers to watch the next episode."
+  }
+}

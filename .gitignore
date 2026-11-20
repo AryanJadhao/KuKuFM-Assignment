@@ -9,11 +9,3 @@ __pycache__/
 *.pyc
 .pytest_cache/
 .claude/
-# run data: contains the confidential screenplay pack's text and model outputs quoting it
-workspace/
-*.zip
-# solution doc and its generator quote the confidential screenplays: submit via the form only
-docs/AnchorCut_solution.pdf
-docs/make_solution_pdf.py
-# submission bundle (contains confidential raw outputs)
-submission/

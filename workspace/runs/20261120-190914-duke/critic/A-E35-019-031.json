@@ -1,0 +1,18 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "A-E35-019-031",
+    "first_3s_hook": 6.0,
+    "cliffhanger_open": 6.0,
+    "cold_viewer_clarity": 7.0,
+    "ambiguity": [],
+    "ending_resolves_tension": false,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "Alexander!",
+    "cliffhanger_line": "Then how did you survive?",
+    "viewer_takeaway": "A grieving mother is stunned to discover her son Alexander, whom she buried after a destroyed regiment, is actually alive.",
+    "why_it_works": "Raw emotional core with high stakes as a mother realizes her supposedly dead son has returned."
+  }
+}

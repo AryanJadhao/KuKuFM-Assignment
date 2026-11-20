@@ -1,0 +1,29 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "A-E27-011-024",
+    "first_3s_hook": 8.0,
+    "cliffhanger_open": 8.0,
+    "cold_viewer_clarity": 5.0,
+    "ambiguity": [
+      {
+        "kind": "relationship",
+        "beat_id": "E27.B013",
+        "detail": "The identity of the husband who 'lives in a barn' is unclear."
+      },
+      {
+        "kind": "prior_event",
+        "beat_id": "E27.B015",
+        "detail": "The backstory of the Duchess's lost son in the war is unknown."
+      }
+    ],
+    "ending_resolves_tension": false,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "That is no ordinary band. It bears the Ashbourne crest.",
+    "cliffhanger_line": "What is your husband's name?",
+    "viewer_takeaway": "An aristocratic mother discovers a ring belonging to her long-lost son in the possession of a humble working woman.",
+    "why_it_works": "The immediate crest revelation and the escalating emotional stakes between the duchess and Juliana hook viewers on a secret identity trope."
+  }
+}

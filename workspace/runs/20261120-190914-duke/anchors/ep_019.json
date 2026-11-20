@@ -1,0 +1,48 @@
+{
+  "episode": 19,
+  "prompt_version": "anchors-v1",
+  "model": "gemini:gemini-3.5-flash-lite",
+  "model_output": {
+    "hook_anchors": [
+      {
+        "beat_id": "E19.B002",
+        "hook_intensity": 7.0,
+        "device": "confession",
+        "excerpt": "This was our home.",
+        "why": "Immediate, raw realization of loss starting the episode."
+      }
+    ],
+    "cliffhanger_anchors": [
+      {
+        "beat_id": "E19.B046",
+        "cliffhanger_tension": 9.0,
+        "open_question": "When will Alexander strike back against those who usurped his seat?",
+        "excerpt": "Then let them believe it a little longer.",
+        "why": "Alexander decides to hide his survival, setting up a massive revenge plot."
+      }
+    ]
+  },
+  "accepted": [
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E19.B046",
+      "episode": 19,
+      "strength": 9,
+      "label": "When will Alexander strike back against those who usurped his seat?",
+      "excerpt": "Then let them believe it a little longer.",
+      "why": "Alexander decides to hide his survival, setting up a massive revenge plot.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E19.B002",
+      "episode": 19,
+      "strength": 7,
+      "label": "confession",
+      "excerpt": "This was our home.",
+      "why": "Immediate, raw realization of loss starting the episode.",
+      "repointed_from": null
+    }
+  ],
+  "dropped": []
+}

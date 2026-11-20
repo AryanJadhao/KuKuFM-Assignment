@@ -1,0 +1,24 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "B-E20B026-E19B046",
+    "first_3s_hook": 7.0,
+    "cliffhanger_open": 8.0,
+    "cold_viewer_clarity": 7.0,
+    "ambiguity": [
+      {
+        "kind": "unexplained_name",
+        "beat_id": "E19.B030",
+        "detail": "Lord Sterling and Rupert are introduced as antagonists without prior context."
+      }
+    ],
+    "ending_resolves_tension": false,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "Not through the winter. I've ensured her quiet comfort.",
+    "cliffhanger_line": "Then let them believe it a little longer.",
+    "viewer_takeaway": "A presumed-dead heir learns his estate has been hijacked by enemies holding his mother captive, and plots revenge.",
+    "why_it_works": "Political betrayal combined with a secret-identity revenge plot creates intense anticipation for the payback."
+  }
+}

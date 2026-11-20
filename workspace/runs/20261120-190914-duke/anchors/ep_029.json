@@ -1,0 +1,184 @@
+{
+  "episode": 29,
+  "prompt_version": "anchors-v1",
+  "model": "gemini:gemini-3.5-flash-lite",
+  "model_output": {
+    "hook_anchors": [
+      {
+        "beat_id": "E29.B003",
+        "hook_intensity": 7.0,
+        "device": "shove",
+        "excerpt": "Juliana resists furiously, her feet stumbling on the wet flagstones as the guards forcibly propel her forward",
+        "why": "Immediate physical struggle in chains draws the viewer in right away."
+      },
+      {
+        "beat_id": "E29.B012",
+        "hook_intensity": 8.0,
+        "device": "insult",
+        "excerpt": "Your mother's little book of weeds?",
+        "why": "Condescending mockery over a dead parent's legacy creates instant emotional friction."
+      },
+      {
+        "beat_id": "E29.B021",
+        "hook_intensity": 9.0,
+        "device": "threat",
+        "excerpt": "The magistrate will call it witchcraft.",
+        "why": "A life-threatening accusation of witchcraft raises the stakes immediately."
+      },
+      {
+        "beat_id": "E29.B029",
+        "hook_intensity": 9.0,
+        "device": "threat",
+        "excerpt": "I can burn it.",
+        "why": "Coldly threatening to destroy her mother's only legacy is intensely cruel and engaging."
+      },
+      {
+        "beat_id": "E29.B052",
+        "hook_intensity": 8.0,
+        "device": "shove",
+        "excerpt": "The guards shove Juliana violently into the cell; she falls hard onto all fours across the cold, wet stone floor.",
+        "why": "Harsh physical mistreatment hooks the audience into wanting justice for her."
+      },
+      {
+        "beat_id": "E29.B063",
+        "hook_intensity": 8.0,
+        "device": "confession",
+        "excerpt": "I saved her! I healed her!",
+        "why": "Desperate screaming of innocence against a corrupt punishment commands attention."
+      }
+    ],
+    "cliffhanger_anchors": [
+      {
+        "beat_id": "E29.B033",
+        "cliffhanger_tension": 7.0,
+        "open_question": "Will anyone remember her truth after they execute her?",
+        "excerpt": "no one will remember what was written inside.",
+        "why": "Leaves a chilling reminder of the grim fate awaiting her."
+      },
+      {
+        "beat_id": "E29.B041",
+        "cliffhanger_tension": 8.0,
+        "open_question": "What happened to Juliana when she was cast out before?",
+        "excerpt": "You should have stayed forgotten.",
+        "why": "Teases a dark past connection and a deeper hostility between them."
+      },
+      {
+        "beat_id": "E29.B047",
+        "cliffhanger_tension": 7.0,
+        "open_question": "Can her husband actually save her from Ashbrook?",
+        "excerpt": "What exactly do you think a penniless veteran can do against Ashbrook?",
+        "why": "Directly challenges whether her ally can overcome insurmountable odds."
+      },
+      {
+        "beat_id": "E29.B070",
+        "cliffhanger_tension": 9.0,
+        "open_question": "What is Juliana planning to do to protect Alexander?",
+        "excerpt": "They took her locket. But they will not take Alexander from me.",
+        "why": "Shifts her character from helpless victim to dangerous protector."
+      }
+    ]
+  },
+  "accepted": [
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E29.B033",
+      "episode": 29,
+      "strength": 7,
+      "label": "Will anyone remember her truth after they execute her?",
+      "excerpt": "no one will remember what was written inside.",
+      "why": "Leaves a chilling reminder of the grim fate awaiting her.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E29.B041",
+      "episode": 29,
+      "strength": 8,
+      "label": "What happened to Juliana when she was cast out before?",
+      "excerpt": "You should have stayed forgotten.",
+      "why": "Teases a dark past connection and a deeper hostility between them.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E29.B047",
+      "episode": 29,
+      "strength": 7,
+      "label": "Can her husband actually save her from Ashbrook?",
+      "excerpt": "What exactly do you think a penniless veteran can do against Ashbrook?",
+      "why": "Directly challenges whether her ally can overcome insurmountable odds.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E29.B070",
+      "episode": 29,
+      "strength": 9,
+      "label": "What is Juliana planning to do to protect Alexander?",
+      "excerpt": "They took her locket. But they will not take Alexander from me.",
+      "why": "Shifts her character from helpless victim to dangerous protector.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E29.B003",
+      "episode": 29,
+      "strength": 7,
+      "label": "shove",
+      "excerpt": "Juliana resists furiously, her feet stumbling on the wet flagstones as the guards forcibly propel her forward",
+      "why": "Immediate physical struggle in chains draws the viewer in right away.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E29.B012",
+      "episode": 29,
+      "strength": 8,
+      "label": "insult",
+      "excerpt": "Your mother's little book of weeds?",
+      "why": "Condescending mockery over a dead parent's legacy creates instant emotional friction.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E29.B021",
+      "episode": 29,
+      "strength": 9,
+      "label": "threat",
+      "excerpt": "The magistrate will call it witchcraft.",
+      "why": "A life-threatening accusation of witchcraft raises the stakes immediately.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E29.B029",
+      "episode": 29,
+      "strength": 9,
+      "label": "threat",
+      "excerpt": "I can burn it.",
+      "why": "Coldly threatening to destroy her mother's only legacy is intensely cruel and engaging.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E29.B052",
+      "episode": 29,
+      "strength": 8,
+      "label": "shove",
+      "excerpt": "The guards shove Juliana violently into the cell; she falls hard onto all fours across the cold, wet stone floor.",
+      "why": "Harsh physical mistreatment hooks the audience into wanting justice for her.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E29.B063",
+      "episode": 29,
+      "strength": 8,
+      "label": "confession",
+      "excerpt": "I saved her! I healed her!",
+      "why": "Desperate screaming of innocence against a corrupt punishment commands attention.",
+      "repointed_from": null
+    }
+  ],
+  "dropped": []
+}

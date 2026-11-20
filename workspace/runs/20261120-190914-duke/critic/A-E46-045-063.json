@@ -1,0 +1,24 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "A-E46-045-063",
+    "first_3s_hook": 7.0,
+    "cliffhanger_open": 8.0,
+    "cold_viewer_clarity": 6.0,
+    "ambiguity": [
+      {
+        "kind": "prior_event",
+        "beat_id": "E46.B051",
+        "detail": "Unclear what happened three years ago or why the marriage license is disputed."
+      }
+    ],
+    "ending_resolves_tension": false,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "God married us, Father! You are just angry no one asked you first!",
+    "cliffhanger_line": "Ten days. And if the council rules against you, this county watches you lose her twice.",
+    "viewer_takeaway": "A defiant Duke and his wife go toe-to-toe with a corrupt High Priest over the validity of their wedding.",
+    "why_it_works": "Strong power-struggle dialogue and a ticking-clock ultimatum that drives viewers to the next episode."
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "A-E30-018-030",
+    "first_3s_hook": 8.0,
+    "cliffhanger_open": 8.0,
+    "cold_viewer_clarity": 6.0,
+    "ambiguity": [
+      {
+        "kind": "relationship",
+        "beat_id": "E30.B018",
+        "detail": "The power dynamics and specific familial or political ties between the elder nobleman, Rupert, and Catherine are not fully explained."
+      }
+    ],
+    "ending_resolves_tension": false,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "Then make certain she isn't! A peasant weed, Rupert! You do not store weeds in your cellar, you burn them!",
+    "cliffhanger_line": "We use the law to destroy her.",
+    "viewer_takeaway": "A group of ruthless nobles are conspiring to falsely accuse and legally destroy an imprisoned person.",
+    "why_it_works": "Pure villain plotting creates a chilling atmosphere that makes the viewer root desperately for the unseen victim."
+  }
+}

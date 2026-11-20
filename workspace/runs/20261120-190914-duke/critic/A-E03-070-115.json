@@ -1,0 +1,24 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "A-E03-070-115",
+    "first_3s_hook": 9.0,
+    "cliffhanger_open": 9.0,
+    "cold_viewer_clarity": 8.0,
+    "ambiguity": [
+      {
+        "kind": "relationship",
+        "beat_id": "E03.B075",
+        "detail": "The Bearded Stranger's motives for defending a complete stranger are entirely unrevealed."
+      }
+    ],
+    "ending_resolves_tension": false,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "What are you waiting for?! He's only one man!",
+    "cliffhanger_line": "Lady Juliana... accept my hand.",
+    "viewer_takeaway": "A mysterious badass steps in to rescue a humiliated bride and proposes to her on the spot.",
+    "why_it_works": "Action, instant redemption, and a classic romance trope delivered with high production value create an elite vertical hook."
+  }
+}

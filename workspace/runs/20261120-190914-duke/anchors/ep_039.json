@@ -1,0 +1,99 @@
+{
+  "episode": 39,
+  "prompt_version": "anchors-v1",
+  "model": "gemini:gemini-3.5-flash-lite",
+  "model_output": {
+    "hook_anchors": [
+      {
+        "beat_id": "E39.B018",
+        "hook_intensity": 7.0,
+        "device": "threat",
+        "excerpt": "Stop!",
+        "why": "A sudden military command interrupting the cart creates immediate tension."
+      },
+      {
+        "beat_id": "E39.B021",
+        "hook_intensity": 9.0,
+        "device": "physical shock",
+        "excerpt": "tackling him violently against the wooden carriage wheel",
+        "why": "An explosive physical ambush catches the viewer off guard."
+      },
+      {
+        "beat_id": "E39.B040",
+        "hook_intensity": 8.0,
+        "device": "reveal",
+        "excerpt": "They buried Alexander Ashwin three years ago.",
+        "why": "A powerful declaration of identity that signals a major turning point."
+      },
+      {
+        "beat_id": "E39.B047",
+        "hook_intensity": 7.0,
+        "device": "submission",
+        "excerpt": "Your Grace.",
+        "why": "The sudden submissive salute reveals his true high status to the audience."
+      }
+    ],
+    "cliffhanger_anchors": [
+      {
+        "beat_id": "E39.B057",
+        "cliffhanger_tension": 9.0,
+        "open_question": "Will Alexander successfully rescue his wife and reclaim his house?",
+        "excerpt": "And I am bringing my wife home.",
+        "why": "A resolute vow that leaves the ultimate mission hanging right before the cut to black."
+      }
+    ]
+  },
+  "accepted": [
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E39.B057",
+      "episode": 39,
+      "strength": 9,
+      "label": "Will Alexander successfully rescue his wife and reclaim his house?",
+      "excerpt": "And I am bringing my wife home.",
+      "why": "A resolute vow that leaves the ultimate mission hanging right before the cut to black.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E39.B018",
+      "episode": 39,
+      "strength": 7,
+      "label": "threat",
+      "excerpt": "Stop!",
+      "why": "A sudden military command interrupting the cart creates immediate tension.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E39.B021",
+      "episode": 39,
+      "strength": 9,
+      "label": "physical shock",
+      "excerpt": "tackling him violently against the wooden carriage wheel",
+      "why": "An explosive physical ambush catches the viewer off guard.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E39.B040",
+      "episode": 39,
+      "strength": 8,
+      "label": "reveal",
+      "excerpt": "They buried Alexander Ashwin three years ago.",
+      "why": "A powerful declaration of identity that signals a major turning point.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E39.B047",
+      "episode": 39,
+      "strength": 7,
+      "label": "submission",
+      "excerpt": "Your Grace.",
+      "why": "The sudden submissive salute reveals his true high status to the audience.",
+      "repointed_from": null
+    }
+  ],
+  "dropped": []
+}

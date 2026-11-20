@@ -1,0 +1,116 @@
+{
+  "episode": 40,
+  "prompt_version": "anchors-v1",
+  "model": "gemini:gemini-3.5-flash-lite",
+  "model_output": {
+    "hook_anchors": [
+      {
+        "beat_id": "E40.B011",
+        "hook_intensity": 7.0,
+        "device": "taunt",
+        "excerpt": "Imagine Juliana seeing this.",
+        "why": "Establishes immediate malicious intent toward the protagonist."
+      },
+      {
+        "beat_id": "E40.B013",
+        "hook_intensity": 8.0,
+        "device": "threat",
+        "excerpt": "She won't be seeing anything for long.",
+        "why": "A direct, chilling death threat that hooks the viewer into the stakes."
+      },
+      {
+        "beat_id": "E40.B037",
+        "hook_intensity": 9.0,
+        "device": "threat",
+        "excerpt": "And its witch will be dead.",
+        "why": "High-stakes declaration that frames the wedding as a cover for an execution."
+      },
+      {
+        "beat_id": "E40.B049",
+        "hook_intensity": 7.0,
+        "device": "insult",
+        "excerpt": "And you look better in silk than you ever did as an ignored cousin.",
+        "why": "Sharp, manipulative banter exposes the bride and groom's true nature."
+      }
+    ],
+    "cliffhanger_anchors": [
+      {
+        "beat_id": "E40.B035",
+        "cliffhanger_tension": 7.0,
+        "open_question": "Will they succeed in seizing power and killing Juliana?",
+        "excerpt": "By sunset, Ashburgh will have its new Duke and Duchess.",
+        "why": "Frames the overarching conspiracy right before the climax of the wedding arrival."
+      },
+      {
+        "beat_id": "E40.B050",
+        "cliffhanger_tension": 9.0,
+        "open_question": "What will happen now that the wedding is underway and the traps are set?",
+        "excerpt": "Rupert and Catherine exchange conspiratorial, triumphant smiles",
+        "why": "Leaves the villains celebrating their trap just as the episode cuts to black."
+      }
+    ]
+  },
+  "accepted": [
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E40.B035",
+      "episode": 40,
+      "strength": 7,
+      "label": "Will they succeed in seizing power and killing Juliana?",
+      "excerpt": "By sunset, Ashburgh will have its new Duke and Duchess.",
+      "why": "Frames the overarching conspiracy right before the climax of the wedding arrival.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E40.B050",
+      "episode": 40,
+      "strength": 9,
+      "label": "What will happen now that the wedding is underway and the traps are set?",
+      "excerpt": "Rupert and Catherine exchange conspiratorial, triumphant smiles",
+      "why": "Leaves the villains celebrating their trap just as the episode cuts to black.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E40.B011",
+      "episode": 40,
+      "strength": 7,
+      "label": "taunt",
+      "excerpt": "Imagine Juliana seeing this.",
+      "why": "Establishes immediate malicious intent toward the protagonist.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E40.B013",
+      "episode": 40,
+      "strength": 8,
+      "label": "threat",
+      "excerpt": "She won't be seeing anything for long.",
+      "why": "A direct, chilling death threat that hooks the viewer into the stakes.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E40.B037",
+      "episode": 40,
+      "strength": 9,
+      "label": "threat",
+      "excerpt": "And its witch will be dead.",
+      "why": "High-stakes declaration that frames the wedding as a cover for an execution.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E40.B049",
+      "episode": 40,
+      "strength": 7,
+      "label": "insult",
+      "excerpt": "And you look better in silk than you ever did as an ignored cousin.",
+      "why": "Sharp, manipulative banter exposes the bride and groom's true nature.",
+      "repointed_from": null
+    }
+  ],
+  "dropped": []
+}

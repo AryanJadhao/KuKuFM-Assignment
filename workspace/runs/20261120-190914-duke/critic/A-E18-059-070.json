@@ -1,0 +1,24 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "A-E18-059-070",
+    "first_3s_hook": 9.0,
+    "cliffhanger_open": 5.0,
+    "cold_viewer_clarity": 8.0,
+    "ambiguity": [
+      {
+        "kind": "prior_event",
+        "beat_id": "E18.B070",
+        "detail": "The specific identity of the arsonist is unknown."
+      }
+    ],
+    "ending_resolves_tension": false,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "Alexander leaps forward, using his shoulder and back to shatter through the burning window frame, carrying Juliana safely in his arms out into the night.",
+    "cliffhanger_line": "Alexander...",
+    "viewer_takeaway": "After narrowly escaping an explosion and watching their home burn down, the survivors search for answers.",
+    "why_it_works": "The explosive window crash hook instantly pulls scrollers in, followed by deeply emotional post-disaster grief."
+  }
+}

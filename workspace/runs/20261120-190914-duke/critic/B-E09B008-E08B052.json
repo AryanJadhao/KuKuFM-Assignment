@@ -1,0 +1,18 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "B-E09B008-E08B052",
+    "first_3s_hook": 8.0,
+    "cliffhanger_open": 6.0,
+    "cold_viewer_clarity": 8.0,
+    "ambiguity": [],
+    "ending_resolves_tension": false,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "Please! They told me there was a woman here who knows herbs. My boy is burning with fever!",
+    "cliffhanger_line": "Some were.",
+    "viewer_takeaway": "A capable woman and her rugged protector share quiet domestic moments while studying herbs and revealing pieces of his past.",
+    "why_it_works": "The medical emergency flash-forward hooks scrollers instantly before transitioning into a sweet, character-building bonding scene."
+  }
+}

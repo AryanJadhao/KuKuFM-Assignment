@@ -1,0 +1,133 @@
+{
+  "episode": 17,
+  "prompt_version": "anchors-v1",
+  "model": "gemini:gemini-3.5-flash-lite",
+  "model_output": {
+    "hook_anchors": [
+      {
+        "beat_id": "E17.B016",
+        "hook_intensity": 7.0,
+        "device": "confession",
+        "excerpt": "I would do it again.",
+        "why": "A strong declaration of protective devotion following a brutal attack."
+      },
+      {
+        "beat_id": "E17.B022",
+        "hook_intensity": 8.0,
+        "device": "threat",
+        "excerpt": "...no one will hurt you again.",
+        "why": "A fierce, absolute vow of protection delivered directly to her."
+      },
+      {
+        "beat_id": "E17.B044",
+        "hook_intensity": 8.0,
+        "device": "confession",
+        "excerpt": "Of losing you.",
+        "why": "An emotionally raw admission of deep romantic attachment."
+      },
+      {
+        "beat_id": "E17.B071",
+        "hook_intensity": 6.0,
+        "device": "confession",
+        "excerpt": "I know almost nothing about the man I married.",
+        "why": "A compelling voiceover statement highlighting the mystery and tension in their relationship."
+      }
+    ],
+    "cliffhanger_anchors": [
+      {
+        "beat_id": "E17.B024",
+        "cliffhanger_tension": 6.0,
+        "open_question": "Can Alexander truly keep his dangerous promise to protect her?",
+        "excerpt": "You cannot promise that.",
+        "why": "Challenges his bold vow, leaving uncertainty about the dangers they face."
+      },
+      {
+        "beat_id": "E17.B056",
+        "cliffhanger_tension": 5.0,
+        "open_question": "Will their playful banter lead to a deeper emotional breakthrough?",
+        "excerpt": "This is becoming impossible.",
+        "why": "Highlights the growing intimacy between them while keeping the viewer hooked on their developing bond."
+      },
+      {
+        "beat_id": "E17.B073",
+        "cliffhanger_tension": 7.0,
+        "open_question": "What secrets is Alexander still hiding from her?",
+        "excerpt": "But every day, he gives me another reason to trust him.",
+        "why": "Leaves the audience wondering if his mysterious past will eventually threaten their fragile peace."
+      }
+    ]
+  },
+  "accepted": [
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E17.B024",
+      "episode": 17,
+      "strength": 6,
+      "label": "Can Alexander truly keep his dangerous promise to protect her?",
+      "excerpt": "You cannot promise that.",
+      "why": "Challenges his bold vow, leaving uncertainty about the dangers they face.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E17.B056",
+      "episode": 17,
+      "strength": 5,
+      "label": "Will their playful banter lead to a deeper emotional breakthrough?",
+      "excerpt": "This is becoming impossible.",
+      "why": "Highlights the growing intimacy between them while keeping the viewer hooked on their developing bond.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E17.B073",
+      "episode": 17,
+      "strength": 7,
+      "label": "What secrets is Alexander still hiding from her?",
+      "excerpt": "But every day, he gives me another reason to trust him.",
+      "why": "Leaves the audience wondering if his mysterious past will eventually threaten their fragile peace.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E17.B016",
+      "episode": 17,
+      "strength": 7,
+      "label": "confession",
+      "excerpt": "I would do it again.",
+      "why": "A strong declaration of protective devotion following a brutal attack.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E17.B022",
+      "episode": 17,
+      "strength": 8,
+      "label": "threat",
+      "excerpt": "...no one will hurt you again.",
+      "why": "A fierce, absolute vow of protection delivered directly to her.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E17.B044",
+      "episode": 17,
+      "strength": 8,
+      "label": "confession",
+      "excerpt": "Of losing you.",
+      "why": "An emotionally raw admission of deep romantic attachment.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E17.B071",
+      "episode": 17,
+      "strength": 6,
+      "label": "confession",
+      "excerpt": "I know almost nothing about the man I married.",
+      "why": "A compelling voiceover statement highlighting the mystery and tension in their relationship.",
+      "repointed_from": null
+    }
+  ],
+  "dropped": []
+}

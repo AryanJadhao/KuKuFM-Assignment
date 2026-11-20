@@ -1,0 +1,167 @@
+{
+  "episode": 2,
+  "prompt_version": "anchors-v1",
+  "model": "gemini:gemini-3.5-flash",
+  "model_output": {
+    "hook_anchors": [
+      {
+        "beat_id": "E02.B001",
+        "hook_intensity": 9.0,
+        "device": "rejection",
+        "excerpt": "I cannot marry you, Juliana.",
+        "why": "The groom bluntly cancels the wedding at the altar, establishing instant high stakes."
+      },
+      {
+        "beat_id": "E02.B016",
+        "hook_intensity": 8.0,
+        "device": "betrayal",
+        "excerpt": "Promises change when a better choice appears.",
+        "why": "A callous betrayal delivered coldly in public to justify leaving his bride."
+      },
+      {
+        "beat_id": "E02.B037",
+        "hook_intensity": 8.0,
+        "device": "insult",
+        "excerpt": "You look like a kitchen maid who wandered into the wrong wedding.",
+        "why": "A vicious, cruel insult from the rival sister designed to humiliate the bride."
+      },
+      {
+        "beat_id": "E02.B061",
+        "hook_intensity": 8.0,
+        "device": "defiance",
+        "excerpt": "Do not mistake my heartbreak for your victory, Gerald.",
+        "why": "A sharp, fiery turnaround beat where the victim seizes control of the room."
+      },
+      {
+        "beat_id": "E02.B066",
+        "hook_intensity": 9.0,
+        "device": "accusation",
+        "excerpt": "You have shown them exactly what your word is worth.",
+        "why": "A devastating public indictment that strips the arrogant groom of his honor."
+      }
+    ],
+    "cliffhanger_anchors": [
+      {
+        "beat_id": "E02.B029",
+        "cliffhanger_tension": 7.0,
+        "open_question": "Will Juliana submit to her father's harsh command?",
+        "excerpt": "Do not disgrace us further.",
+        "why": "Her father sides with the groom, leaving Juliana completely isolated in front of the guests."
+      },
+      {
+        "beat_id": "E02.B051",
+        "cliffhanger_tension": 7.0,
+        "open_question": "Will Juliana leave the chapel in defeat or take a stand?",
+        "excerpt": "Go home quietly, Juliana. At least leave this chapel with some dignity.",
+        "why": "Gerald demands her immediate departure, building suspense for her impending retaliation."
+      },
+      {
+        "beat_id": "E02.B066",
+        "cliffhanger_tension": 8.0,
+        "open_question": "How will Gerald respond to Juliana's devastating public rebuke?",
+        "excerpt": "You have shown them exactly what your word is worth.",
+        "why": "Juliana lands a crushing moral blow, leaving the groom stunned and speechlessly exposed."
+      },
+      {
+        "beat_id": "E02.B072",
+        "cliffhanger_tension": 8.0,
+        "open_question": "What will Juliana do now that she has walked away on her own terms?",
+        "excerpt": "but I will not leave it believing I was the one who should be ashamed.",
+        "why": "A powerful climax leaving her immediate next move after walking out uncertain."
+      }
+    ]
+  },
+  "accepted": [
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E02.B029",
+      "episode": 2,
+      "strength": 7,
+      "label": "Will Juliana submit to her father's harsh command?",
+      "excerpt": "Do not disgrace us further.",
+      "why": "Her father sides with the groom, leaving Juliana completely isolated in front of the guests.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E02.B051",
+      "episode": 2,
+      "strength": 7,
+      "label": "Will Juliana leave the chapel in defeat or take a stand?",
+      "excerpt": "Go home quietly, Juliana. At least leave this chapel with some dignity.",
+      "why": "Gerald demands her immediate departure, building suspense for her impending retaliation.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E02.B066",
+      "episode": 2,
+      "strength": 8,
+      "label": "How will Gerald respond to Juliana's devastating public rebuke?",
+      "excerpt": "You have shown them exactly what your word is worth.",
+      "why": "Juliana lands a crushing moral blow, leaving the groom stunned and speechlessly exposed.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E02.B072",
+      "episode": 2,
+      "strength": 8,
+      "label": "What will Juliana do now that she has walked away on her own terms?",
+      "excerpt": "but I will not leave it believing I was the one who should be ashamed.",
+      "why": "A powerful climax leaving her immediate next move after walking out uncertain.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E02.B001",
+      "episode": 2,
+      "strength": 9,
+      "label": "rejection",
+      "excerpt": "I cannot marry you, Juliana.",
+      "why": "The groom bluntly cancels the wedding at the altar, establishing instant high stakes.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E02.B016",
+      "episode": 2,
+      "strength": 8,
+      "label": "betrayal",
+      "excerpt": "Promises change when a better choice appears.",
+      "why": "A callous betrayal delivered coldly in public to justify leaving his bride.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E02.B037",
+      "episode": 2,
+      "strength": 8,
+      "label": "insult",
+      "excerpt": "You look like a kitchen maid who wandered into the wrong wedding.",
+      "why": "A vicious, cruel insult from the rival sister designed to humiliate the bride.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E02.B061",
+      "episode": 2,
+      "strength": 8,
+      "label": "defiance",
+      "excerpt": "Do not mistake my heartbreak for your victory, Gerald.",
+      "why": "A sharp, fiery turnaround beat where the victim seizes control of the room.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E02.B066",
+      "episode": 2,
+      "strength": 9,
+      "label": "accusation",
+      "excerpt": "You have shown them exactly what your word is worth.",
+      "why": "A devastating public indictment that strips the arrogant groom of his honor.",
+      "repointed_from": null
+    }
+  ],
+  "dropped": []
+}

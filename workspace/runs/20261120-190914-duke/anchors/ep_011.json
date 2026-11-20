@@ -1,0 +1,167 @@
+{
+  "episode": 11,
+  "prompt_version": "anchors-v1",
+  "model": "gemini:gemini-3.5-flash",
+  "model_output": {
+    "hook_anchors": [
+      {
+        "beat_id": "E11.B015",
+        "hook_intensity": 8.0,
+        "device": "accusation",
+        "excerpt": "Your husband stole my gold pocket watch!",
+        "why": "Gerald delivers a direct, high-stakes accusation of grand theft."
+      },
+      {
+        "beat_id": "E11.B027",
+        "hook_intensity": 7.0,
+        "device": "insult",
+        "excerpt": "Of course you would defend him. You married a beggar!",
+        "why": "Gerald hurls a sharp social insult directly at Juliana."
+      },
+      {
+        "beat_id": "E11.B029",
+        "hook_intensity": 8.0,
+        "device": "threat",
+        "excerpt": "Choose your next words carefully.",
+        "why": "Alexander steps in with a chilling, low menace that promises violence."
+      },
+      {
+        "beat_id": "E11.B068",
+        "hook_intensity": 7.0,
+        "device": "provocation",
+        "excerpt": "Going to strike a gentleman in front of his wife?",
+        "why": "Gerald directly taunts Alexander to hit him in front of witnesses."
+      },
+      {
+        "beat_id": "E11.B077",
+        "hook_intensity": 9.0,
+        "device": "reveal",
+        "excerpt": "withdrawing a gleaming gold pocket watch with an attached chain.",
+        "why": "The instant visual proof of planted evidence creates immediate shock."
+      }
+    ],
+    "cliffhanger_anchors": [
+      {
+        "beat_id": "E11.B029",
+        "cliffhanger_tension": 7.0,
+        "open_question": "Will Alexander attack Gerald right in front of the constable?",
+        "excerpt": "Choose your next words carefully.",
+        "why": "Alexander's menace threatens an immediate violent outburst."
+      },
+      {
+        "beat_id": "E11.B039",
+        "cliffhanger_tension": 6.0,
+        "open_question": "Will the constable break past Juliana and search the home?",
+        "excerpt": "You cannot simply invade our home because this man makes an accusation!",
+        "why": "Juliana physically stands in the way of an unlawful search."
+      },
+      {
+        "beat_id": "E11.B073",
+        "cliffhanger_tension": 7.0,
+        "open_question": "Will Alexander lose control and ruin their lives with one blow?",
+        "excerpt": "But one blow would destroy her life.",
+        "why": "Alexander's internal struggle leaves his reaction suspended on a razor's edge."
+      },
+      {
+        "beat_id": "E11.B084",
+        "cliffhanger_tension": 10.0,
+        "open_question": "How can Alexander prove his innocence now that the watch was found?",
+        "excerpt": "gold pocket watch dangling and swaying gently from the Constable's fingers",
+        "why": "The episode freezes on damning evidence being revealed, leaving the hero defenseless."
+      }
+    ]
+  },
+  "accepted": [
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E11.B029",
+      "episode": 11,
+      "strength": 7,
+      "label": "Will Alexander attack Gerald right in front of the constable?",
+      "excerpt": "Choose your next words carefully.",
+      "why": "Alexander's menace threatens an immediate violent outburst.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E11.B039",
+      "episode": 11,
+      "strength": 6,
+      "label": "Will the constable break past Juliana and search the home?",
+      "excerpt": "You cannot simply invade our home because this man makes an accusation!",
+      "why": "Juliana physically stands in the way of an unlawful search.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E11.B073",
+      "episode": 11,
+      "strength": 7,
+      "label": "Will Alexander lose control and ruin their lives with one blow?",
+      "excerpt": "But one blow would destroy her life.",
+      "why": "Alexander's internal struggle leaves his reaction suspended on a razor's edge.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E11.B084",
+      "episode": 11,
+      "strength": 10,
+      "label": "How can Alexander prove his innocence now that the watch was found?",
+      "excerpt": "gold pocket watch dangling and swaying gently from the Constable's fingers",
+      "why": "The episode freezes on damning evidence being revealed, leaving the hero defenseless.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E11.B015",
+      "episode": 11,
+      "strength": 8,
+      "label": "accusation",
+      "excerpt": "Your husband stole my gold pocket watch!",
+      "why": "Gerald delivers a direct, high-stakes accusation of grand theft.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E11.B027",
+      "episode": 11,
+      "strength": 7,
+      "label": "insult",
+      "excerpt": "Of course you would defend him. You married a beggar!",
+      "why": "Gerald hurls a sharp social insult directly at Juliana.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E11.B029",
+      "episode": 11,
+      "strength": 8,
+      "label": "threat",
+      "excerpt": "Choose your next words carefully.",
+      "why": "Alexander steps in with a chilling, low menace that promises violence.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E11.B068",
+      "episode": 11,
+      "strength": 7,
+      "label": "provocation",
+      "excerpt": "Going to strike a gentleman in front of his wife?",
+      "why": "Gerald directly taunts Alexander to hit him in front of witnesses.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E11.B077",
+      "episode": 11,
+      "strength": 9,
+      "label": "reveal",
+      "excerpt": "withdrawing a gleaming gold pocket watch with an attached chain.",
+      "why": "The instant visual proof of planted evidence creates immediate shock.",
+      "repointed_from": null
+    }
+  ],
+  "dropped": []
+}

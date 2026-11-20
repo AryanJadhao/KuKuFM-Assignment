@@ -1,0 +1,167 @@
+{
+  "episode": 20,
+  "prompt_version": "anchors-v1",
+  "model": "gemini:gemini-3.5-flash-lite",
+  "model_output": {
+    "hook_anchors": [
+      {
+        "beat_id": "E20.B003",
+        "hook_intensity": 7.0,
+        "device": "taunt",
+        "excerpt": "Or has your sudden climb to power sweetened your taste already?",
+        "why": "Establishes immediate tension and plotting between the characters."
+      },
+      {
+        "beat_id": "E20.B010",
+        "hook_intensity": 8.0,
+        "device": "insult",
+        "excerpt": "'Practically' is a word for beggars. I do not marry a practical Duke.",
+        "why": "A sharp, arrogant put-down that reveals her ruthless nature."
+      },
+      {
+        "beat_id": "E20.B026",
+        "hook_intensity": 9.0,
+        "device": "confession",
+        "excerpt": "Not through the winter. I've ensured her quiet comfort.",
+        "why": "A thinly veiled confession of murdering the Dowager Duchess."
+      },
+      {
+        "beat_id": "E20.B040",
+        "hook_intensity": 8.0,
+        "device": "threat",
+        "excerpt": "If I stop, Seamus, the lung fever in the valley wins.",
+        "why": "Shows immediate high stakes and stubborn defiance against the illness."
+      },
+      {
+        "beat_id": "E20.B056",
+        "hook_intensity": 7.0,
+        "device": "cruelty",
+        "excerpt": "Let the peasants rot in their barns.",
+        "why": "Demonstrates utter callousness and hatred for the villagers."
+      }
+    ],
+    "cliffhanger_anchors": [
+      {
+        "beat_id": "E20.B021",
+        "cliffhanger_tension": 6.0,
+        "open_question": "What is causing the Dowager's mysterious illness?",
+        "excerpt": "They call it a wasting of the lungs.",
+        "why": "Highlights the sinister, slow medical plot unfolding against the Duchess."
+      },
+      {
+        "beat_id": "E20.B033",
+        "cliffhanger_tension": 7.0,
+        "open_question": "Will the peasants discover the plot before she wears the crown?",
+        "excerpt": "They will learn their place when you wear the ducal crown.",
+        "why": "Sets up the impending tyranny over the suffering villagers."
+      },
+      {
+        "beat_id": "E20.B052",
+        "cliffhanger_tension": 7.0,
+        "open_question": "How will Juliana fight back against her ruin?",
+        "excerpt": "And I am not finished.",
+        "why": "Leaves her fierce resistance hanging with a promise of more conflict."
+      },
+      {
+        "beat_id": "E20.B067",
+        "cliffhanger_tension": 9.0,
+        "open_question": "Will Catherine's ambition destroy everyone in her path?",
+        "excerpt": "This house will only bow to me.",
+        "why": "Ends on a menacing, powerful note of absolute greed and resolve."
+      }
+    ]
+  },
+  "accepted": [
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E20.B021",
+      "episode": 20,
+      "strength": 6,
+      "label": "What is causing the Dowager's mysterious illness?",
+      "excerpt": "They call it a wasting of the lungs.",
+      "why": "Highlights the sinister, slow medical plot unfolding against the Duchess.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E20.B033",
+      "episode": 20,
+      "strength": 7,
+      "label": "Will the peasants discover the plot before she wears the crown?",
+      "excerpt": "They will learn their place when you wear the ducal crown.",
+      "why": "Sets up the impending tyranny over the suffering villagers.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E20.B052",
+      "episode": 20,
+      "strength": 7,
+      "label": "How will Juliana fight back against her ruin?",
+      "excerpt": "And I am not finished.",
+      "why": "Leaves her fierce resistance hanging with a promise of more conflict.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E20.B066",
+      "episode": 20,
+      "strength": 9,
+      "label": "Will Catherine's ambition destroy everyone in her path?",
+      "excerpt": "This house will only bow to me.",
+      "why": "Ends on a menacing, powerful note of absolute greed and resolve.",
+      "repointed_from": "E20.B067"
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E20.B003",
+      "episode": 20,
+      "strength": 7,
+      "label": "taunt",
+      "excerpt": "Or has your sudden climb to power sweetened your taste already?",
+      "why": "Establishes immediate tension and plotting between the characters.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E20.B010",
+      "episode": 20,
+      "strength": 8,
+      "label": "insult",
+      "excerpt": "'Practically' is a word for beggars. I do not marry a practical Duke.",
+      "why": "A sharp, arrogant put-down that reveals her ruthless nature.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E20.B026",
+      "episode": 20,
+      "strength": 9,
+      "label": "confession",
+      "excerpt": "Not through the winter. I've ensured her quiet comfort.",
+      "why": "A thinly veiled confession of murdering the Dowager Duchess.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E20.B040",
+      "episode": 20,
+      "strength": 8,
+      "label": "threat",
+      "excerpt": "If I stop, Seamus, the lung fever in the valley wins.",
+      "why": "Shows immediate high stakes and stubborn defiance against the illness.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E20.B056",
+      "episode": 20,
+      "strength": 7,
+      "label": "cruelty",
+      "excerpt": "Let the peasants rot in their barns.",
+      "why": "Demonstrates utter callousness and hatred for the villagers.",
+      "repointed_from": null
+    }
+  ],
+  "dropped": []
+}

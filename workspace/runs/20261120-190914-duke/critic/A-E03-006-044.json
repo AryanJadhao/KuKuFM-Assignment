@@ -1,0 +1,29 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "A-E03-006-044",
+    "first_3s_hook": 8.0,
+    "cliffhanger_open": 8.0,
+    "cold_viewer_clarity": 7.0,
+    "ambiguity": [
+      {
+        "kind": "relationship",
+        "beat_id": "E03.B006",
+        "detail": "Gerald's exact past relationship to Juliana is only implied as a stolen wedding."
+      },
+      {
+        "kind": "unexplained_name",
+        "beat_id": "E03.B017",
+        "detail": "The Noble Matriarch's exact familial connection to Juliana is stated broadly but not specified by name."
+      }
+    ],
+    "ending_resolves_tension": false,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "You stole my wedding.",
+    "cliffhanger_line": "...and it isn't you.",
+    "viewer_takeaway": "A jilted bride is ruthlessly disowned and cast out by her aristocratic family at the altar.",
+    "why_it_works": "High emotional stakes, immediate conflict, and pure villainous coldness make it impossible to look away."
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "episode": 44,
+  "prompt_version": "anchors-v1",
+  "model": "gemini:gemini-3.5-flash-lite",
+  "model_output": {
+    "hook_anchors": [
+      {
+        "beat_id": "E44.B003",
+        "hook_intensity": 7.0,
+        "device": "threat",
+        "excerpt": "Lord Henry Sterling, you are under arrest by order of the Crown.",
+        "why": "A sudden and authoritative arrest right at the start grabs immediate attention."
+      },
+      {
+        "beat_id": "E44.B029",
+        "hook_intensity": 8.0,
+        "device": "humiliation",
+        "excerpt": "Alexander abruptly pulls his face back, refusing her touch",
+        "why": "A brutally public and physical rejection creates instant dramatic tension."
+      },
+      {
+        "beat_id": "E44.B036",
+        "hook_intensity": 9.0,
+        "device": "insult",
+        "excerpt": "You were never my Duchess.",
+        "why": "A harsh, cutting line that shatters the emotional plea and shocks the viewer."
+      },
+      {
+        "beat_id": "E44.B040",
+        "hook_intensity": 8.0,
+        "device": "insult",
+        "excerpt": "You loved the Duke you thought you would marry.",
+        "why": "A sharp psychological jab that invalidates her entire emotional history."
+      },
+      {
+        "beat_id": "E44.B053",
+        "hook_intensity": 10.0,
+        "device": "reveal",
+        "excerpt": "Her?!",
+        "why": "A horrified realization and gasp that hits like a physical blow when discovering the true rival."
+      }
+    ],
+    "cliffhanger_anchors": [
+      {
+        "beat_id": "E44.B031",
+        "cliffhanger_tension": 7.0,
+        "open_question": "How will Catherine react to being completely abandoned and humiliated?",
+        "excerpt": "Close-up on Catherine lowering her hand, stunned and deeply hurt by his rejection.",
+        "why": "Leaves her standing in agonizing shock after being brutally pushed away."
+      },
+      {
+        "beat_id": "E44.B047",
+        "cliffhanger_tension": 8.0,
+        "open_question": "Will Catherine find any words to defend her past love?",
+        "excerpt": "Close-up on Catherine, rendered speechless by his doubt.",
+        "why": "Freezes the dramatic confrontation at the peak of her emotional paralysis."
+      },
+      {
+        "beat_id": "E44.B052",
+        "cliffhanger_tension": 10.0,
+        "open_question": "Why has Alexander chosen the chained bride over Catherine?",
+        "excerpt": "Extreme close-up on Catherine's horrified, bewildered expression as she realizes who Alexander chose.",
+        "why": "Ends the episode on a devastating twist and a lingering question about his true intentions."
+      }
+    ]
+  },
+  "accepted": [
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E44.B031",
+      "episode": 44,
+      "strength": 7,
+      "label": "How will Catherine react to being completely abandoned and humiliated?",
+      "excerpt": "Close-up on Catherine lowering her hand, stunned and deeply hurt by his rejection.",
+      "why": "Leaves her standing in agonizing shock after being brutally pushed away.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E44.B047",
+      "episode": 44,
+      "strength": 8,
+      "label": "Will Catherine find any words to defend her past love?",
+      "excerpt": "Close-up on Catherine, rendered speechless by his doubt.",
+      "why": "Freezes the dramatic confrontation at the peak of her emotional paralysis.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E44.B052",
+      "episode": 44,
+      "strength": 10,
+      "label": "Why has Alexander chosen the chained bride over Catherine?",
+      "excerpt": "Extreme close-up on Catherine's horrified, bewildered expression as she realizes who Alexander chose.",
+      "why": "Ends the episode on a devastating twist and a lingering question about his true intentions.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E44.B003",
+      "episode": 44,
+      "strength": 7,
+      "label": "threat",
+      "excerpt": "Lord Henry Sterling, you are under arrest by order of the Crown.",
+      "why": "A sudden and authoritative arrest right at the start grabs immediate attention.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E44.B029",
+      "episode": 44,
+      "strength": 8,
+      "label": "humiliation",
+      "excerpt": "Alexander abruptly pulls his face back, refusing her touch",
+      "why": "A brutally public and physical rejection creates instant dramatic tension.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E44.B036",
+      "episode": 44,
+      "strength": 9,
+      "label": "insult",
+      "excerpt": "You were never my Duchess.",
+      "why": "A harsh, cutting line that shatters the emotional plea and shocks the viewer.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E44.B040",
+      "episode": 44,
+      "strength": 8,
+      "label": "insult",
+      "excerpt": "You loved the Duke you thought you would marry.",
+      "why": "A sharp psychological jab that invalidates her entire emotional history.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E44.B053",
+      "episode": 44,
+      "strength": 10,
+      "label": "reveal",
+      "excerpt": "Her?!",
+      "why": "A horrified realization and gasp that hits like a physical blow when discovering the true rival.",
+      "repointed_from": null
+    }
+  ],
+  "dropped": []
+}

@@ -1,0 +1,29 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "B-E41B046-E40B050",
+    "first_3s_hook": 8.0,
+    "cliffhanger_open": 7.0,
+    "cold_viewer_clarity": 6.0,
+    "ambiguity": [
+      {
+        "kind": "prior_event",
+        "beat_id": "E41.B046",
+        "detail": "The flash-forward explosion drops the viewer into chaos with zero context on who caused it."
+      },
+      {
+        "kind": "relationship",
+        "beat_id": "E40.B049s",
+        "detail": "Catherine and Rupert's past as 'ignored cousins' is hinted at but lacks background."
+      }
+    ],
+    "ending_resolves_tension": true,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "Ear-splitting detonation, shattering stone, wood splintering violently into kindling, followed by terrified screams of the congregation.",
+    "cliffhanger_line": "And you look better in silk than you ever did as an ignored cousin.",
+    "viewer_takeaway": "An ambitious couple is seizing power through a high-society wedding, foreshadowed by an explosion.",
+    "why_it_works": "The explosive cold open instantly grabs attention before flashing back to the arrogant bride and groom."
+  }
+}

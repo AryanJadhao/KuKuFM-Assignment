@@ -1,0 +1,29 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "A-E04-086-108",
+    "first_3s_hook": 9.0,
+    "cliffhanger_open": 5.0,
+    "cold_viewer_clarity": 7.0,
+    "ambiguity": [
+      {
+        "kind": "relationship",
+        "beat_id": "E04.B089",
+        "detail": "Clarissa's exact connection to Gerald and the family is unclear."
+      },
+      {
+        "kind": "unexplained_name",
+        "beat_id": "E04.B102",
+        "detail": "The Mysterious Bearded Man is not given a real name."
+      }
+    ],
+    "ending_resolves_tension": true,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "You have thrown yourself away!",
+    "cliffhanger_line": "Juliana and the Mysterious Bearded Man walk hand-in-hand through the towering doors into the sunlight together, turning their backs on the ruined wedding as the screen fades out.",
+    "viewer_takeaway": "A rebellious bride rejects her toxic, disowning family at the altar to walk away with a rugged stranger.",
+    "why_it_works": "High emotional stakes, immediate conflict, and a satisfying cinematic walk-out make this a great top-of-funnel vertical video."
+  }
+}

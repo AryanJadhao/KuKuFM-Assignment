@@ -1,0 +1,181 @@
+{
+  "episode": 28,
+  "prompt_version": "anchors-v1",
+  "model": "gemini:gemini-3.5-flash-lite",
+  "model_output": {
+    "hook_anchors": [
+      {
+        "beat_id": "E28.B003",
+        "hook_intensity": 7.0,
+        "device": "humiliation",
+        "excerpt": "Catherine's silk slipper steps down hard upon its embossed cover",
+        "why": "Visual dominance and disrespect toward Juliana's property immediately grabs attention."
+      },
+      {
+        "beat_id": "E28.B012",
+        "hook_intensity": 8.0,
+        "device": "accusation",
+        "excerpt": "She looks exactly like a poisoner",
+        "why": "A direct, venomous condemnation framed against the helpless protagonist."
+      },
+      {
+        "beat_id": "E28.B030",
+        "hook_intensity": 9.0,
+        "device": "confession",
+        "excerpt": "I was poisoned! And you... you knew!",
+        "why": "The bedridden matriarch drops a massive bombshell accusing Rupert of complicity."
+      },
+      {
+        "beat_id": "E28.B033",
+        "hook_intensity": 8.0,
+        "device": "betrayal",
+        "excerpt": "Catherine knew!",
+        "why": "Expanding the conspiracy to include Catherine raises the stakes instantly."
+      },
+      {
+        "beat_id": "E28.B072",
+        "hook_intensity": 9.0,
+        "device": "reveal",
+        "excerpt": "Lady Juliana Ashcroft",
+        "why": "The dramatic unmasking of the maid's true noble identity."
+      },
+      {
+        "beat_id": "E28.B086",
+        "hook_intensity": 8.0,
+        "device": "threat",
+        "excerpt": "Drag her to the wet cells beneath the south tower",
+        "why": "A harsh, authoritative order that escalates the physical danger."
+      }
+    ],
+    "cliffhanger_anchors": [
+      {
+        "beat_id": "E28.B034",
+        "cliffhanger_tension": 7.0,
+        "open_question": "What else was the Duchess about to expose before collapsing?",
+        "excerpt": "They have been—",
+        "why": "Interrupting the Duchess's life-saving testimony mid-sentence creates intense suspense."
+      },
+      {
+        "beat_id": "E28.B052",
+        "cliffhanger_tension": 8.0,
+        "open_question": "What is the significance of the silver locket Catherine just stole?",
+        "excerpt": "Catherine ruthlessly yanks the silver locket off Juliana's neck",
+        "why": "Destruction and theft of a personal family heirloom leaves the viewer anxious for the character."
+      },
+      {
+        "beat_id": "E28.B070",
+        "cliffhanger_tension": 9.0,
+        "open_question": "How will they react now that Juliana's secret identity is exposed?",
+        "excerpt": "Juliana gasps in horror, realizing her secret identity has been laid bare",
+        "why": "The turning point where the protagonist's disguise is completely shattered."
+      },
+      {
+        "beat_id": "E28.B094",
+        "cliffhanger_tension": 8.0,
+        "open_question": "Will Juliana survive the gallows using her mother's herbarium against her?",
+        "excerpt": "before he sends you to the gallows",
+        "why": "A direct death sentence tied to her mother's life work leaves an ominous question."
+      }
+    ]
+  },
+  "accepted": [
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E28.B034",
+      "episode": 28,
+      "strength": 7,
+      "label": "What else was the Duchess about to expose before collapsing?",
+      "excerpt": "They have been—",
+      "why": "Interrupting the Duchess's life-saving testimony mid-sentence creates intense suspense.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E28.B052",
+      "episode": 28,
+      "strength": 8,
+      "label": "What is the significance of the silver locket Catherine just stole?",
+      "excerpt": "Catherine ruthlessly yanks the silver locket off Juliana's neck",
+      "why": "Destruction and theft of a personal family heirloom leaves the viewer anxious for the character.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E28.B070",
+      "episode": 28,
+      "strength": 9,
+      "label": "How will they react now that Juliana's secret identity is exposed?",
+      "excerpt": "Juliana gasps in horror, realizing her secret identity has been laid bare",
+      "why": "The turning point where the protagonist's disguise is completely shattered.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E28.B094",
+      "episode": 28,
+      "strength": 8,
+      "label": "Will Juliana survive the gallows using her mother's herbarium against her?",
+      "excerpt": "before he sends you to the gallows",
+      "why": "A direct death sentence tied to her mother's life work leaves an ominous question.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E28.B003",
+      "episode": 28,
+      "strength": 7,
+      "label": "humiliation",
+      "excerpt": "Catherine's silk slipper steps down hard upon its embossed cover",
+      "why": "Visual dominance and disrespect toward Juliana's property immediately grabs attention.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E28.B012",
+      "episode": 28,
+      "strength": 8,
+      "label": "accusation",
+      "excerpt": "She looks exactly like a poisoner",
+      "why": "A direct, venomous condemnation framed against the helpless protagonist.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E28.B033",
+      "episode": 28,
+      "strength": 8,
+      "label": "betrayal",
+      "excerpt": "Catherine knew!",
+      "why": "Expanding the conspiracy to include Catherine raises the stakes instantly.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E28.B072",
+      "episode": 28,
+      "strength": 9,
+      "label": "reveal",
+      "excerpt": "Lady Juliana Ashcroft",
+      "why": "The dramatic unmasking of the maid's true noble identity.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E28.B086",
+      "episode": 28,
+      "strength": 8,
+      "label": "threat",
+      "excerpt": "Drag her to the wet cells beneath the south tower",
+      "why": "A harsh, authoritative order that escalates the physical danger.",
+      "repointed_from": null
+    }
+  ],
+  "dropped": [
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E28.B030",
+      "reason": "excerpt not found in the screenplay text",
+      "excerpt": "I was poisoned! And you... you knew!"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "B-E23B039-E22B080",
+    "first_3s_hook": 8.0,
+    "cliffhanger_open": 9.0,
+    "cold_viewer_clarity": 5.0,
+    "ambiguity": [
+      {
+        "kind": "unexplained_name",
+        "beat_id": "E22.B069",
+        "detail": "The identity of 'Your Grace' and why she is confined in a shadowy room is unclear."
+      },
+      {
+        "kind": "relationship",
+        "beat_id": "E23.B040",
+        "detail": "Prudence's exact relationship to the speaker and the sick woman is not established."
+      }
+    ],
+    "ending_resolves_tension": false,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "Someone is poisoning her.",
+    "cliffhanger_line": "Who has been treating you?",
+    "viewer_takeaway": "A woman sneaks into a dark bedroom to treat a poisoned noblewoman before she is caught.",
+    "why_it_works": "The cold-open flash-forward grabs attention immediately with the accusation of poison, creating high stakes right before plunging into the tense bedside scene."
+  }
+}

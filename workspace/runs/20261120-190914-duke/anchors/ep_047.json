@@ -1,0 +1,150 @@
+{
+  "episode": 47,
+  "prompt_version": "anchors-v1",
+  "model": "gemini:gemini-3.5-flash-lite",
+  "model_output": {
+    "hook_anchors": [
+      {
+        "beat_id": "E47.B002",
+        "hook_intensity": 8.0,
+        "device": "threat",
+        "excerpt": "Rupert is rotting in the undercroft cells. Not me. I intend to stay on this estate.",
+        "why": "Establishes immediate defiance and malicious intent from a character trying to secure her place."
+      },
+      {
+        "beat_id": "E47.B032",
+        "hook_intensity": 8.0,
+        "device": "condemnation",
+        "excerpt": "She aided the poison in my veins. Cast her into the road.",
+        "why": "Harsh, decisive rejection by Lady Ashbourne creates high stakes for the destitute Catherine."
+      },
+      {
+        "beat_id": "E47.B052",
+        "hook_intensity": 9.0,
+        "device": "humiliation",
+        "excerpt": "As a scullery maid.",
+        "why": "A stunning power reversal where the vengeful rival is forced into menial servitude."
+      },
+      {
+        "beat_id": "E47.B056",
+        "hook_intensity": 8.0,
+        "device": "insult",
+        "excerpt": "You will scrub the floors you walked on as an impostor.",
+        "why": "Direct and biting psychological dominance delivered right to the antagonist's face."
+      },
+      {
+        "beat_id": "E47.B064",
+        "hook_intensity": 7.0,
+        "device": "humiliation",
+        "excerpt": "You humiliate me.",
+        "why": "Captures the raw, broken pride of a once-haughty villain brought completely low."
+      }
+    ],
+    "cliffhanger_anchors": [
+      {
+        "beat_id": "E47.B040",
+        "cliffhanger_tension": 7.0,
+        "open_question": "Why does Juliana stop the guards from throwing Catherine out?",
+        "excerpt": "Stop.",
+        "why": "Interrupts the expected punishment, shifting the power dynamic entirely."
+      },
+      {
+        "beat_id": "E47.B062",
+        "cliffhanger_tension": 8.0,
+        "open_question": "Will Catherine swallow her pride and accept the humiliating terms?",
+        "excerpt": "One complaint from the housekeeper, and you are cast out with nothing.",
+        "why": "Puts an ultimatum on the line that tests whether the proud villain can survive as a servant."
+      },
+      {
+        "beat_id": "E47.B068",
+        "cliffhanger_tension": 9.0,
+        "open_question": "How will Catherine endure her new life of complete degradation at Ashbourne?",
+        "excerpt": "I accept, Your Grace.",
+        "why": "The final submission leaves the viewer wondering what kind of vengeance or conflict will brew next."
+      }
+    ]
+  },
+  "accepted": [
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E47.B040",
+      "episode": 47,
+      "strength": 7,
+      "label": "Why does Juliana stop the guards from throwing Catherine out?",
+      "excerpt": "Stop.",
+      "why": "Interrupts the expected punishment, shifting the power dynamic entirely.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E47.B062",
+      "episode": 47,
+      "strength": 8,
+      "label": "Will Catherine swallow her pride and accept the humiliating terms?",
+      "excerpt": "One complaint from the housekeeper, and you are cast out with nothing.",
+      "why": "Puts an ultimatum on the line that tests whether the proud villain can survive as a servant.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E47.B068",
+      "episode": 47,
+      "strength": 9,
+      "label": "How will Catherine endure her new life of complete degradation at Ashbourne?",
+      "excerpt": "I accept, Your Grace.",
+      "why": "The final submission leaves the viewer wondering what kind of vengeance or conflict will brew next.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E47.B002",
+      "episode": 47,
+      "strength": 8,
+      "label": "threat",
+      "excerpt": "Rupert is rotting in the undercroft cells. Not me. I intend to stay on this estate.",
+      "why": "Establishes immediate defiance and malicious intent from a character trying to secure her place.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E47.B032",
+      "episode": 47,
+      "strength": 8,
+      "label": "condemnation",
+      "excerpt": "She aided the poison in my veins. Cast her into the road.",
+      "why": "Harsh, decisive rejection by Lady Ashbourne creates high stakes for the destitute Catherine.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E47.B052",
+      "episode": 47,
+      "strength": 9,
+      "label": "humiliation",
+      "excerpt": "As a scullery maid.",
+      "why": "A stunning power reversal where the vengeful rival is forced into menial servitude.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E47.B056",
+      "episode": 47,
+      "strength": 8,
+      "label": "insult",
+      "excerpt": "You will scrub the floors you walked on as an impostor.",
+      "why": "Direct and biting psychological dominance delivered right to the antagonist's face.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E47.B064",
+      "episode": 47,
+      "strength": 7,
+      "label": "humiliation",
+      "excerpt": "You humiliate me.",
+      "why": "Captures the raw, broken pride of a once-haughty villain brought completely low.",
+      "repointed_from": null
+    }
+  ],
+  "dropped": []
+}

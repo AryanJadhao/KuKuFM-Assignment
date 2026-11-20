@@ -1,0 +1,29 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "A-E37-041-062",
+    "first_3s_hook": 8.0,
+    "cliffhanger_open": 9.0,
+    "cold_viewer_clarity": 6.0,
+    "ambiguity": [
+      {
+        "kind": "relationship",
+        "beat_id": "E37.B043",
+        "detail": "Clarissa and the nobleman discuss the execution like peers or co-conspirators, but their exact dynamic is unclear."
+      },
+      {
+        "kind": "unexplained_name",
+        "beat_id": "E37.B047",
+        "detail": "Juliana is introduced as the target, but we do not yet know who she is to the speakers."
+      }
+    ],
+    "ending_resolves_tension": false,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "Not just an execution. A warning.",
+    "cliffhanger_line": "They cannot take who I am!",
+    "viewer_takeaway": "An aristocratic woman named Juliana is locked away and starved in a harsh dungeon while her enemies gloat above.",
+    "why_it_works": "Cuts from icy villains plotting a cruel punishment straight to the defiant, gritty survival of the imprisoned heroine."
+  }
+}

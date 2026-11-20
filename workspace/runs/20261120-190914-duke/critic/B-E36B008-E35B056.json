@@ -1,0 +1,24 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "B-E36B008-E35B056",
+    "first_3s_hook": 7.0,
+    "cliffhanger_open": 5.0,
+    "cold_viewer_clarity": 6.0,
+    "ambiguity": [
+      {
+        "kind": "unexplained_name",
+        "beat_id": "E36.B008",
+        "detail": "Sterling and Rupert are introduced with no prior context for a new viewer."
+      }
+    ],
+    "ending_resolves_tension": false,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "Sterling... and Rupert.",
+    "cliffhanger_line": "Then why did they never tell us?",
+    "viewer_takeaway": "A presumed-dead soldier returns to his mother to reveal he was ambushed and betrayed by people ruling Ashwood.",
+    "why_it_works": "The cold open flash-forward instantly grabs attention before rewinding into an emotional mother-son reunion charged with conspiracy."
+  }
+}

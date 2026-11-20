@@ -1,0 +1,24 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "B-E10B026-E09B055",
+    "first_3s_hook": 8.0,
+    "cliffhanger_open": 6.0,
+    "cold_viewer_clarity": 7.0,
+    "ambiguity": [
+      {
+        "kind": "relationship",
+        "beat_id": "E09.B031",
+        "detail": "Alexander and Juliana's exact dynamic working together is initially vague."
+      }
+    ],
+    "ending_resolves_tension": false,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "Alexander pulling his dark shirt over his head, revealing his muscular torso crisscrossed with jagged battle scars and fresh bleeding lacerations.",
+    "cliffhanger_line": "You cannot let the whole village start talking about you.",
+    "viewer_takeaway": "A skilled healer and her rugged partner successfully cure a sick child, but their secretive lifestyle is threatened by local attention.",
+    "why_it_works": "Visual body scars and a medical crisis in the first three seconds capture instant attention and establish high stakes."
+  }
+}

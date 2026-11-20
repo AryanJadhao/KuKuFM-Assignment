@@ -1,0 +1,24 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "A-E50-003-020",
+    "first_3s_hook": 9.0,
+    "cliffhanger_open": 8.0,
+    "cold_viewer_clarity": 8.0,
+    "ambiguity": [
+      {
+        "kind": "relationship",
+        "beat_id": "E50.B003",
+        "detail": "It is immediately clear they are lovers, but the exact power dynamic and context of the priest's involvement are revealed incrementally."
+      }
+    ],
+    "ending_resolves_tension": false,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "A man in your collar isn't supposed to have that much left in him, Thomas.",
+    "cliffhanger_line": "For as long as it holds.",
+    "viewer_takeaway": "A secretive, seductive relationship between a powerful woman and a priest turns into a high-stakes political negotiation over tax collection.",
+    "why_it_works": "The immediate visual of a priest in bed coupled with a ruthless political bribe creates instant shock value and high retention."
+  }
+}

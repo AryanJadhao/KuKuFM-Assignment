@@ -1,0 +1,18 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "B-E34B099-E34B044",
+    "first_3s_hook": 8.0,
+    "cliffhanger_open": 8.0,
+    "cold_viewer_clarity": 8.0,
+    "ambiguity": [],
+    "ending_resolves_tension": false,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "You understand that refusal may be treated as proof that you knowingly practiced witchcraft?",
+    "cliffhanger_line": "Yes.",
+    "viewer_takeaway": "A young maid is pressured on the witness stand into testifying against the woman who saved her brother.",
+    "why_it_works": "High emotional stakes and a tragic testimony dynamic hook viewers who love courtroom betrayal and moral conflict."
+  }
+}

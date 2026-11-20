@@ -1,0 +1,184 @@
+{
+  "episode": 31,
+  "prompt_version": "anchors-v1",
+  "model": "gemini:gemini-3.5-flash-lite",
+  "model_output": {
+    "hook_anchors": [
+      {
+        "beat_id": "E31.B005",
+        "hook_intensity": 7.0,
+        "device": "insult",
+        "excerpt": "Look at you.",
+        "why": "Immediate condescending mockery setting up the cruelty of the dungeon encounter."
+      },
+      {
+        "beat_id": "E31.B022",
+        "hook_intensity": 8.0,
+        "device": "confession",
+        "excerpt": "I became a disgrace when I refused to become cruel.",
+        "why": "A powerful declaration of moral superiority that directly challenges her tormentor."
+      },
+      {
+        "beat_id": "E31.B055",
+        "hook_intensity": 9.0,
+        "device": "threat",
+        "excerpt": "No. But cruelty certainly doesn't make you better than me.",
+        "why": "A razor-sharp verbal counterattack that turns Catherine's arrogance back on her."
+      },
+      {
+        "beat_id": "E31.B065",
+        "hook_intensity": 9.0,
+        "device": "accusation",
+        "excerpt": "Then why are you so desperate to make me kneel?",
+        "why": "A piercing psychological blow that shatters Catherine's smug facade."
+      },
+      {
+        "beat_id": "E31.B074",
+        "hook_intensity": 8.0,
+        "device": "threat",
+        "excerpt": "This pathetic book is the only thing you still have from your mother.",
+        "why": "A direct assault on the captive's most cherished sentimental possession."
+      },
+      {
+        "beat_id": "E31.B079",
+        "hook_intensity": 7.0,
+        "device": "humiliation",
+        "excerpt": "There. Finally. Something still hurts you.",
+        "why": "A sadistic realization that deepens the emotional torment."
+      }
+    ],
+    "cliffhanger_anchors": [
+      {
+        "beat_id": "E31.B053",
+        "cliffhanger_tension": 5.0,
+        "open_question": "Does love truly make Juliana better than Catherine?",
+        "excerpt": "You think love makes you better than me?",
+        "why": "Leaves an unanswered moral challenge hanging in the air."
+      },
+      {
+        "beat_id": "E31.B069",
+        "cliffhanger_tension": 7.0,
+        "open_question": "How will Catherine react to being completely psychologically outmaneuvered?",
+        "excerpt": "Enough!",
+        "why": "Breaks the aristocratic composure into blind rage, raising the stakes."
+      },
+      {
+        "beat_id": "E31.B083",
+        "cliffhanger_tension": 8.0,
+        "open_question": "Will Catherine completely destroy Juliana's last memory of her mother?",
+        "excerpt": "One flame, and your mother's life's work becomes ash.",
+        "why": "An ongoing destructive act that threatens total devastation."
+      },
+      {
+        "beat_id": "E31.B086",
+        "cliffhanger_tension": 10.0,
+        "open_question": "Will the hot iron touch Juliana's face?",
+        "excerpt": "The brilliant orange ember of the hot poker reflects clearly in the center of her pupil",
+        "why": "Puts a deadly weapon directly inches from the character's eye right as the scene cuts."
+      }
+    ]
+  },
+  "accepted": [
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E31.B053",
+      "episode": 31,
+      "strength": 5,
+      "label": "Does love truly make Juliana better than Catherine?",
+      "excerpt": "You think love makes you better than me?",
+      "why": "Leaves an unanswered moral challenge hanging in the air.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E31.B070",
+      "episode": 31,
+      "strength": 7,
+      "label": "How will Catherine react to being completely psychologically outmaneuvered?",
+      "excerpt": "Enough!",
+      "why": "Breaks the aristocratic composure into blind rage, raising the stakes.",
+      "repointed_from": "E31.B069"
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E31.B083",
+      "episode": 31,
+      "strength": 8,
+      "label": "Will Catherine completely destroy Juliana's last memory of her mother?",
+      "excerpt": "One flame, and your mother's life's work becomes ash.",
+      "why": "An ongoing destructive act that threatens total devastation.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E31.B086",
+      "episode": 31,
+      "strength": 10,
+      "label": "Will the hot iron touch Juliana's face?",
+      "excerpt": "The brilliant orange ember of the hot poker reflects clearly in the center of her pupil",
+      "why": "Puts a deadly weapon directly inches from the character's eye right as the scene cuts.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E31.B005",
+      "episode": 31,
+      "strength": 7,
+      "label": "insult",
+      "excerpt": "Look at you.",
+      "why": "Immediate condescending mockery setting up the cruelty of the dungeon encounter.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E31.B022",
+      "episode": 31,
+      "strength": 8,
+      "label": "confession",
+      "excerpt": "I became a disgrace when I refused to become cruel.",
+      "why": "A powerful declaration of moral superiority that directly challenges her tormentor.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E31.B055",
+      "episode": 31,
+      "strength": 9,
+      "label": "threat",
+      "excerpt": "No. But cruelty certainly doesn't make you better than me.",
+      "why": "A razor-sharp verbal counterattack that turns Catherine's arrogance back on her.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E31.B065",
+      "episode": 31,
+      "strength": 9,
+      "label": "accusation",
+      "excerpt": "Then why are you so desperate to make me kneel?",
+      "why": "A piercing psychological blow that shatters Catherine's smug facade.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E31.B074",
+      "episode": 31,
+      "strength": 8,
+      "label": "threat",
+      "excerpt": "This pathetic book is the only thing you still have from your mother.",
+      "why": "A direct assault on the captive's most cherished sentimental possession.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E31.B079",
+      "episode": 31,
+      "strength": 7,
+      "label": "humiliation",
+      "excerpt": "There. Finally. Something still hurts you.",
+      "why": "A sadistic realization that deepens the emotional torment.",
+      "repointed_from": null
+    }
+  ],
+  "dropped": []
+}

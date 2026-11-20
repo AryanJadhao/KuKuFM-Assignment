@@ -1,0 +1,24 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "B-E12B001-E11B073",
+    "first_3s_hook": 7.0,
+    "cliffhanger_open": 5.0,
+    "cold_viewer_clarity": 6.0,
+    "ambiguity": [
+      {
+        "kind": "relationship",
+        "beat_id": "E11.B060",
+        "detail": "Gerald implies he has some past claim on Juliana."
+      }
+    ],
+    "ending_resolves_tension": false,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "Put out your hands, veteran. You are under arrest for theft.",
+    "cliffhanger_line": "One blow would destroy her life.",
+    "viewer_takeaway": "A corrupt constable and a cruel rival search a veteran's home to frame him while his wife tries to protect him.",
+    "why_it_works": "Strong flash-forward hook into high-stakes domestic invasion drama with clear villains."
+  }
+}

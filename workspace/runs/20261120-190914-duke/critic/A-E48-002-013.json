@@ -1,0 +1,24 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "A-E48-002-013",
+    "first_3s_hook": 8.0,
+    "cliffhanger_open": 8.0,
+    "cold_viewer_clarity": 5.0,
+    "ambiguity": [
+      {
+        "kind": "unexplained_name",
+        "beat_id": "E48.B012",
+        "detail": "Alexander is addressed as a target of a threat without establishing who he is relative to the speaker."
+      }
+    ],
+    "ending_resolves_tension": false,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "Two words, and that healer's crown rolls right back into the gutter where it belongs.",
+    "cliffhanger_line": "And doors can be closed from the other side.",
+    "viewer_takeaway": "A vengeful woman is plotting a sinister comeback over a ten-day countdown.",
+    "why_it_works": "Pure villain monologue delivered with intense malice creates an addictive, dramatic villain-era vibe."
+  }
+}

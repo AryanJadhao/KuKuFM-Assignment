@@ -1,0 +1,24 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "B-E14B016-E13B043",
+    "first_3s_hook": 8.0,
+    "cliffhanger_open": 7.0,
+    "cold_viewer_clarity": 7.0,
+    "ambiguity": [
+      {
+        "kind": "prior_event",
+        "beat_id": "E14.B018",
+        "detail": "Juliana's cryptic line implies a terrible bargain already struck."
+      }
+    ],
+    "ending_resolves_tension": false,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "What have they done to you?",
+    "cliffhanger_line": "Keep searching, Juliana. Your husband's freedom is somewhere in that garden.",
+    "viewer_takeaway": "A loyal wife sacrifices her physical safety by tearing through brutal thorns to satisfy cruel tormentors.",
+    "why_it_works": "Visceral physical suffering combined with helpless male rage creates powerful melodramatic pull."
+  }
+}

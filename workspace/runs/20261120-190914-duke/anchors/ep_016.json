@@ -1,0 +1,150 @@
+{
+  "episode": 16,
+  "prompt_version": "anchors-v1",
+  "model": "gemini:gemini-3.5-flash",
+  "model_output": {
+    "hook_anchors": [
+      {
+        "beat_id": "E16.B013",
+        "hook_intensity": 8.0,
+        "device": "physical shock",
+        "excerpt": "Alexander catches the weapon mid-air in his bare hand",
+        "why": "Alexander stops a full-force attack barehanded with chilling ease."
+      },
+      {
+        "beat_id": "E16.B019",
+        "hook_intensity": 7.0,
+        "device": "physical clash",
+        "excerpt": "seize him by the neck, hurling him across the garden path",
+        "why": "Alexander overpowers an incoming attacker violently with one motion."
+      },
+      {
+        "beat_id": "E16.B034",
+        "hook_intensity": 8.0,
+        "device": "threat",
+        "excerpt": "lifts the thug onto his tiptoes against the cottage wall",
+        "why": "Alexander pins the thug with lethal intensity demanding the mastermind's name."
+      },
+      {
+        "beat_id": "E16.B043",
+        "hook_intensity": 9.0,
+        "device": "confession",
+        "excerpt": "Harrington! Gerald Harrington paid us!",
+        "why": "The thug screams out the shocking identity of the mastermind behind the attack."
+      }
+    ],
+    "cliffhanger_anchors": [
+      {
+        "beat_id": "E16.B043",
+        "cliffhanger_tension": 8.0,
+        "open_question": "How will Juliana react to Gerald Harrington betraying her?",
+        "excerpt": "Harrington! Gerald Harrington paid us!",
+        "why": "The mastermind is revealed, leaving the shock of betrayal hanging over the characters."
+      },
+      {
+        "beat_id": "E16.B054",
+        "cliffhanger_tension": 7.0,
+        "open_question": "What secret history gave Alexander such lethal combat skills?",
+        "excerpt": "You fought like you've done this a hundred times.",
+        "why": "Juliana questions Alexander's surprisingly formidable military past."
+      },
+      {
+        "beat_id": "E16.B056",
+        "cliffhanger_tension": 7.0,
+        "open_question": "What trauma from Alexander's past is he trying to forget?",
+        "excerpt": "A soldier learns things he wishes he could forget.",
+        "why": "Alexander reveals a heavy, haunted past without elaborating."
+      },
+      {
+        "beat_id": "E16.B062",
+        "cliffhanger_tension": 8.0,
+        "open_question": "How will Alexander and Juliana stand together against Gerald Harrington?",
+        "excerpt": "Alexander and Juliana gaze deeply into each other's eyes",
+        "why": "The episode ends on emotional connection framed against impending danger."
+      }
+    ]
+  },
+  "accepted": [
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E16.B043",
+      "episode": 16,
+      "strength": 8,
+      "label": "How will Juliana react to Gerald Harrington betraying her?",
+      "excerpt": "Harrington! Gerald Harrington paid us!",
+      "why": "The mastermind is revealed, leaving the shock of betrayal hanging over the characters.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E16.B054",
+      "episode": 16,
+      "strength": 7,
+      "label": "What secret history gave Alexander such lethal combat skills?",
+      "excerpt": "You fought like you've done this a hundred times.",
+      "why": "Juliana questions Alexander's surprisingly formidable military past.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E16.B056",
+      "episode": 16,
+      "strength": 7,
+      "label": "What trauma from Alexander's past is he trying to forget?",
+      "excerpt": "A soldier learns things he wishes he could forget.",
+      "why": "Alexander reveals a heavy, haunted past without elaborating.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E16.B062",
+      "episode": 16,
+      "strength": 8,
+      "label": "How will Alexander and Juliana stand together against Gerald Harrington?",
+      "excerpt": "Alexander and Juliana gaze deeply into each other's eyes",
+      "why": "The episode ends on emotional connection framed against impending danger.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E16.B013",
+      "episode": 16,
+      "strength": 8,
+      "label": "physical shock",
+      "excerpt": "Alexander catches the weapon mid-air in his bare hand",
+      "why": "Alexander stops a full-force attack barehanded with chilling ease.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E16.B019",
+      "episode": 16,
+      "strength": 7,
+      "label": "physical clash",
+      "excerpt": "seize him by the neck, hurling him across the garden path",
+      "why": "Alexander overpowers an incoming attacker violently with one motion.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E16.B034",
+      "episode": 16,
+      "strength": 8,
+      "label": "threat",
+      "excerpt": "lifts the thug onto his tiptoes against the cottage wall",
+      "why": "Alexander pins the thug with lethal intensity demanding the mastermind's name.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E16.B043",
+      "episode": 16,
+      "strength": 9,
+      "label": "confession",
+      "excerpt": "Harrington! Gerald Harrington paid us!",
+      "why": "The thug screams out the shocking identity of the mastermind behind the attack.",
+      "repointed_from": null
+    }
+  ],
+  "dropped": []
+}

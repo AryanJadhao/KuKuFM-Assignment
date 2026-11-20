@@ -1,0 +1,24 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "B-E04B096-E03B061",
+    "first_3s_hook": 8.0,
+    "cliffhanger_open": 8.0,
+    "cold_viewer_clarity": 7.0,
+    "ambiguity": [
+      {
+        "kind": "prior_event",
+        "beat_id": "E04.B096",
+        "detail": "The flash-forward introduces a banishment whose context is not yet fully explained."
+      }
+    ],
+    "ending_resolves_tension": false,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "Do not bring this man anywhere near Ashcroft Manor!",
+    "cliffhanger_line": "And who are you to give orders in my family's chapel?!",
+    "viewer_takeaway": "A defiant bride gets dragged away by guards until a mysterious stranger steps up to defend her.",
+    "why_it_works": "The cold-open flash-forward grabs attention instantly before dropping straight into the heart-wrenching rescue scene."
+  }
+}

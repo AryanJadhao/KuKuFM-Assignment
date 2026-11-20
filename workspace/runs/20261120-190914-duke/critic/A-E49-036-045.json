@@ -1,0 +1,24 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "A-E49-036-045",
+    "first_3s_hook": 7.0,
+    "cliffhanger_open": 9.0,
+    "cold_viewer_clarity": 6.0,
+    "ambiguity": [
+      {
+        "kind": "relationship",
+        "beat_id": "E49.B038",
+        "detail": "Father Thomas's exact compromise and relationship to Catherine are built on implied backstory."
+      }
+    ],
+    "ending_resolves_tension": false,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "Second, I want to know what the council knows before it decides anything. Every argument, every witness, every whisper against her.",
+    "cliffhanger_line": "If I keep the hearing open, if I feed you every word spoken behind those doors, what happens to me when the Duke finds out a crowned priest conspired against him?",
+    "viewer_takeaway": "A corrupt or compromised priest is blackmailed or bribed into spying on a high-stakes council hearing.",
+    "why_it_works": "Ending on a dangerous ultimatum involving a powerful Duke creates an irresistible narrative cliffhanger."
+  }
+}

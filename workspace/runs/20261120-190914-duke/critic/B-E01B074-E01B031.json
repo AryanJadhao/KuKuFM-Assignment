@@ -1,0 +1,24 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "B-E01B074-E01B031",
+    "first_3s_hook": 8.0,
+    "cliffhanger_open": 8.0,
+    "cold_viewer_clarity": 8.0,
+    "ambiguity": [
+      {
+        "kind": "speaker_identity",
+        "beat_id": "E01.B074",
+        "detail": "The clip opens with a flash-forward line from an unseen villain before jumping back to the main wedding confrontation."
+      }
+    ],
+    "ending_resolves_tension": false,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "You are the daughter people tolerate because they have to.",
+    "cliffhanger_line": "You knew this before I walked through those doors!",
+    "viewer_takeaway": "A young woman walks down the aisle believing she is the bride, only to find her fiancé hand-in-hand with another woman.",
+    "why_it_works": "Starting with a venomous insult hook grabs scrollers instantly, and the slow reveal of the wedding betrayal builds gripping drama."
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "episode": 33,
+  "prompt_version": "anchors-v1",
+  "model": "gemini:gemini-3.5-flash-lite",
+  "model_output": {
+    "hook_anchors": [
+      {
+        "beat_id": "E33.B001",
+        "hook_intensity": 7.0,
+        "device": "threat",
+        "excerpt": "Your brother is breathing again.",
+        "why": "Instantly establishes high stakes involving the maid's sick brother and the lord's coercive leverage."
+      },
+      {
+        "beat_id": "E33.B039",
+        "hook_intensity": 9.0,
+        "device": "threat",
+        "excerpt": "One word from me, and the county gaol will take him before sunrise.",
+        "why": "A direct, menacing threat to jail a seven-year-old child if she doesn't comply."
+      },
+      {
+        "beat_id": "E33.B074",
+        "hook_intensity": 8.0,
+        "device": "accusation",
+        "excerpt": "That is witchcraft.",
+        "why": "The chilling moment the lord officially frames the life-saving act as a capital crime."
+      },
+      {
+        "beat_id": "E33.B092",
+        "hook_intensity": 8.0,
+        "device": "collapse",
+        "excerpt": "The maid's knees buckle completely. She collapses forward onto the polished dark wood floor",
+        "why": "A purely physical and emotional breakdown showing complete defeat."
+      }
+    ],
+    "cliffhanger_anchors": [
+      {
+        "beat_id": "E33.B078",
+        "cliffhanger_tension": 7.0,
+        "open_question": "Will she actually go through with giving the false testimony?",
+        "excerpt": "That will be your testimony.",
+        "why": "Forces an ultimatum on the maid regarding framing Juliana."
+      },
+      {
+        "beat_id": "E33.B087",
+        "cliffhanger_tension": 8.0,
+        "open_question": "How will she cope with betraying the woman who saved her brother?",
+        "excerpt": "I have already written the story for you.",
+        "why": "Demonstrates the absolute entrapment and lack of escape for the maid."
+      },
+      {
+        "beat_id": "E33.B091",
+        "cliffhanger_tension": 9.0,
+        "open_question": "Can she bring herself to doom Juliana to save her brother?",
+        "excerpt": "And now... you will save your brother.",
+        "why": "Leaves the viewer on the ultimate agonizing moral choice just as the scene closes."
+      }
+    ]
+  },
+  "accepted": [
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E33.B078",
+      "episode": 33,
+      "strength": 7,
+      "label": "Will she actually go through with giving the false testimony?",
+      "excerpt": "That will be your testimony.",
+      "why": "Forces an ultimatum on the maid regarding framing Juliana.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E33.B087",
+      "episode": 33,
+      "strength": 8,
+      "label": "How will she cope with betraying the woman who saved her brother?",
+      "excerpt": "I have already written the story for you.",
+      "why": "Demonstrates the absolute entrapment and lack of escape for the maid.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E33.B091",
+      "episode": 33,
+      "strength": 9,
+      "label": "Can she bring herself to doom Juliana to save her brother?",
+      "excerpt": "And now... you will save your brother.",
+      "why": "Leaves the viewer on the ultimate agonizing moral choice just as the scene closes.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E33.B001",
+      "episode": 33,
+      "strength": 7,
+      "label": "threat",
+      "excerpt": "Your brother is breathing again.",
+      "why": "Instantly establishes high stakes involving the maid's sick brother and the lord's coercive leverage.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E33.B039",
+      "episode": 33,
+      "strength": 9,
+      "label": "threat",
+      "excerpt": "One word from me, and the county gaol will take him before sunrise.",
+      "why": "A direct, menacing threat to jail a seven-year-old child if she doesn't comply.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E33.B074",
+      "episode": 33,
+      "strength": 8,
+      "label": "accusation",
+      "excerpt": "That is witchcraft.",
+      "why": "The chilling moment the lord officially frames the life-saving act as a capital crime.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E33.B092",
+      "episode": 33,
+      "strength": 8,
+      "label": "collapse",
+      "excerpt": "The maid's knees buckle completely. She collapses forward onto the polished dark wood floor",
+      "why": "A purely physical and emotional breakdown showing complete defeat.",
+      "repointed_from": null
+    }
+  ],
+  "dropped": []
+}

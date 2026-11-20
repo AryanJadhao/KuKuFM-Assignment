@@ -1,0 +1,18 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "A-E47-032-062",
+    "first_3s_hook": 8.0,
+    "cliffhanger_open": 8.0,
+    "cold_viewer_clarity": 8.0,
+    "ambiguity": [],
+    "ending_resolves_tension": false,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "She aided the poison in my veins. Cast her into the road.",
+    "cliffhanger_line": "One complaint from the housekeeper, and you are cast out with nothing.",
+    "viewer_takeaway": "Instead of throwing out her poisoned tormentor, the newly confirmed duchess forces her to work as a lowly scullery maid.",
+    "why_it_works": "Delivers supreme psychological payback by forcing an arrogant villain into humiliating servitude."
+  }
+}

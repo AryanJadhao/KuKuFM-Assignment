@@ -1,0 +1,150 @@
+{
+  "episode": 36,
+  "prompt_version": "anchors-v1",
+  "model": "gemini:gemini-3.5-flash-lite",
+  "model_output": {
+    "hook_anchors": [
+      {
+        "beat_id": "E36.B008",
+        "hook_intensity": 8.0,
+        "device": "confession",
+        "excerpt": "Sterling... and Rupert.",
+        "why": "Names the traitors responsible for his betrayal, immediately setting up the vendetta."
+      },
+      {
+        "beat_id": "E36.B016",
+        "hook_intensity": 8.0,
+        "device": "betrayal",
+        "excerpt": "They gave you to the enemy?",
+        "why": "Highlights the shocking depth of familial betrayal."
+      },
+      {
+        "beat_id": "E36.B061",
+        "hook_intensity": 9.0,
+        "device": "reveal",
+        "excerpt": "They arrested her!",
+        "why": "Uncovers the immediate danger facing Juliana, escalating the personal stakes."
+      },
+      {
+        "beat_id": "E36.B084",
+        "hook_intensity": 9.0,
+        "device": "threat",
+        "excerpt": "She is to be executed.",
+        "why": "A devastating death sentence that creates an urgent ticking clock."
+      },
+      {
+        "beat_id": "E36.B099",
+        "hook_intensity": 10.0,
+        "device": "threat",
+        "excerpt": "...and killing my wife afterward.",
+        "why": "Condenses the ultimate motivation for revenge into a chilling, wrathful promise."
+      },
+      {
+        "beat_id": "E36.B105",
+        "hook_intensity": 8.0,
+        "device": "humiliation",
+        "excerpt": "They stole my home!",
+        "why": "Raw emotional outburst emphasizing everything that has been taken from him."
+      }
+    ],
+    "cliffhanger_anchors": [
+      {
+        "beat_id": "E36.B095",
+        "cliffhanger_tension": 7.0,
+        "open_question": "Will Alexander reach her before the wedding and execution take place?",
+        "excerpt": "Two days from now.",
+        "why": "Establishes a strict deadline for the impending tragedy."
+      },
+      {
+        "beat_id": "E36.B118",
+        "cliffhanger_tension": 10.0,
+        "open_question": "How will the dead Duke exact his vengeance upon returning?",
+        "excerpt": "...their dead Duke is coming home.",
+        "why": "A powerful, thunderous closing declaration that leaves the audience desperate for the next chapter."
+      }
+    ]
+  },
+  "accepted": [
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E36.B095",
+      "episode": 36,
+      "strength": 7,
+      "label": "Will Alexander reach her before the wedding and execution take place?",
+      "excerpt": "Two days from now.",
+      "why": "Establishes a strict deadline for the impending tragedy.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E36.B118",
+      "episode": 36,
+      "strength": 10,
+      "label": "How will the dead Duke exact his vengeance upon returning?",
+      "excerpt": "...their dead Duke is coming home.",
+      "why": "A powerful, thunderous closing declaration that leaves the audience desperate for the next chapter.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E36.B008",
+      "episode": 36,
+      "strength": 8,
+      "label": "confession",
+      "excerpt": "Sterling... and Rupert.",
+      "why": "Names the traitors responsible for his betrayal, immediately setting up the vendetta.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E36.B016",
+      "episode": 36,
+      "strength": 8,
+      "label": "betrayal",
+      "excerpt": "They gave you to the enemy?",
+      "why": "Highlights the shocking depth of familial betrayal.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E36.B061",
+      "episode": 36,
+      "strength": 9,
+      "label": "reveal",
+      "excerpt": "They arrested her!",
+      "why": "Uncovers the immediate danger facing Juliana, escalating the personal stakes.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E36.B084",
+      "episode": 36,
+      "strength": 9,
+      "label": "threat",
+      "excerpt": "She is to be executed.",
+      "why": "A devastating death sentence that creates an urgent ticking clock.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E36.B099",
+      "episode": 36,
+      "strength": 10,
+      "label": "threat",
+      "excerpt": "...and killing my wife afterward.",
+      "why": "Condenses the ultimate motivation for revenge into a chilling, wrathful promise.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E36.B105",
+      "episode": 36,
+      "strength": 8,
+      "label": "humiliation",
+      "excerpt": "They stole my home!",
+      "why": "Raw emotional outburst emphasizing everything that has been taken from him.",
+      "repointed_from": null
+    }
+  ],
+  "dropped": []
+}

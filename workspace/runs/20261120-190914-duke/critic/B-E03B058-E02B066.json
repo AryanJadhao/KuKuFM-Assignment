@@ -1,0 +1,24 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "B-E03B058-E02B066",
+    "first_3s_hook": 10.0,
+    "cliffhanger_open": 9.0,
+    "cold_viewer_clarity": 8.0,
+    "ambiguity": [
+      {
+        "kind": "unexplained_name",
+        "beat_id": "E03.B058",
+        "detail": "A mysterious bearded stranger interrupts the wedding, shifting the power dynamic entirely."
+      }
+    ],
+    "ending_resolves_tension": false,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "Take your hands off her.",
+    "cliffhanger_line": "You have shown them exactly what your word is worth.",
+    "viewer_takeaway": "A humiliated bride stands up to her faithless groom with unexpected eloquence, right before a mysterious savior interrupts.",
+    "why_it_works": "The action-packed cold open featuring a mysterious rescuer ensures top-tier hook retention, followed by an empowering monologue."
+  }
+}

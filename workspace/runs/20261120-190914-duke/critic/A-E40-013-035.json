@@ -1,0 +1,29 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "A-E40-013-035",
+    "first_3s_hook": 6.0,
+    "cliffhanger_open": 5.0,
+    "cold_viewer_clarity": 5.0,
+    "ambiguity": [
+      {
+        "kind": "unexplained_name",
+        "beat_id": "E40.B015",
+        "detail": "Juliana is mentioned as being in an unlucky place, but who she is to the speakers is unclear."
+      },
+      {
+        "kind": "relationship",
+        "beat_id": "E40.B026",
+        "detail": "Rupert's connection to the plot and the Harringtons is not yet established."
+      }
+    ],
+    "ending_resolves_tension": false,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "She won't be seeing anything for long.",
+    "cliffhanger_line": "By sunset, Ashburgh will have its new Duke and Duchess.",
+    "viewer_takeaway": "Corrupt aristocrats are plotting something sinister behind the scenes while a wedding is prepared.",
+    "why_it_works": "Strong villainous dialogue and high-stakes atmosphere build immediate intrigue for a coup."
+  }
+}

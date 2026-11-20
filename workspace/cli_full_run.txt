@@ -1,0 +1,17 @@
+run_id: 20261120-190914-duke
+[anchors ]   0/50  tagging anchors in episode 1
+[anchors ]   1/50  tagging anchors in episode 2
+[anchors ]   2/50  tagging anchors in episode 3
+[anchors ]   3/50  tagging anchors in episode 4
+[anchors ]   4/50  tagging anchors in episode 5
+WARNING anchorcut.llm: gemini-3.5-flash HTTP 503 (attempt 1/4) - waiting 4s
+[anchors ]   5/50  tagging anchors in episode 6
+[anchors ]   6/50  tagging anchors in episode 7
+WARNING anchorcut.llm: gemini-3.5-flash HTTP 503 (attempt 1/4) - waiting 4s
+[anchors ]   7/50  tagging anchors in episode 8
+WARNING anchorcut.llm: gemini-3.5-flash network error (attempt 1): The read operation timed out
+[anchors ]   8/50  tagging anchors in episode 9
+[anchors ]   9/50  tagging anchors in episode 10
+[anchors ]  10/50  tagging anchors in episode 11
+[anchors ]  11/50  tagging anchors in episode 12
+[anchors ]  12/50  tagging anchors in episode 13

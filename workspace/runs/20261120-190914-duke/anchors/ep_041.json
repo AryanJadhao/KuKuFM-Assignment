@@ -1,0 +1,116 @@
+{
+  "episode": 41,
+  "prompt_version": "anchors-v1",
+  "model": "gemini:gemini-3.5-flash-lite",
+  "model_output": {
+    "hook_anchors": [
+      {
+        "beat_id": "E41.B006",
+        "hook_intensity": 8.0,
+        "device": "threat",
+        "excerpt": "everyone to see what happens to a woman who dares defy this family",
+        "why": "Catherine publicly sets up a cruel humiliation, instantly establishing high stakes."
+      },
+      {
+        "beat_id": "E41.B012",
+        "hook_intensity": 9.0,
+        "device": "humiliation",
+        "excerpt": "Juliana, dressed in a coarse drab prison dress with a numbered identification badge",
+        "why": "The dramatic visual shift from a lavish wedding to a prisoner in chains being paraded."
+      },
+      {
+        "beat_id": "E41.B033",
+        "hook_intensity": 8.0,
+        "device": "insult",
+        "excerpt": "You needed an entire chapel to feel powerful over one chained woman?",
+        "why": "Juliana fires back with a sharp, defiant retort despite being chained."
+      },
+      {
+        "beat_id": "E41.B046",
+        "hook_intensity": 10.0,
+        "device": "reveal",
+        "excerpt": "Ear-splitting detonation, shattering stone, wood splintering violently into kindling",
+        "why": "A massive unexpected explosion violently shatters the wedding ceremony."
+      }
+    ],
+    "cliffhanger_anchors": [
+      {
+        "beat_id": "E41.B047",
+        "cliffhanger_tension": 9.0,
+        "open_question": "Who is behind the explosive attack on the cathedral?",
+        "excerpt": "A violent fireball bursts inward as the entire cathedral entrance explodes",
+        "why": "The wedding is violently interrupted right at the altar, leaving the identity of the attackers unknown."
+      },
+      {
+        "beat_id": "E41.B052",
+        "cliffhanger_tension": 10.0,
+        "open_question": "Who has arrived to rescue Juliana and destroy the wedding?",
+        "excerpt": "Her expression shifts from grim resolve into awe, breathless realization, and blooming hope",
+        "why": "The episode cuts off right as the mysterious vengeful force arrives through the smoke, leaving the ultimate confrontation hanging."
+      }
+    ]
+  },
+  "accepted": [
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E41.B047",
+      "episode": 41,
+      "strength": 9,
+      "label": "Who is behind the explosive attack on the cathedral?",
+      "excerpt": "A violent fireball bursts inward as the entire cathedral entrance explodes",
+      "why": "The wedding is violently interrupted right at the altar, leaving the identity of the attackers unknown.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E41.B052",
+      "episode": 41,
+      "strength": 10,
+      "label": "Who has arrived to rescue Juliana and destroy the wedding?",
+      "excerpt": "Her expression shifts from grim resolve into awe, breathless realization, and blooming hope",
+      "why": "The episode cuts off right as the mysterious vengeful force arrives through the smoke, leaving the ultimate confrontation hanging.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E41.B006",
+      "episode": 41,
+      "strength": 8,
+      "label": "threat",
+      "excerpt": "everyone to see what happens to a woman who dares defy this family",
+      "why": "Catherine publicly sets up a cruel humiliation, instantly establishing high stakes.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E41.B012",
+      "episode": 41,
+      "strength": 9,
+      "label": "humiliation",
+      "excerpt": "Juliana, dressed in a coarse drab prison dress with a numbered identification badge",
+      "why": "The dramatic visual shift from a lavish wedding to a prisoner in chains being paraded.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E41.B033",
+      "episode": 41,
+      "strength": 8,
+      "label": "insult",
+      "excerpt": "You needed an entire chapel to feel powerful over one chained woman?",
+      "why": "Juliana fires back with a sharp, defiant retort despite being chained.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E41.B046",
+      "episode": 41,
+      "strength": 10,
+      "label": "reveal",
+      "excerpt": "Ear-splitting detonation, shattering stone, wood splintering violently into kindling",
+      "why": "A massive unexpected explosion violently shatters the wedding ceremony.",
+      "repointed_from": null
+    }
+  ],
+  "dropped": []
+}

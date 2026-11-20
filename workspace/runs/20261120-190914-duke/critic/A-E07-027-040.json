@@ -1,0 +1,18 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "A-E07-027-040",
+    "first_3s_hook": 8.0,
+    "cliffhanger_open": 10.0,
+    "cold_viewer_clarity": 8.0,
+    "ambiguity": [],
+    "ending_resolves_tension": false,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "I chose a man who stood beside me when you walked away.",
+    "cliffhanger_line": "And your husband?",
+    "viewer_takeaway": "An arrogant noble threatens a defenseless woman, only for her intimidating husband to suddenly appear and turn the tables.",
+    "why_it_works": "The ultimate social-media bait clip: verbal defiance, an escalating threat, and a badass husband entering just in time to terrify the villain."
+  }
+}

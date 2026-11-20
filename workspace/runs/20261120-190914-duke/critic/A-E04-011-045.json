@@ -1,0 +1,24 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "A-E04-011-045",
+    "first_3s_hook": 7.0,
+    "cliffhanger_open": 8.0,
+    "cold_viewer_clarity": 8.0,
+    "ambiguity": [
+      {
+        "kind": "relationship",
+        "beat_id": "E04.B011",
+        "detail": "Clarissa's precise relation to Juliana is implied through insults but not explicitly defined."
+      }
+    ],
+    "ending_resolves_tension": false,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "You have finally found a man as worthless as everyone thinks you are.",
+    "cliffhanger_line": "It is a vow.",
+    "viewer_takeaway": "A scorned noblewoman refuses pity from a rugged stranger who offers her a genuine vow instead.",
+    "why_it_works": "Intimate dialogue and intense emotional vulnerability build strong romantic tension right before a powerful cliffhanger line."
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "episode": 50,
+  "prompt_version": "anchors-v1",
+  "model": "gemini:gemini-3.5-flash-lite",
+  "model_output": {
+    "hook_anchors": [
+      {
+        "beat_id": "E50.B003",
+        "hook_intensity": 7.0,
+        "device": "confession",
+        "excerpt": "A man in your collar isn't supposed to have that much left in him, Thomas.",
+        "why": "Instantly establishes the illicit nature and dynamic of the affair."
+      },
+      {
+        "beat_id": "E50.B010",
+        "hook_intensity": 8.0,
+        "device": "threat",
+        "excerpt": "Name your price.",
+        "why": "A sudden transactional shift in tone between lovers creates immediate narrative tension."
+      },
+      {
+        "beat_id": "E50.B012",
+        "hook_intensity": 8.0,
+        "device": "confession",
+        "excerpt": "The west territory. Tax collection, all of it.",
+        "why": "A high-stakes political demand made inside a secret affair."
+      },
+      {
+        "beat_id": "E50.B016",
+        "hook_intensity": 8.0,
+        "device": "threat",
+        "excerpt": "Absolution is free. Discretion has a price.",
+        "why": "A cold, hard line that turns religion and romance into extortion."
+      },
+      {
+        "beat_id": "E50.B036",
+        "hook_intensity": 9.0,
+        "device": "reveal",
+        "excerpt": "Agnes's face, drained of all color, her eyes bulging in pure terror.",
+        "why": "The visual jolt of a witness caught in the act of discovery."
+      }
+    ],
+    "cliffhanger_anchors": [
+      {
+        "beat_id": "E50.B020",
+        "cliffhanger_tension": 5.0,
+        "open_question": "How long will their corrupt alliance hold together?",
+        "excerpt": "For as long as it holds.",
+        "why": "Leaves a lingering sense of impending doom over their agreement."
+      },
+      {
+        "beat_id": "E50.B029",
+        "cliffhanger_tension": 6.0,
+        "open_question": "Will their growing recklessness expose them?",
+        "excerpt": "Or perhaps discretion isn't the only thing you've developed a taste for.",
+        "why": "Hints at escalating danger and loss of caution."
+      },
+      {
+        "beat_id": "E50.B035",
+        "cliffhanger_tension": 9.0,
+        "open_question": "Will Agnes expose Catherine and Father Thomas?",
+        "excerpt": "Through the crack of the door, Agnes sees Catherine and the shirtless priest",
+        "why": "The ultimate forbidden secret has just been observed by the wrong person."
+      },
+      {
+        "beat_id": "E50.B039",
+        "cliffhanger_tension": 10.0,
+        "open_question": "What will happen now that Agnes has witnessed their affair?",
+        "excerpt": "stumbling back into the shadows of the hallway, horrified by the lethal secret",
+        "why": "Abrupt cut right after the discovery leaves the audience hanging on the immediate fallout."
+      }
+    ]
+  },
+  "accepted": [
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E50.B020",
+      "episode": 50,
+      "strength": 5,
+      "label": "How long will their corrupt alliance hold together?",
+      "excerpt": "For as long as it holds.",
+      "why": "Leaves a lingering sense of impending doom over their agreement.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E50.B029",
+      "episode": 50,
+      "strength": 6,
+      "label": "Will their growing recklessness expose them?",
+      "excerpt": "Or perhaps discretion isn't the only thing you've developed a taste for.",
+      "why": "Hints at escalating danger and loss of caution.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E50.B035",
+      "episode": 50,
+      "strength": 9,
+      "label": "Will Agnes expose Catherine and Father Thomas?",
+      "excerpt": "Through the crack of the door, Agnes sees Catherine and the shirtless priest",
+      "why": "The ultimate forbidden secret has just been observed by the wrong person.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E50.B039",
+      "episode": 50,
+      "strength": 10,
+      "label": "What will happen now that Agnes has witnessed their affair?",
+      "excerpt": "stumbling back into the shadows of the hallway, horrified by the lethal secret",
+      "why": "Abrupt cut right after the discovery leaves the audience hanging on the immediate fallout.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E50.B003",
+      "episode": 50,
+      "strength": 7,
+      "label": "confession",
+      "excerpt": "A man in your collar isn't supposed to have that much left in him, Thomas.",
+      "why": "Instantly establishes the illicit nature and dynamic of the affair.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E50.B010",
+      "episode": 50,
+      "strength": 8,
+      "label": "threat",
+      "excerpt": "Name your price.",
+      "why": "A sudden transactional shift in tone between lovers creates immediate narrative tension.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E50.B012",
+      "episode": 50,
+      "strength": 8,
+      "label": "confession",
+      "excerpt": "The west territory. Tax collection, all of it.",
+      "why": "A high-stakes political demand made inside a secret affair.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E50.B016",
+      "episode": 50,
+      "strength": 8,
+      "label": "threat",
+      "excerpt": "Absolution is free. Discretion has a price.",
+      "why": "A cold, hard line that turns religion and romance into extortion.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E50.B036",
+      "episode": 50,
+      "strength": 9,
+      "label": "reveal",
+      "excerpt": "Agnes's face, drained of all color, her eyes bulging in pure terror.",
+      "why": "The visual jolt of a witness caught in the act of discovery.",
+      "repointed_from": null
+    }
+  ],
+  "dropped": []
+}

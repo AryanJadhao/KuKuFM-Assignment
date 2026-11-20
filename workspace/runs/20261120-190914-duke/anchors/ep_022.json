@@ -1,0 +1,116 @@
+{
+  "episode": 22,
+  "prompt_version": "anchors-v1",
+  "model": "gemini:gemini-3.5-flash-lite",
+  "model_output": {
+    "hook_anchors": [
+      {
+        "beat_id": "E22.B010",
+        "hook_intensity": 7.0,
+        "device": "confession",
+        "excerpt": "The Duchess is dying.",
+        "why": "A direct, high-stakes statement that establishes the urgent mission."
+      },
+      {
+        "beat_id": "E22.B042",
+        "hook_intensity": 8.0,
+        "device": "threat",
+        "excerpt": "And can you keep your eyes and ears where they belong?",
+        "why": "A menacing confrontation that raises the tension of the disguise being discovered."
+      },
+      {
+        "beat_id": "E22.B075",
+        "hook_intensity": 9.0,
+        "device": "reveal",
+        "excerpt": "This isn't ordinary fever.",
+        "why": "A shocking medical realization that shifts the plot into foul play and poison."
+      },
+      {
+        "beat_id": "E22.B079",
+        "hook_intensity": 8.0,
+        "device": "accusation",
+        "excerpt": "Who has been treating you?",
+        "why": "An urgent interrogation hinting at an active plot against the Duchess."
+      }
+    ],
+    "cliffhanger_anchors": [
+      {
+        "beat_id": "E22.B046",
+        "cliffhanger_tension": 5.0,
+        "open_question": "Will the housekeeper see through Juliana's disguise?",
+        "excerpt": "The manor has no use for useless girls.",
+        "why": "Leaves the characters in a precarious position under strict surveillance."
+      },
+      {
+        "beat_id": "E22.B080",
+        "cliffhanger_tension": 10.0,
+        "open_question": "Who is poisoning the Dowager Duchess?",
+        "excerpt": "the haunting realization of poison lingering as dramatic music hits an abrupt, suspenseful cliffhanger.",
+        "why": "Cuts off right as the deadly mystery is confirmed, leaving viewers desperate for answers."
+      }
+    ]
+  },
+  "accepted": [
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E22.B046",
+      "episode": 22,
+      "strength": 5,
+      "label": "Will the housekeeper see through Juliana's disguise?",
+      "excerpt": "The manor has no use for useless girls.",
+      "why": "Leaves the characters in a precarious position under strict surveillance.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E22.B080",
+      "episode": 22,
+      "strength": 10,
+      "label": "Who is poisoning the Dowager Duchess?",
+      "excerpt": "the haunting realization of poison lingering as dramatic music hits an abrupt, suspenseful cliffhanger.",
+      "why": "Cuts off right as the deadly mystery is confirmed, leaving viewers desperate for answers.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E22.B010",
+      "episode": 22,
+      "strength": 7,
+      "label": "confession",
+      "excerpt": "The Duchess is dying.",
+      "why": "A direct, high-stakes statement that establishes the urgent mission.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E22.B042",
+      "episode": 22,
+      "strength": 8,
+      "label": "threat",
+      "excerpt": "And can you keep your eyes and ears where they belong?",
+      "why": "A menacing confrontation that raises the tension of the disguise being discovered.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E22.B075",
+      "episode": 22,
+      "strength": 9,
+      "label": "reveal",
+      "excerpt": "This isn't ordinary fever.",
+      "why": "A shocking medical realization that shifts the plot into foul play and poison.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E22.B079",
+      "episode": 22,
+      "strength": 8,
+      "label": "accusation",
+      "excerpt": "Who has been treating you?",
+      "why": "An urgent interrogation hinting at an active plot against the Duchess.",
+      "repointed_from": null
+    }
+  ],
+  "dropped": []
+}

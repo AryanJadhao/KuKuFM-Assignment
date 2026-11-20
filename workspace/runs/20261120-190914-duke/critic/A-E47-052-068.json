@@ -1,0 +1,24 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "A-E47-052-068",
+    "first_3s_hook": 9.0,
+    "cliffhanger_open": 5.0,
+    "cold_viewer_clarity": 7.0,
+    "ambiguity": [
+      {
+        "kind": "relationship",
+        "beat_id": "E47.B052",
+        "detail": "Unclear why a noble-looking woman is being ordered to act as a scullery maid by Juliana."
+      }
+    ],
+    "ending_resolves_tension": true,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "As a scullery maid.",
+    "cliffhanger_line": "I accept, Your Grace.",
+    "viewer_takeaway": "A fallen aristocrat is forced to submit to humiliating manual labor by a dominant rival.",
+    "why_it_works": "Immediate high-stakes power dynamic and visual humiliation play extremely well to vertical video scrolling audiences."
+  }
+}

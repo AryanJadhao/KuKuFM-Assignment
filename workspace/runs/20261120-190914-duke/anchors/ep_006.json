@@ -1,0 +1,116 @@
+{
+  "episode": 6,
+  "prompt_version": "anchors-v1",
+  "model": "gemini:gemini-3.5-flash",
+  "model_output": {
+    "hook_anchors": [
+      {
+        "beat_id": "E06.B028",
+        "hook_intensity": 6.0,
+        "device": "defiance",
+        "excerpt": "At least no one there will be waiting to humiliate me.",
+        "why": "Juliana defiantly declares her escape from humiliation on her wedding day."
+      },
+      {
+        "beat_id": "E06.B062",
+        "hook_intensity": 7.0,
+        "device": "confession",
+        "excerpt": "If I stop now, I will think about everything I lost.",
+        "why": "Juliana's voice trembles as she desperately tries to keep herself busy to avoid her grief."
+      },
+      {
+        "beat_id": "E06.B085",
+        "hook_intensity": 6.0,
+        "device": "confession",
+        "excerpt": "I lost my home today.",
+        "why": "Juliana delivers a stark voiceover confession acknowledging the devastating turn of her life."
+      }
+    ],
+    "cliffhanger_anchors": [
+      {
+        "beat_id": "E06.B051",
+        "cliffhanger_tension": 6.0,
+        "open_question": "Will Juliana reject her new husband's humble living conditions?",
+        "excerpt": "You are not disappointed?",
+        "why": "The mysterious husband tentatively awaits Juliana's judgment of his modest cottage."
+      },
+      {
+        "beat_id": "E06.B062",
+        "cliffhanger_tension": 7.0,
+        "open_question": "Will Juliana break down emotionally over everything she lost?",
+        "excerpt": "If I stop now, I will think about everything I lost.",
+        "why": "Juliana reaches a vulnerable emotional edge while scrubbing the table."
+      },
+      {
+        "beat_id": "E06.B093",
+        "cliffhanger_tension": 5.0,
+        "open_question": "Will Juliana remain safe with her mysterious new husband?",
+        "excerpt": "Sitting here with him, I don't feel afraid.",
+        "why": "Juliana finds unexpected comfort beside her unknown husband as the scene fades."
+      }
+    ]
+  },
+  "accepted": [
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E06.B051",
+      "episode": 6,
+      "strength": 6,
+      "label": "Will Juliana reject her new husband's humble living conditions?",
+      "excerpt": "You are not disappointed?",
+      "why": "The mysterious husband tentatively awaits Juliana's judgment of his modest cottage.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E06.B062",
+      "episode": 6,
+      "strength": 7,
+      "label": "Will Juliana break down emotionally over everything she lost?",
+      "excerpt": "If I stop now, I will think about everything I lost.",
+      "why": "Juliana reaches a vulnerable emotional edge while scrubbing the table.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E06.B093",
+      "episode": 6,
+      "strength": 5,
+      "label": "Will Juliana remain safe with her mysterious new husband?",
+      "excerpt": "Sitting here with him, I don't feel afraid.",
+      "why": "Juliana finds unexpected comfort beside her unknown husband as the scene fades.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E06.B028",
+      "episode": 6,
+      "strength": 6,
+      "label": "defiance",
+      "excerpt": "At least no one there will be waiting to humiliate me.",
+      "why": "Juliana defiantly declares her escape from humiliation on her wedding day.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E06.B062",
+      "episode": 6,
+      "strength": 7,
+      "label": "confession",
+      "excerpt": "If I stop now, I will think about everything I lost.",
+      "why": "Juliana's voice trembles as she desperately tries to keep herself busy to avoid her grief.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E06.B085",
+      "episode": 6,
+      "strength": 6,
+      "label": "confession",
+      "excerpt": "I lost my home today.",
+      "why": "Juliana delivers a stark voiceover confession acknowledging the devastating turn of her life.",
+      "repointed_from": null
+    }
+  ],
+  "dropped": []
+}

@@ -1,0 +1,24 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "A-E18-011-034",
+    "first_3s_hook": 9.0,
+    "cliffhanger_open": 9.0,
+    "cold_viewer_clarity": 7.0,
+    "ambiguity": [
+      {
+        "kind": "unexplained_name",
+        "beat_id": "E18.B013",
+        "detail": "Alexander addresses Juliana without establishing their backstory."
+      }
+    ],
+    "ending_resolves_tension": false,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "Alexander...",
+    "cliffhanger_line": "No! No!",
+    "viewer_takeaway": "A man rescues a woman from a fast-spreading, life-threatening house fire while she desperately tries to save an item.",
+    "why_it_works": "Incredible high-urgency action pacing right from the first frame that holds attention through escalating peril."
+  }
+}

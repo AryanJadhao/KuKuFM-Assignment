@@ -1,0 +1,24 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "B-E43B018-E42B016",
+    "first_3s_hook": 8.0,
+    "cliffhanger_open": 9.0,
+    "cold_viewer_clarity": 7.0,
+    "ambiguity": [
+      {
+        "kind": "prior_event",
+        "beat_id": "E43.B018",
+        "detail": "Alexander's return from the dead or exile is assumed, but details of his disappearance are absent."
+      }
+    ],
+    "ending_resolves_tension": false,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "No. He is your Duke.",
+    "cliffhanger_line": "Because we know who he is.",
+    "viewer_takeaway": "A presumed-dead rightful heir returns to crash a wedding and reclaim his title from a usurper.",
+    "why_it_works": "Delivers the ultimate 'return of the true king' trope with guards turning on the villain in real-time."
+  }
+}

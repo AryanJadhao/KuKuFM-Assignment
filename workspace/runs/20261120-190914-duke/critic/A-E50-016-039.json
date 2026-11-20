@@ -1,0 +1,24 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "A-E50-016-039",
+    "first_3s_hook": 8.0,
+    "cliffhanger_open": 10.0,
+    "cold_viewer_clarity": 9.0,
+    "ambiguity": [
+      {
+        "kind": "prior_event",
+        "beat_id": "E50.B022",
+        "detail": "Mention of a 'hearing' and past trysts adds deep lore that a cold viewer has to piece together."
+      }
+    ],
+    "ending_resolves_tension": false,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "Absolution is free. Discretion has a price.",
+    "cliffhanger_line": "Frantic backward tracking close-up on Agnes stumbling back into the shadows of the hallway, horrified by the lethal secret she has uncovered before an abrupt cut to black.",
+    "viewer_takeaway": "A forbidden affair between a woman and a priest is accidentally discovered by an innocent bystander, threatening lethal consequences.",
+    "why_it_works": "Transitioning from steamy romance dialogue straight into a classic 'caught in the act' thriller trope provides a massive payoff and cliffhanger."
+  }
+}

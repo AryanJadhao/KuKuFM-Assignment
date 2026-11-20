@@ -1,0 +1,24 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "A-E27-072-094",
+    "first_3s_hook": 9.0,
+    "cliffhanger_open": 9.0,
+    "cold_viewer_clarity": 7.0,
+    "ambiguity": [
+      {
+        "kind": "prior_event",
+        "beat_id": "E27.B076",
+        "detail": "Who is poisoning the Duchess remains unproven to the wider room."
+      }
+    ],
+    "ending_resolves_tension": false,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "Poison.",
+    "cliffhanger_line": "Take her.",
+    "viewer_takeaway": "A brave young woman tries to expose a poisoning plot against a duchess, but corrupt nobles twist her words to frame her for the crime.",
+    "why_it_works": "Starting with the word 'Poison' delivers an instant punch, and the villainous frame-up ending triggers immediate rage-watch retention."
+  }
+}

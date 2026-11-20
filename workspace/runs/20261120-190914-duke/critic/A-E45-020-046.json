@@ -1,0 +1,29 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "A-E45-020-046",
+    "first_3s_hook": 9.0,
+    "cliffhanger_open": 9.0,
+    "cold_viewer_clarity": 5.0,
+    "ambiguity": [
+      {
+        "kind": "relationship",
+        "beat_id": "E45.B024",
+        "detail": "Unclear how Alexander and Juliana went from strangers/low status to a confirmed couple."
+      },
+      {
+        "kind": "unexplained_name",
+        "beat_id": "E45.B037",
+        "detail": "Catherine appears suddenly in a bridal gown without prior context."
+      }
+    ],
+    "ending_resolves_tension": false,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "Alexander Ashburton. The rightful Duke of Ashburton.",
+    "cliffhanger_line": "Wife?!",
+    "viewer_takeaway": "A newly revealed Duke humiliates his former bride at the altar by declaring his true love is actually his loyal wife.",
+    "why_it_works": "Explosive emotional payoff, high stakes betrayal, and a massive status reversal right at the start."
+  }
+}

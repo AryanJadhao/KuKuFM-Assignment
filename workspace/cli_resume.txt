@@ -1,0 +1,60 @@
+run_id: 20261120-190914-duke
+[anchors ]  12/50  tagging 38 episodes, 4 at a time
+WARNING anchorcut.llm: [anchors_ep015] gemini-3.5-flash: quota exhausted (retry in 18.1 h) -> trying next model
+[anchors ]  13/50  13/50 episodes tagged
+[anchors ]  14/50  14/50 episodes tagged
+[anchors ]  15/50  15/50 episodes tagged
+[anchors ]  16/50  16/50 episodes tagged
+WARNING anchorcut.llm: gemini-3.5-flash-lite HTTP 503 (attempt 1/4) - waiting 4s
+[anchors ]  17/50  17/50 episodes tagged
+[anchors ]  18/50  18/50 episodes tagged
+[anchors ]  19/50  19/50 episodes tagged
+[anchors ]  20/50  20/50 episodes tagged
+[anchors ]  21/50  21/50 episodes tagged
+[anchors ]  22/50  22/50 episodes tagged
+[anchors ]  23/50  23/50 episodes tagged
+[anchors ]  24/50  24/50 episodes tagged
+[anchors ]  25/50  25/50 episodes tagged
+[anchors ]  26/50  26/50 episodes tagged
+[anchors ]  27/50  27/50 episodes tagged
+WARNING anchorcut.llm: gemini-3.5-flash-lite HTTP 503 (attempt 1/4) - waiting 4s
+[anchors ]  28/50  28/50 episodes tagged
+[anchors ]  29/50  29/50 episodes tagged
+[anchors ]  30/50  30/50 episodes tagged
+[anchors ]  31/50  31/50 episodes tagged
+[anchors ]  32/50  32/50 episodes tagged
+[anchors ]  33/50  33/50 episodes tagged
+[anchors ]  34/50  34/50 episodes tagged
+[anchors ]  35/50  35/50 episodes tagged
+WARNING anchorcut.llm: gemini-3.5-flash-lite HTTP 503 (attempt 1/4) - waiting 4s
+[anchors ]  36/50  36/50 episodes tagged
+[anchors ]  37/50  37/50 episodes tagged
+[anchors ]  38/50  38/50 episodes tagged
+[anchors ]  39/50  39/50 episodes tagged
+[anchors ]  40/50  40/50 episodes tagged
+[anchors ]  41/50  41/50 episodes tagged
+[anchors ]  42/50  42/50 episodes tagged
+[anchors ]  43/50  43/50 episodes tagged
+[anchors ]  44/50  44/50 episodes tagged
+[anchors ]  45/50  45/50 episodes tagged
+WARNING anchorcut.llm: gemini-3.5-flash-lite HTTP 503 (attempt 1/4) - waiting 4s
+WARNING anchorcut.llm: gemini-3.5-flash-lite HTTP 503 (attempt 1/4) - waiting 4s
+WARNING anchorcut.llm: gemini-3.5-flash-lite HTTP 503 (attempt 1/4) - waiting 4s
+[anchors ]  46/50  46/50 episodes tagged
+WARNING anchorcut.llm: gemini-3.5-flash-lite HTTP 503 (attempt 2/4) - waiting 8s
+[anchors ]  47/50  47/50 episodes tagged
+WARNING anchorcut.llm: gemini-3.5-flash-lite HTTP 503 (attempt 1/4) - waiting 4s
+WARNING anchorcut.llm: gemini-3.5-flash-lite HTTP 503 (attempt 2/4) - waiting 8s
+WARNING anchorcut.llm: gemini-3.5-flash-lite HTTP 503 (attempt 3/4) - waiting 16s
+WARNING anchorcut.llm: gemini-3.5-flash-lite HTTP 503 (attempt 4/4) - waiting 32s
+WARNING anchorcut.llm: gemini-3.5-flash-lite HTTP 503 (attempt 2/4) - waiting 8s
+WARNING anchorcut.llm: gemini-3.5-flash-lite HTTP 503 (attempt 3/4) - waiting 16s
+WARNING anchorcut.llm: [anchors_ep047] gemini-3.5-flash-lite: still failing after 4 attempts -> trying next model
+[anchors ]  48/50  48/50 episodes tagged
+[anchors ]  49/50  49/50 episodes tagged
+WARNING anchorcut.llm: gemini-3.5-flash-lite HTTP 503 (attempt 4/4) - waiting 32s
+WARNING anchorcut.llm: [anchors_ep046] gemini-3.5-flash-lite: still failing after 4 attempts -> trying next model
+[anchors ]  50/50  50/50 episodes tagged
+state=paused  error=All configured models are out of quota or unavailable: gemini-3.5-flash-lite: still failing after 4 attempts Resume later; finished work is kept.
+results: C:\Users\sumit\OneDrive\Desktop\Aryan assn\workspace\runs\20261120-190914-duke\results
+resume later with:  python -m anchorcut.cli resume 20261120-190914-duke

@@ -1,0 +1,184 @@
+{
+  "episode": 34,
+  "prompt_version": "anchors-v1",
+  "model": "gemini:gemini-3.5-flash-lite",
+  "model_output": {
+    "hook_anchors": [
+      {
+        "beat_id": "E34.B001",
+        "hook_intensity": 9.0,
+        "device": "accusation",
+        "excerpt": "Lady Juliana Ashcroft, you are accused of witchcraft, unlawful healing, and poisoning.",
+        "why": "Instantly establishes high stakes with a severe criminal accusation in an intense courtroom setting."
+      },
+      {
+        "beat_id": "E34.B009",
+        "hook_intensity": 8.0,
+        "device": "threat",
+        "excerpt": "Do you deny using its remedies?",
+        "why": "Pressures the protagonist directly, raising the tension of the trial."
+      },
+      {
+        "beat_id": "E34.B046",
+        "hook_intensity": 8.0,
+        "device": "reveal",
+        "excerpt": "Your Honor... the witness has confirmed the ritual.",
+        "why": "A turning point where false testimony threatens to seal her fate."
+      },
+      {
+        "beat_id": "E34.B068",
+        "hook_intensity": 8.0,
+        "device": "accusation",
+        "excerpt": "The people call it poisoning!",
+        "why": "An aggressive public smear designed to turn the crowd against the accused."
+      },
+      {
+        "beat_id": "E34.B099",
+        "hook_intensity": 9.0,
+        "device": "threat",
+        "excerpt": "You understand that refusal may be treated as proof that you knowingly practiced witchcraft?",
+        "why": "A direct ultimatum carrying severe consequences for her defiance."
+      },
+      {
+        "beat_id": "E34.B105",
+        "hook_intensity": 9.0,
+        "device": "confession",
+        "excerpt": "I will not call healing evil just because powerful people have decided to fear it.",
+        "why": "A powerful, defiant declaration against corrupt authority."
+      }
+    ],
+    "cliffhanger_anchors": [
+      {
+        "beat_id": "E34.B044",
+        "cliffhanger_tension": 7.0,
+        "open_question": "Will the maid falsely accuse Lady Juliana?",
+        "excerpt": "Yes.",
+        "why": "Leaves the viewer wondering if the coerced maid will completely betray her mentor."
+      },
+      {
+        "beat_id": "E34.B086",
+        "cliffhanger_tension": 7.0,
+        "open_question": "How will the court punish her open admission?",
+        "excerpt": "So I helped them.",
+        "why": "Her unwavering admission leaves the magistrate with no room for leniency."
+      },
+      {
+        "beat_id": "E34.B097",
+        "cliffhanger_tension": 8.0,
+        "open_question": "Will Juliana finally yield to save her life?",
+        "excerpt": "I have.",
+        "why": "Her absolute refusal to compromise places her in mortal peril."
+      },
+      {
+        "beat_id": "E34.B115",
+        "cliffhanger_tension": 9.0,
+        "open_question": "What is the final sentence delivered by the judge?",
+        "excerpt": "The Judge extends his raised hand high in judgment over Lady Juliana",
+        "why": "The scene cuts off right as the final, fatal verdict is about to be pronounced."
+      }
+    ]
+  },
+  "accepted": [
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E34.B044",
+      "episode": 34,
+      "strength": 7,
+      "label": "Will the maid falsely accuse Lady Juliana?",
+      "excerpt": "Yes.",
+      "why": "Leaves the viewer wondering if the coerced maid will completely betray her mentor.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E34.B086",
+      "episode": 34,
+      "strength": 7,
+      "label": "How will the court punish her open admission?",
+      "excerpt": "So I helped them.",
+      "why": "Her unwavering admission leaves the magistrate with no room for leniency.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E34.B097",
+      "episode": 34,
+      "strength": 8,
+      "label": "Will Juliana finally yield to save her life?",
+      "excerpt": "I have.",
+      "why": "Her absolute refusal to compromise places her in mortal peril.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E34.B115",
+      "episode": 34,
+      "strength": 9,
+      "label": "What is the final sentence delivered by the judge?",
+      "excerpt": "The Judge extends his raised hand high in judgment over Lady Juliana",
+      "why": "The scene cuts off right as the final, fatal verdict is about to be pronounced.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E34.B001",
+      "episode": 34,
+      "strength": 9,
+      "label": "accusation",
+      "excerpt": "Lady Juliana Ashcroft, you are accused of witchcraft, unlawful healing, and poisoning.",
+      "why": "Instantly establishes high stakes with a severe criminal accusation in an intense courtroom setting.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E34.B009",
+      "episode": 34,
+      "strength": 8,
+      "label": "threat",
+      "excerpt": "Do you deny using its remedies?",
+      "why": "Pressures the protagonist directly, raising the tension of the trial.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E34.B046",
+      "episode": 34,
+      "strength": 8,
+      "label": "reveal",
+      "excerpt": "Your Honor... the witness has confirmed the ritual.",
+      "why": "A turning point where false testimony threatens to seal her fate.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E34.B068",
+      "episode": 34,
+      "strength": 8,
+      "label": "accusation",
+      "excerpt": "The people call it poisoning!",
+      "why": "An aggressive public smear designed to turn the crowd against the accused.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E34.B099",
+      "episode": 34,
+      "strength": 9,
+      "label": "threat",
+      "excerpt": "You understand that refusal may be treated as proof that you knowingly practiced witchcraft?",
+      "why": "A direct ultimatum carrying severe consequences for her defiance.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E34.B105",
+      "episode": 34,
+      "strength": 9,
+      "label": "confession",
+      "excerpt": "I will not call healing evil just because powerful people have decided to fear it.",
+      "why": "A powerful, defiant declaration against corrupt authority.",
+      "repointed_from": null
+    }
+  ],
+  "dropped": []
+}

@@ -1,0 +1,24 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "A-E30-042-060",
+    "first_3s_hook": 7.0,
+    "cliffhanger_open": 6.0,
+    "cold_viewer_clarity": 7.0,
+    "ambiguity": [
+      {
+        "kind": "relationship",
+        "beat_id": "E30.B054",
+        "detail": "The Dowager's relationship to the conspirators and her exact status remain vague."
+      }
+    ],
+    "ending_resolves_tension": true,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "Then call it witchcraft.",
+    "cliffhanger_line": "She goes before the magistrate tomorrow.",
+    "viewer_takeaway": "Conspirators plan to fabricate evidence of witchcraft to have a woman hanged by the state while dismissing a dying woman's warnings.",
+    "why_it_works": "Detailed corruption and cold plotting build high tension around an impending judicial frame-up."
+  }
+}

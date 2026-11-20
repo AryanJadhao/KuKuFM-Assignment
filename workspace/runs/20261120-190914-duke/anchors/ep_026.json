@@ -1,0 +1,99 @@
+{
+  "episode": 26,
+  "prompt_version": "anchors-v1",
+  "model": "gemini:gemini-3.5-flash-lite",
+  "model_output": {
+    "hook_anchors": [
+      {
+        "beat_id": "E26.B025",
+        "hook_intensity": 8.0,
+        "device": "confession",
+        "excerpt": "Rupert and Catherine want me dead. They are poisoning me in my own bed",
+        "why": "The Duchess states the terrifying truth that she is being murdered by her own family."
+      },
+      {
+        "beat_id": "E26.B032",
+        "hook_intensity": 7.0,
+        "device": "reveal",
+        "excerpt": "Because my family cast me out to rot. I have nothing left",
+        "why": "Juliana reveals her tragic noble background and abandonment."
+      },
+      {
+        "beat_id": "E26.B046",
+        "hook_intensity": 9.0,
+        "device": "threat",
+        "excerpt": "Do not move!",
+        "why": "A sudden, stern command that raises the physical and emotional stakes instantly."
+      }
+    ],
+    "cliffhanger_anchors": [
+      {
+        "beat_id": "E26.B048",
+        "cliffhanger_tension": 9.0,
+        "open_question": "Where did Juliana get the ring, and why does the Duchess recognize it?",
+        "excerpt": "Where did you get this ring? Speak to me!",
+        "why": "The Duchess makes an intense, desperate demand about Juliana's identity just before the cut."
+      },
+      {
+        "beat_id": "E26.B050",
+        "cliffhanger_tension": 10.0,
+        "open_question": "What secret does the family signet ring reveal about Juliana's true identity?",
+        "excerpt": "holding the signet ring between them as a dramatic orchestral cliffhanger chord swells",
+        "why": "The scene freezes on the critical physical evidence connecting Juliana to the Duchess's past."
+      }
+    ]
+  },
+  "accepted": [
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E26.B048",
+      "episode": 26,
+      "strength": 9,
+      "label": "Where did Juliana get the ring, and why does the Duchess recognize it?",
+      "excerpt": "Where did you get this ring? Speak to me!",
+      "why": "The Duchess makes an intense, desperate demand about Juliana's identity just before the cut.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E26.B050",
+      "episode": 26,
+      "strength": 10,
+      "label": "What secret does the family signet ring reveal about Juliana's true identity?",
+      "excerpt": "holding the signet ring between them as a dramatic orchestral cliffhanger chord swells",
+      "why": "The scene freezes on the critical physical evidence connecting Juliana to the Duchess's past.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E26.B025",
+      "episode": 26,
+      "strength": 8,
+      "label": "confession",
+      "excerpt": "Rupert and Catherine want me dead. They are poisoning me in my own bed",
+      "why": "The Duchess states the terrifying truth that she is being murdered by her own family.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E26.B032",
+      "episode": 26,
+      "strength": 7,
+      "label": "reveal",
+      "excerpt": "Because my family cast me out to rot. I have nothing left",
+      "why": "Juliana reveals her tragic noble background and abandonment.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E26.B046",
+      "episode": 26,
+      "strength": 9,
+      "label": "threat",
+      "excerpt": "Do not move!",
+      "why": "A sudden, stern command that raises the physical and emotional stakes instantly.",
+      "repointed_from": null
+    }
+  ],
+  "dropped": []
+}

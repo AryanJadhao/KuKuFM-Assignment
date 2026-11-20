@@ -1,0 +1,24 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "A-E36-061-095",
+    "first_3s_hook": 8.0,
+    "cliffhanger_open": 9.0,
+    "cold_viewer_clarity": 8.0,
+    "ambiguity": [
+      {
+        "kind": "unexplained_name",
+        "beat_id": "E36.B065",
+        "detail": "Rupert and Catherine are mentioned as the accusers without background."
+      }
+    ],
+    "ending_resolves_tension": false,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "They arrested her!",
+    "cliffhanger_line": "Two days from now.",
+    "viewer_takeaway": "The returned soldier learns his wife has been falsely condemned as a witch and sentenced to execution before a wedding.",
+    "why_it_works": "Provides an urgent ticking clock and raises the stakes from political betrayal to an imminent execution."
+  }
+}

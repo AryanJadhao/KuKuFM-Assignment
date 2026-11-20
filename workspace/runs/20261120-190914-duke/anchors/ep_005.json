@@ -1,0 +1,133 @@
+{
+  "episode": 5,
+  "prompt_version": "anchors-v1",
+  "model": "gemini:gemini-3.5-flash",
+  "model_output": {
+    "hook_anchors": [
+      {
+        "beat_id": "E05.B016",
+        "hook_intensity": 8.0,
+        "device": "disownment",
+        "excerpt": "From this moment, you are dead to the Ashcroft family.",
+        "why": "A harsh, definitive disownment declaration that immediately establishes high familial conflict."
+      },
+      {
+        "beat_id": "E05.B031",
+        "hook_intensity": 9.0,
+        "device": "humiliation",
+        "excerpt": "snatches the heavy book away and flings it disdainfully",
+        "why": "A sudden physical act of malicious disrespect that instantly grabs visual attention."
+      },
+      {
+        "beat_id": "E05.B055",
+        "hook_intensity": 7.0,
+        "device": "insult",
+        "excerpt": "A noblewoman reduced to a beggar's wife!",
+        "why": "A sharp, mocking insult aimed at Juliana's new social standing."
+      },
+      {
+        "beat_id": "E05.B057",
+        "hook_intensity": 8.0,
+        "device": "threat",
+        "excerpt": "Choose your next words carefully.",
+        "why": "A low, menacing threat from the mysterious husband creating instant tension."
+      }
+    ],
+    "cliffhanger_anchors": [
+      {
+        "beat_id": "E05.B016",
+        "cliffhanger_tension": 7.0,
+        "open_question": "Will Juliana submit to being completely disowned by her father?",
+        "excerpt": "From this moment, you are dead to the Ashcroft family.",
+        "why": "Leaves the emotional consequences of her complete disownment uncertain."
+      },
+      {
+        "beat_id": "E05.B029",
+        "cliffhanger_tension": 8.0,
+        "open_question": "Will Lady Ashcroft successfully steal the late mother's ledger?",
+        "excerpt": "Then you should have guarded it better.",
+        "why": "Directly precedes the climax of Lady Ashcroft forcibly seizing the ledger."
+      },
+      {
+        "beat_id": "E05.B057",
+        "cliffhanger_tension": 8.0,
+        "open_question": "Will Gerald heed the warning or provoke a violent conflict?",
+        "excerpt": "Choose your next words carefully.",
+        "why": "Ends on a dangerous standoff between the husband and Gerald."
+      }
+    ]
+  },
+  "accepted": [
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E05.B016",
+      "episode": 5,
+      "strength": 7,
+      "label": "Will Juliana submit to being completely disowned by her father?",
+      "excerpt": "From this moment, you are dead to the Ashcroft family.",
+      "why": "Leaves the emotional consequences of her complete disownment uncertain.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E05.B029",
+      "episode": 5,
+      "strength": 8,
+      "label": "Will Lady Ashcroft successfully steal the late mother's ledger?",
+      "excerpt": "Then you should have guarded it better.",
+      "why": "Directly precedes the climax of Lady Ashcroft forcibly seizing the ledger.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E05.B057",
+      "episode": 5,
+      "strength": 8,
+      "label": "Will Gerald heed the warning or provoke a violent conflict?",
+      "excerpt": "Choose your next words carefully.",
+      "why": "Ends on a dangerous standoff between the husband and Gerald.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E05.B016",
+      "episode": 5,
+      "strength": 8,
+      "label": "disownment",
+      "excerpt": "From this moment, you are dead to the Ashcroft family.",
+      "why": "A harsh, definitive disownment declaration that immediately establishes high familial conflict.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E05.B031",
+      "episode": 5,
+      "strength": 9,
+      "label": "humiliation",
+      "excerpt": "snatches the heavy book away and flings it disdainfully",
+      "why": "A sudden physical act of malicious disrespect that instantly grabs visual attention.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E05.B055",
+      "episode": 5,
+      "strength": 7,
+      "label": "insult",
+      "excerpt": "A noblewoman reduced to a beggar's wife!",
+      "why": "A sharp, mocking insult aimed at Juliana's new social standing.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E05.B057",
+      "episode": 5,
+      "strength": 8,
+      "label": "threat",
+      "excerpt": "Choose your next words carefully.",
+      "why": "A low, menacing threat from the mysterious husband creating instant tension.",
+      "repointed_from": null
+    }
+  ],
+  "dropped": []
+}

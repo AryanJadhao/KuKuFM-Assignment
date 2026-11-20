@@ -1,0 +1,24 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "B-E45B069-E44B052",
+    "first_3s_hook": 8.0,
+    "cliffhanger_open": 9.0,
+    "cold_viewer_clarity": 7.0,
+    "ambiguity": [
+      {
+        "kind": "relationship",
+        "beat_id": "E44.B048",
+        "detail": "The identity of the chained woman (Juliana) is introduced abruptly as a rival for the Duke's affection."
+      }
+    ],
+    "ending_resolves_tension": false,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "You are not Alexander Ashburton's lawful wife.",
+    "cliffhanger_line": "Her?!",
+    "viewer_takeaway": "The duke publicly rejects his former bride to walk toward a mysterious chained woman instead.",
+    "why_it_works": "The ultimate plot twist reveal of choosing an unexpected partner leaves viewers desperate for the next episode."
+  }
+}

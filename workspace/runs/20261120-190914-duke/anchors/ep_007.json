@@ -1,0 +1,133 @@
+{
+  "episode": 7,
+  "prompt_version": "anchors-v1",
+  "model": "gemini:gemini-3.5-flash",
+  "model_output": {
+    "hook_anchors": [
+      {
+        "beat_id": "E07.B010",
+        "hook_intensity": 7.0,
+        "device": "insult",
+        "excerpt": "threw away everything for a penniless soldier",
+        "why": "Gerald mocks Juliana's dramatic fall from high status to poverty."
+      },
+      {
+        "beat_id": "E07.B027",
+        "hook_intensity": 7.0,
+        "device": "defiance",
+        "excerpt": "I chose a man who stood beside me when you walked away",
+        "why": "Juliana delivers a fiery retort exposing Gerald's past abandonment."
+      },
+      {
+        "beat_id": "E07.B031",
+        "hook_intensity": 8.0,
+        "device": "threat",
+        "excerpt": "I have enough influence to make a beggar disappear",
+        "why": "Gerald threatens murder/abduction against Juliana's husband."
+      },
+      {
+        "beat_id": "E07.B041",
+        "hook_intensity": 7.0,
+        "device": "fear",
+        "excerpt": "arrogant bravado instantly vanishing as cold dread overtakes his face",
+        "why": "Visual turning point where the bully realizes he is outmatched."
+      }
+    ],
+    "cliffhanger_anchors": [
+      {
+        "beat_id": "E07.B031",
+        "cliffhanger_tension": 8.0,
+        "open_question": "Will Gerald carry out his sinister threat against her husband?",
+        "excerpt": "I have enough influence to make a beggar disappear",
+        "why": "Gerald makes an explicit threat right before the husband arrives."
+      },
+      {
+        "beat_id": "E07.B033",
+        "cliffhanger_tension": 7.0,
+        "open_question": "Who is the menacing figure approaching from the fog?",
+        "excerpt": "A towering, shadowed figure walks steadily forward through the mist",
+        "why": "A mysterious figure emerges in response to Gerald's threat."
+      },
+      {
+        "beat_id": "E07.B040",
+        "cliffhanger_tension": 8.0,
+        "open_question": "Will the husband physically attack Gerald?",
+        "excerpt": "towering menacingly over Gerald, staring down at him with unyielding intensity",
+        "why": "Imminent violence hangs in the air as the husband silent-confronts Gerald."
+      }
+    ]
+  },
+  "accepted": [
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E07.B031",
+      "episode": 7,
+      "strength": 8,
+      "label": "Will Gerald carry out his sinister threat against her husband?",
+      "excerpt": "I have enough influence to make a beggar disappear",
+      "why": "Gerald makes an explicit threat right before the husband arrives.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E07.B033",
+      "episode": 7,
+      "strength": 7,
+      "label": "Who is the menacing figure approaching from the fog?",
+      "excerpt": "A towering, shadowed figure walks steadily forward through the mist",
+      "why": "A mysterious figure emerges in response to Gerald's threat.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E07.B040",
+      "episode": 7,
+      "strength": 8,
+      "label": "Will the husband physically attack Gerald?",
+      "excerpt": "towering menacingly over Gerald, staring down at him with unyielding intensity",
+      "why": "Imminent violence hangs in the air as the husband silent-confronts Gerald.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E07.B010",
+      "episode": 7,
+      "strength": 7,
+      "label": "insult",
+      "excerpt": "threw away everything for a penniless soldier",
+      "why": "Gerald mocks Juliana's dramatic fall from high status to poverty.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E07.B027",
+      "episode": 7,
+      "strength": 7,
+      "label": "defiance",
+      "excerpt": "I chose a man who stood beside me when you walked away",
+      "why": "Juliana delivers a fiery retort exposing Gerald's past abandonment.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E07.B031",
+      "episode": 7,
+      "strength": 8,
+      "label": "threat",
+      "excerpt": "I have enough influence to make a beggar disappear",
+      "why": "Gerald threatens murder/abduction against Juliana's husband.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E07.B041",
+      "episode": 7,
+      "strength": 7,
+      "label": "fear",
+      "excerpt": "arrogant bravado instantly vanishing as cold dread overtakes his face",
+      "why": "Visual turning point where the bully realizes he is outmatched.",
+      "repointed_from": null
+    }
+  ],
+  "dropped": []
+}

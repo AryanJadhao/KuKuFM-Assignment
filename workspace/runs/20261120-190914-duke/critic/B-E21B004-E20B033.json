@@ -1,0 +1,24 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "B-E21B004-E20B033",
+    "first_3s_hook": 8.0,
+    "cliffhanger_open": 5.0,
+    "cold_viewer_clarity": 7.0,
+    "ambiguity": [
+      {
+        "kind": "relationship",
+        "beat_id": "E20.B014",
+        "detail": "Rupert and Catherine's exact dynamic is vague until the dialogue implies a shared plot."
+      }
+    ],
+    "ending_resolves_tension": true,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "Lady Juliana! Please! You have to help me, Toby is dying!",
+    "cliffhanger_line": "They will learn their place when you wear the ducal crown.",
+    "viewer_takeaway": "An aristocratic couple is conspiring to inherit an estate through the suspicious decline of its current residents.",
+    "why_it_works": "The cold-open panic cuts into a chilling display of aristocratic greed, hooking scroll-users with high-stakes villainy."
+  }
+}

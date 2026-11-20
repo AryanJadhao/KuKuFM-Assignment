@@ -1,0 +1,24 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "A-E43-011-051",
+    "first_3s_hook": 9.0,
+    "cliffhanger_open": 8.0,
+    "cold_viewer_clarity": 7.0,
+    "ambiguity": [
+      {
+        "kind": "relationship",
+        "beat_id": "E43.B013",
+        "detail": "Rupert's exact familial connection to Alexander or the ducal title is not fully clear yet."
+      }
+    ],
+    "ending_resolves_tension": false,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "We will not.",
+    "cliffhanger_line": "Rupert Ashburn.",
+    "viewer_takeaway": "A supposed dead duke returns to expose the nobles who betrayed him and stole his identity.",
+    "why_it_works": "Strong accusation sequence with immediate documentary proof captures attention and builds instant high-stakes drama."
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "episode": 42,
+  "prompt_version": "anchors-v1",
+  "model": "gemini:gemini-3.5-flash-lite",
+  "model_output": {
+    "hook_anchors": [
+      {
+        "beat_id": "E42.B003",
+        "hook_intensity": 7.0,
+        "device": "threat",
+        "excerpt": "You already know.",
+        "why": "A cool, confident response to a shocked stranger establishes an immediate power dynamic."
+      },
+      {
+        "beat_id": "E42.B011",
+        "hook_intensity": 8.0,
+        "device": "betrayal",
+        "excerpt": "We will not.",
+        "why": "Guards defying a direct order to arrest an imposter creates instant dramatic tension."
+      },
+      {
+        "beat_id": "E42.B020",
+        "hook_intensity": 9.0,
+        "device": "reveal",
+        "excerpt": "You cannot be him. Alexander died!",
+        "why": "The shocking revelation that a supposed dead man has returned to claim his title."
+      },
+      {
+        "beat_id": "E42.B033",
+        "hook_intensity": 10.0,
+        "device": "reveal",
+        "excerpt": "This is my son... Alexander Ashburn. The rightful Duke of Ashburn!",
+        "why": "The mother publicly proclaiming her returned son as the true duke changes the entire power structure."
+      }
+    ],
+    "cliffhanger_anchors": [
+      {
+        "beat_id": "E42.B016",
+        "cliffhanger_tension": 7.0,
+        "open_question": "Why do the guards refuse to arrest him?",
+        "excerpt": "Because we know who he is.",
+        "why": "Leaves the audience wondering what the guards know that the villain does not."
+      },
+      {
+        "beat_id": "E42.B036",
+        "cliffhanger_tension": 9.0,
+        "open_question": "How will Alexander exact his revenge on Rupert?",
+        "excerpt": "And now, Rupert... we settle what you stole.",
+        "why": "Ends the episode right on the precipice of a violent or dramatic reckoning between rivals."
+      }
+    ]
+  },
+  "accepted": [
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E42.B016",
+      "episode": 42,
+      "strength": 7,
+      "label": "Why do the guards refuse to arrest him?",
+      "excerpt": "Because we know who he is.",
+      "why": "Leaves the audience wondering what the guards know that the villain does not.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E42.B036",
+      "episode": 42,
+      "strength": 9,
+      "label": "How will Alexander exact his revenge on Rupert?",
+      "excerpt": "And now, Rupert... we settle what you stole.",
+      "why": "Ends the episode right on the precipice of a violent or dramatic reckoning between rivals.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E42.B003",
+      "episode": 42,
+      "strength": 7,
+      "label": "threat",
+      "excerpt": "You already know.",
+      "why": "A cool, confident response to a shocked stranger establishes an immediate power dynamic.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E42.B011",
+      "episode": 42,
+      "strength": 8,
+      "label": "betrayal",
+      "excerpt": "We will not.",
+      "why": "Guards defying a direct order to arrest an imposter creates instant dramatic tension.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E42.B020",
+      "episode": 42,
+      "strength": 9,
+      "label": "reveal",
+      "excerpt": "You cannot be him. Alexander died!",
+      "why": "The shocking revelation that a supposed dead man has returned to claim his title.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E42.B033",
+      "episode": 42,
+      "strength": 10,
+      "label": "reveal",
+      "excerpt": "This is my son... Alexander Ashburn. The rightful Duke of Ashburn!",
+      "why": "The mother publicly proclaiming her returned son as the true duke changes the entire power structure.",
+      "repointed_from": null
+    }
+  ],
+  "dropped": []
+}

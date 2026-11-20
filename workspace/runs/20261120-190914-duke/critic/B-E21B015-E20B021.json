@@ -1,0 +1,24 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "B-E21B015-E20B021",
+    "first_3s_hook": 7.0,
+    "cliffhanger_open": 6.0,
+    "cold_viewer_clarity": 6.0,
+    "ambiguity": [
+      {
+        "kind": "prior_event",
+        "beat_id": "E21.B015",
+        "detail": "Unclear why the manor doctor refused the village boy."
+      }
+    ],
+    "ending_resolves_tension": false,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "The manor doctor laughed! He said village boys are not worth his time!",
+    "cliffhanger_line": "How tragic. The slow, quiet decline.",
+    "viewer_takeaway": "A compassionate healer deals with medical neglect among the poor while wealthy elites plot murders.",
+    "why_it_works": "Juxtaposes the raw desperation of the peasantry against the cold luxury of the villains."
+  }
+}

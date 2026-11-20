@@ -1,0 +1,18 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "A-E36-099-118",
+    "first_3s_hook": 8.0,
+    "cliffhanger_open": 8.0,
+    "cold_viewer_clarity": 7.0,
+    "ambiguity": [],
+    "ending_resolves_tension": false,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "...and killing my wife afterward.",
+    "cliffhanger_line": "...their dead Duke is coming home.",
+    "viewer_takeaway": "A vengeful lord vows to crash a wedding and slaughter his enemies to save his wife before her execution.",
+    "why_it_works": "Delivers an ultimate badass protagonist declaration with a chilling final line that hooks viewers for the revenge payoff."
+  }
+}

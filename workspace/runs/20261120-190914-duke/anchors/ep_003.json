@@ -1,0 +1,167 @@
+{
+  "episode": 3,
+  "prompt_version": "anchors-v1",
+  "model": "gemini:gemini-3.5-flash",
+  "model_output": {
+    "hook_anchors": [
+      {
+        "beat_id": "E03.B006",
+        "hook_intensity": 7.0,
+        "device": "accusation",
+        "excerpt": "You stole my wedding.",
+        "why": "Juliana confronts her sister with a sharp emotional accusation right off the bat."
+      },
+      {
+        "beat_id": "E03.B048",
+        "hook_intensity": 8.0,
+        "device": "grab",
+        "excerpt": "guards forcefully grab Juliana by both shoulders and drag her",
+        "why": "Sudden physical violence as guards seize the protagonist in front of the altar."
+      },
+      {
+        "beat_id": "E03.B058",
+        "hook_intensity": 9.0,
+        "device": "confrontation",
+        "excerpt": "Take your hands off her.",
+        "why": "A mysterious stranger enters with a low, commanding threat that halts the action."
+      },
+      {
+        "beat_id": "E03.B070",
+        "hook_intensity": 9.0,
+        "device": "collapse",
+        "excerpt": "drives a devastating strike into him, dropping the armed guard",
+        "why": "High-impact combat jolt as the stranger instantly knocks out an armed guard."
+      },
+      {
+        "beat_id": "E03.B115",
+        "hook_intensity": 8.0,
+        "device": "proposal",
+        "excerpt": "Lady Juliana... accept my hand.",
+        "why": "A shocking high-stakes marriage proposal delivered to a public crowd."
+      }
+    ],
+    "cliffhanger_anchors": [
+      {
+        "beat_id": "E03.B044",
+        "cliffhanger_tension": 7.0,
+        "open_question": "Will Juliana be cast out into the street by her own family?",
+        "excerpt": "and it isn't you.",
+        "why": "The Matriarch ruthlessly disowns Juliana, leaving her fate hanging in the balance."
+      },
+      {
+        "beat_id": "E03.B061",
+        "cliffhanger_tension": 8.0,
+        "open_question": "Who is the mysterious stranger interrupting the noble family?",
+        "excerpt": "who are you to give orders in my family's chapel?!",
+        "why": "The Matriarch demands the identity of the powerful intruder who just challenged her authority."
+      },
+      {
+        "beat_id": "E03.B073",
+        "cliffhanger_tension": 7.0,
+        "open_question": "Will the crowd and remaining guards overpower the lone stranger?",
+        "excerpt": "What are you waiting for?! He's only one man!",
+        "why": "Gerald calls for back-up to attack the stranger, raising immediate combat stakes."
+      },
+      {
+        "beat_id": "E03.B115",
+        "cliffhanger_tension": 10.0,
+        "open_question": "Will Lady Juliana accept a shocking marriage proposal from a scarred stranger?",
+        "excerpt": "Lady Juliana... accept my hand.",
+        "why": "The ultimate cliffhanger of the episode as the stranger drops to one knee before the entire congregation."
+      }
+    ]
+  },
+  "accepted": [
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E03.B044",
+      "episode": 3,
+      "strength": 7,
+      "label": "Will Juliana be cast out into the street by her own family?",
+      "excerpt": "and it isn't you.",
+      "why": "The Matriarch ruthlessly disowns Juliana, leaving her fate hanging in the balance.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E03.B061",
+      "episode": 3,
+      "strength": 8,
+      "label": "Who is the mysterious stranger interrupting the noble family?",
+      "excerpt": "who are you to give orders in my family's chapel?!",
+      "why": "The Matriarch demands the identity of the powerful intruder who just challenged her authority.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E03.B073",
+      "episode": 3,
+      "strength": 7,
+      "label": "Will the crowd and remaining guards overpower the lone stranger?",
+      "excerpt": "What are you waiting for?! He's only one man!",
+      "why": "Gerald calls for back-up to attack the stranger, raising immediate combat stakes.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E03.B115",
+      "episode": 3,
+      "strength": 10,
+      "label": "Will Lady Juliana accept a shocking marriage proposal from a scarred stranger?",
+      "excerpt": "Lady Juliana... accept my hand.",
+      "why": "The ultimate cliffhanger of the episode as the stranger drops to one knee before the entire congregation.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E03.B006",
+      "episode": 3,
+      "strength": 7,
+      "label": "accusation",
+      "excerpt": "You stole my wedding.",
+      "why": "Juliana confronts her sister with a sharp emotional accusation right off the bat.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E03.B048",
+      "episode": 3,
+      "strength": 8,
+      "label": "grab",
+      "excerpt": "guards forcefully grab Juliana by both shoulders and drag her",
+      "why": "Sudden physical violence as guards seize the protagonist in front of the altar.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E03.B058",
+      "episode": 3,
+      "strength": 9,
+      "label": "confrontation",
+      "excerpt": "Take your hands off her.",
+      "why": "A mysterious stranger enters with a low, commanding threat that halts the action.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E03.B070",
+      "episode": 3,
+      "strength": 9,
+      "label": "collapse",
+      "excerpt": "drives a devastating strike into him, dropping the armed guard",
+      "why": "High-impact combat jolt as the stranger instantly knocks out an armed guard.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E03.B115",
+      "episode": 3,
+      "strength": 8,
+      "label": "proposal",
+      "excerpt": "Lady Juliana... accept my hand.",
+      "why": "A shocking high-stakes marriage proposal delivered to a public crowd.",
+      "repointed_from": null
+    }
+  ],
+  "dropped": []
+}

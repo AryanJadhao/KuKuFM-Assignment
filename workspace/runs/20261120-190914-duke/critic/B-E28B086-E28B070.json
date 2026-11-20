@@ -1,0 +1,24 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "B-E28B086-E28B070",
+    "first_3s_hook": 7.0,
+    "cliffhanger_open": 9.0,
+    "cold_viewer_clarity": 6.0,
+    "ambiguity": [
+      {
+        "kind": "unexplained_name",
+        "beat_id": "E28.B068",
+        "detail": "The book reveals the secret identity 'Juliana Ashcroft'."
+      }
+    ],
+    "ending_resolves_tension": false,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "Drag her to the wet cells beneath the south tower.",
+    "cliffhanger_line": "Juliana gasps in horror, realizing her secret identity has been laid bare.",
+    "viewer_takeaway": "A captured maid watches helplessly as her cruel masters discard her family locket and discover her true identity.",
+    "why_it_works": "The slow-burn discovery of the hidden name and the physical destruction of personal items creates a painful, addictive sense of dread."
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "B-E18B077-E17B073",
+    "first_3s_hook": 7.0,
+    "cliffhanger_open": 6.0,
+    "cold_viewer_clarity": 7.0,
+    "ambiguity": [
+      {
+        "kind": "prior_event",
+        "beat_id": "E18.B077",
+        "detail": "Flash-forward references a destroyed home not yet explained in the main scene."
+      }
+    ],
+    "ending_resolves_tension": true,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "They took our home. I will not let them take anything else now.",
+    "cliffhanger_line": "But every day, he gives me another reason to trust him.",
+    "viewer_takeaway": "A married couple finds quiet, tender moments of safety and growing trust amid hidden dangers.",
+    "why_it_works": "Strong emotional contrast between a hard-hitting vengeance cold open and a tender, romantic fireside bonding scene."
+  }
+}

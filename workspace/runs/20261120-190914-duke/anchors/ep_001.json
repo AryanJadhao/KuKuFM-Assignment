@@ -1,0 +1,150 @@
+{
+  "episode": 1,
+  "prompt_version": "anchors-v1",
+  "model": "gemini:gemini-3.5-flash",
+  "model_output": {
+    "hook_anchors": [
+      {
+        "beat_id": "E01.B026",
+        "hook_intensity": 9.0,
+        "device": "betrayal",
+        "excerpt": "Because he is marrying me.",
+        "why": "Cruel reveal that the sister is stealing the bridegroom at the altar."
+      },
+      {
+        "beat_id": "E01.B040",
+        "hook_intensity": 8.0,
+        "device": "rejection",
+        "excerpt": "I changed my mind.",
+        "why": "The groom callously dumps his bride right at the wedding altar."
+      },
+      {
+        "beat_id": "E01.B074",
+        "hook_intensity": 9.0,
+        "device": "insult",
+        "excerpt": "You are the daughter people tolerate because they have to.",
+        "why": "A vicious personal insult delivered by her sister in front of everyone."
+      },
+      {
+        "beat_id": "E01.B086",
+        "hook_intensity": 9.0,
+        "device": "humiliation",
+        "excerpt": "I cannot marry a woman of such plainness and low value",
+        "why": "Extreme public character assassination and rejection."
+      }
+    ],
+    "cliffhanger_anchors": [
+      {
+        "beat_id": "E01.B031",
+        "cliffhanger_tension": 7.0,
+        "open_question": "Was Juliana set up by her entire family from the beginning?",
+        "excerpt": "You knew this before I walked through those doors!",
+        "why": "Exposes a premeditated conspiracy against the bride."
+      },
+      {
+        "beat_id": "E01.B051",
+        "cliffhanger_tension": 8.0,
+        "open_question": "Will Juliana's father defend her or participate in the betrayal?",
+        "excerpt": "Long enough to know he was never going to marry you.",
+        "why": "Leaves Juliana utterly stranded right before she appeals to her father."
+      },
+      {
+        "beat_id": "E01.B064",
+        "cliffhanger_tension": 7.0,
+        "open_question": "Will Juliana be disowned by the matriarch?",
+        "excerpt": "You have embarrassed this family long enough.",
+        "why": "Escalates family conflict and threatens permanent outcast status."
+      },
+      {
+        "beat_id": "E01.B091",
+        "cliffhanger_tension": 9.0,
+        "open_question": "How will Juliana exact revenge after turning her grief into fierce defiance?",
+        "excerpt": "tear-filled blue eyes hardening from sheer devastation into cold, resolute defiance",
+        "why": "Emotional climax shift right before the episode cuts to black."
+      }
+    ]
+  },
+  "accepted": [
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E01.B031",
+      "episode": 1,
+      "strength": 7,
+      "label": "Was Juliana set up by her entire family from the beginning?",
+      "excerpt": "You knew this before I walked through those doors!",
+      "why": "Exposes a premeditated conspiracy against the bride.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E01.B051",
+      "episode": 1,
+      "strength": 8,
+      "label": "Will Juliana's father defend her or participate in the betrayal?",
+      "excerpt": "Long enough to know he was never going to marry you.",
+      "why": "Leaves Juliana utterly stranded right before she appeals to her father.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E01.B064",
+      "episode": 1,
+      "strength": 7,
+      "label": "Will Juliana be disowned by the matriarch?",
+      "excerpt": "You have embarrassed this family long enough.",
+      "why": "Escalates family conflict and threatens permanent outcast status.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E01.B091",
+      "episode": 1,
+      "strength": 9,
+      "label": "How will Juliana exact revenge after turning her grief into fierce defiance?",
+      "excerpt": "tear-filled blue eyes hardening from sheer devastation into cold, resolute defiance",
+      "why": "Emotional climax shift right before the episode cuts to black.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E01.B026",
+      "episode": 1,
+      "strength": 9,
+      "label": "betrayal",
+      "excerpt": "Because he is marrying me.",
+      "why": "Cruel reveal that the sister is stealing the bridegroom at the altar.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E01.B040",
+      "episode": 1,
+      "strength": 8,
+      "label": "rejection",
+      "excerpt": "I changed my mind.",
+      "why": "The groom callously dumps his bride right at the wedding altar.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E01.B074",
+      "episode": 1,
+      "strength": 9,
+      "label": "insult",
+      "excerpt": "You are the daughter people tolerate because they have to.",
+      "why": "A vicious personal insult delivered by her sister in front of everyone.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E01.B086",
+      "episode": 1,
+      "strength": 9,
+      "label": "humiliation",
+      "excerpt": "I cannot marry a woman of such plainness and low value",
+      "why": "Extreme public character assassination and rejection.",
+      "repointed_from": null
+    }
+  ],
+  "dropped": []
+}

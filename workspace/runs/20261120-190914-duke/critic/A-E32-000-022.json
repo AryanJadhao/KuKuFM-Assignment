@@ -1,0 +1,24 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "A-E32-000-022",
+    "first_3s_hook": 9.0,
+    "cliffhanger_open": 8.0,
+    "cold_viewer_clarity": 8.0,
+    "ambiguity": [
+      {
+        "kind": "relationship",
+        "beat_id": "E32.B003",
+        "detail": "The exact nature of the institutional power dynamic is implied but not explicitly detailed."
+      }
+    ],
+    "ending_resolves_tension": false,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "Sizzling, crackling sound of scorched parchment paper.",
+    "cliffhanger_line": "You may destroy the book...",
+    "viewer_takeaway": "A captive prisoner refuses to beg for her mother's burning book, shocking her tormentor with her fearlessness.",
+    "why_it_works": "The immediate visual and audio hook of a book burning combined with a power shift where the captive calls the villain's bluff drives high engagement."
+  }
+}

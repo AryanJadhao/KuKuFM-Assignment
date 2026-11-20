@@ -1,0 +1,116 @@
+{
+  "episode": 9,
+  "prompt_version": "anchors-v1",
+  "model": "gemini:gemini-3.5-flash",
+  "model_output": {
+    "hook_anchors": [
+      {
+        "beat_id": "E09.B008",
+        "hook_intensity": 7.0,
+        "device": "emergency",
+        "excerpt": "My boy is burning with fever!",
+        "why": "A frantic mother bursting in with a dying child creates immediate life-or-death stakes."
+      },
+      {
+        "beat_id": "E09.B074",
+        "hook_intensity": 8.0,
+        "device": "secret reveal",
+        "excerpt": "Some say he resembles the late Duke.",
+        "why": "Reveals the crucial rumor linking the mysterious war veteran to the late Duke."
+      },
+      {
+        "beat_id": "E09.B078",
+        "hook_intensity": 8.0,
+        "device": "identity reveal",
+        "excerpt": "same kind of scar the Duke carried after the war.",
+        "why": "Provides specific physical proof that threatens the Nobleman's usurped power."
+      }
+    ],
+    "cliffhanger_anchors": [
+      {
+        "beat_id": "E09.B055",
+        "cliffhanger_tension": 7.0,
+        "open_question": "Will the mother's vow of gratitude accidentally expose Juliana and Alexander?",
+        "excerpt": "I will tell the village what you did.",
+        "why": "Sets off a chain reaction of unwanted publicity in a dangerous climate."
+      },
+      {
+        "beat_id": "E09.B062",
+        "cliffhanger_tension": 7.0,
+        "open_question": "What danger will come from the village gossip spreading to the wrong people?",
+        "excerpt": "Gossip has a way of becoming dangerous.",
+        "why": "Alexander directly forebodes the deadly consequences of village rumors."
+      },
+      {
+        "beat_id": "E09.B088",
+        "cliffhanger_tension": 9.0,
+        "open_question": "What ruthless move will the paranoid Nobleman make now that he suspects the Duke lives?",
+        "excerpt": "flickering fireplace flames dancing across his widening iris as dark dread paralyzes him",
+        "why": "Ends the episode on the villain realizing his mortal rival may still be alive."
+      }
+    ]
+  },
+  "accepted": [
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E09.B055",
+      "episode": 9,
+      "strength": 7,
+      "label": "Will the mother's vow of gratitude accidentally expose Juliana and Alexander?",
+      "excerpt": "I will tell the village what you did.",
+      "why": "Sets off a chain reaction of unwanted publicity in a dangerous climate.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E09.B062",
+      "episode": 9,
+      "strength": 7,
+      "label": "What danger will come from the village gossip spreading to the wrong people?",
+      "excerpt": "Gossip has a way of becoming dangerous.",
+      "why": "Alexander directly forebodes the deadly consequences of village rumors.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E09.B088",
+      "episode": 9,
+      "strength": 9,
+      "label": "What ruthless move will the paranoid Nobleman make now that he suspects the Duke lives?",
+      "excerpt": "flickering fireplace flames dancing across his widening iris as dark dread paralyzes him",
+      "why": "Ends the episode on the villain realizing his mortal rival may still be alive.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E09.B008",
+      "episode": 9,
+      "strength": 7,
+      "label": "emergency",
+      "excerpt": "My boy is burning with fever!",
+      "why": "A frantic mother bursting in with a dying child creates immediate life-or-death stakes.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E09.B074",
+      "episode": 9,
+      "strength": 8,
+      "label": "secret reveal",
+      "excerpt": "Some say he resembles the late Duke.",
+      "why": "Reveals the crucial rumor linking the mysterious war veteran to the late Duke.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E09.B078",
+      "episode": 9,
+      "strength": 8,
+      "label": "identity reveal",
+      "excerpt": "same kind of scar the Duke carried after the war.",
+      "why": "Provides specific physical proof that threatens the Nobleman's usurped power.",
+      "repointed_from": null
+    }
+  ],
+  "dropped": []
+}

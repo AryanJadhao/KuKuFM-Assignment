@@ -1,0 +1,99 @@
+{
+  "episode": 23,
+  "prompt_version": "anchors-v1",
+  "model": "gemini:gemini-3.5-flash-lite",
+  "model_output": {
+    "hook_anchors": [
+      {
+        "beat_id": "E23.B005",
+        "hook_intensity": 7.0,
+        "device": "reveal",
+        "excerpt": "dark, purplish-black discoloration beneath the nails",
+        "why": "Visually striking physical evidence of something ominous right at the start."
+      },
+      {
+        "beat_id": "E23.B039",
+        "hook_intensity": 9.0,
+        "device": "accusation",
+        "excerpt": "Someone is poisoning her.",
+        "why": "A shocking and direct accusation that changes the entire nature of the scene."
+      },
+      {
+        "beat_id": "E23.B044",
+        "hook_intensity": 10.0,
+        "device": "confession",
+        "excerpt": "Arsenic.",
+        "why": "A short, brutal confirmation of murder that hooks the viewer instantly."
+      }
+    ],
+    "cliffhanger_anchors": [
+      {
+        "beat_id": "E23.B062",
+        "cliffhanger_tension": 8.0,
+        "open_question": "Who is coming through the bedroom door?",
+        "excerpt": "Juliana... someone is coming.",
+        "why": "Creates immediate danger while Juliana is caught in the middle of brewing an antidote."
+      },
+      {
+        "beat_id": "E23.B066",
+        "cliffhanger_tension": 10.0,
+        "open_question": "Who is entering the room and will they catch Juliana making the antidote?",
+        "excerpt": "heavy door cracks open inward into the room",
+        "why": "An interrupted action at the exact peak of tension leaves the audience desperate to know who arrives."
+      }
+    ]
+  },
+  "accepted": [
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E23.B062",
+      "episode": 23,
+      "strength": 8,
+      "label": "Who is coming through the bedroom door?",
+      "excerpt": "Juliana... someone is coming.",
+      "why": "Creates immediate danger while Juliana is caught in the middle of brewing an antidote.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E23.B066",
+      "episode": 23,
+      "strength": 10,
+      "label": "Who is entering the room and will they catch Juliana making the antidote?",
+      "excerpt": "heavy door cracks open inward into the room",
+      "why": "An interrupted action at the exact peak of tension leaves the audience desperate to know who arrives.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E23.B005",
+      "episode": 23,
+      "strength": 7,
+      "label": "reveal",
+      "excerpt": "dark, purplish-black discoloration beneath the nails",
+      "why": "Visually striking physical evidence of something ominous right at the start.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E23.B039",
+      "episode": 23,
+      "strength": 9,
+      "label": "accusation",
+      "excerpt": "Someone is poisoning her.",
+      "why": "A shocking and direct accusation that changes the entire nature of the scene.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E23.B044",
+      "episode": 23,
+      "strength": 10,
+      "label": "confession",
+      "excerpt": "Arsenic.",
+      "why": "A short, brutal confirmation of murder that hooks the viewer instantly.",
+      "repointed_from": null
+    }
+  ],
+  "dropped": []
+}

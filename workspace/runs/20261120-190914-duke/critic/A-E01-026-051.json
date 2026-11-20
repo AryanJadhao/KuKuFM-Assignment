@@ -1,0 +1,24 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "A-E01-026-051",
+    "first_3s_hook": 9.0,
+    "cliffhanger_open": 8.0,
+    "cold_viewer_clarity": 8.0,
+    "ambiguity": [
+      {
+        "kind": "relationship",
+        "beat_id": "E01.B044",
+        "detail": "Clarissa is revealed to be Juliana's sister, making the betrayal much deeper."
+      }
+    ],
+    "ending_resolves_tension": false,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "Because he is marrying me.",
+    "cliffhanger_line": "Long enough to know he was never going to marry you.",
+    "viewer_takeaway": "A jilted bride discovers her groom has cruelly replaced her at the altar with her own sister in a premeditated conspiracy.",
+    "why_it_works": "Immediate emotional devastation combined with an evil sister trope guarantees high retention and anger-driven watch time."
+  }
+}

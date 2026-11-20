@@ -1,0 +1,24 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "B-E15B041-E14B016",
+    "first_3s_hook": 9.0,
+    "cliffhanger_open": 8.0,
+    "cold_viewer_clarity": 7.0,
+    "ambiguity": [
+      {
+        "kind": "relationship",
+        "beat_id": "E14.B006",
+        "detail": "The relationship between Juliana, Alexander, and the constable is implied but not explicitly defined."
+      }
+    ],
+    "ending_resolves_tension": false,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "Stop!",
+    "cliffhanger_line": "What have they done to you?",
+    "viewer_takeaway": "A battered woman successfully proves her worth by producing a missing item, freeing her unjustly restrained husband.",
+    "why_it_works": "The immediate threat of violence in the flash-forward transitions satisfyingly into a successful rescue and emotional reunion."
+  }
+}

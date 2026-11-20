@@ -1,0 +1,29 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "A-E15-033-054",
+    "first_3s_hook": 10.0,
+    "cliffhanger_open": 9.0,
+    "cold_viewer_clarity": 7.0,
+    "ambiguity": [
+      {
+        "kind": "relationship",
+        "beat_id": "E15.B047",
+        "detail": "Unclear how Juliana and Alexander are connected initially."
+      },
+      {
+        "kind": "unexplained_name",
+        "beat_id": "E15.B040",
+        "detail": "Thugs are unnamed background heavies."
+      }
+    ],
+    "ending_resolves_tension": false,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "Ah!",
+    "cliffhanger_line": "What? You want to fight us, veteran?",
+    "viewer_takeaway": "A vulnerable woman is being terrorized by thugs until a mysterious veteran steps in to protect her.",
+    "why_it_works": "Starts with immediate physical violence and a brutal shove, grabbing scroll-stoppers instantly."
+  }
+}

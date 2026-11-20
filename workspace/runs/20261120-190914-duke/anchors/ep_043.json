@@ -1,0 +1,150 @@
+{
+  "episode": 43,
+  "prompt_version": "anchors-v1",
+  "model": "gemini:gemini-3.5-flash-lite",
+  "model_output": {
+    "hook_anchors": [
+      {
+        "beat_id": "E43.B001",
+        "hook_intensity": 7.0,
+        "device": "denial",
+        "excerpt": "You're lying!",
+        "why": "A hysterical, panicked accusation that instantly sets high emotional stakes."
+      },
+      {
+        "beat_id": "E43.B011",
+        "hook_intensity": 9.0,
+        "device": "betrayal",
+        "excerpt": "We will not.",
+        "why": "The royal guards openly disobeying Rupert's direct order is a powerful plot twist."
+      },
+      {
+        "beat_id": "E43.B018",
+        "hook_intensity": 8.0,
+        "device": "reveal",
+        "excerpt": "No. He is your Duke.",
+        "why": "Definitive rejection of the fake authority and salute to the true leader."
+      },
+      {
+        "beat_id": "E43.B035",
+        "hook_intensity": 8.0,
+        "device": "confession",
+        "excerpt": "Military Intelligence Report, Iberian front, three years ago.",
+        "why": "The official document reading begins, exposing past treason."
+      },
+      {
+        "beat_id": "E43.B056",
+        "hook_intensity": 10.0,
+        "device": "accusation",
+        "excerpt": "You sold my men to the enemy.",
+        "why": "A thunderous, direct charge of treason that delivers maximum emotional impact."
+      }
+    ],
+    "cliffhanger_anchors": [
+      {
+        "beat_id": "E43.B051",
+        "cliffhanger_tension": 7.0,
+        "open_question": "Will Rupert's name be officially linked to the treason?",
+        "excerpt": "Rupert Ashburn.",
+        "why": "The Crown Official reads out the second co-conspirator's name."
+      },
+      {
+        "beat_id": "E43.B077",
+        "cliffhanger_tension": 8.0,
+        "open_question": "Will Lord Sterling be caught fleeing the cathedral?",
+        "excerpt": "Sterling handled the report!",
+        "why": "Rupert frantically attempts to throw his co-conspirator under the bus."
+      },
+      {
+        "beat_id": "E43.B085",
+        "cliffhanger_tension": 9.0,
+        "open_question": "How will Lord Sterling escape the police blockade?",
+        "excerpt": "Going somewhere, Lord Sterling?",
+        "why": "Sterling tries to escape only to find a police constable blocking his exit."
+      }
+    ]
+  },
+  "accepted": [
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E43.B051",
+      "episode": 43,
+      "strength": 7,
+      "label": "Will Rupert's name be officially linked to the treason?",
+      "excerpt": "Rupert Ashburn.",
+      "why": "The Crown Official reads out the second co-conspirator's name.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E43.B077",
+      "episode": 43,
+      "strength": 8,
+      "label": "Will Lord Sterling be caught fleeing the cathedral?",
+      "excerpt": "Sterling handled the report!",
+      "why": "Rupert frantically attempts to throw his co-conspirator under the bus.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E43.B085",
+      "episode": 43,
+      "strength": 9,
+      "label": "How will Lord Sterling escape the police blockade?",
+      "excerpt": "Going somewhere, Lord Sterling?",
+      "why": "Sterling tries to escape only to find a police constable blocking his exit.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E43.B001",
+      "episode": 43,
+      "strength": 7,
+      "label": "denial",
+      "excerpt": "You're lying!",
+      "why": "A hysterical, panicked accusation that instantly sets high emotional stakes.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E43.B011",
+      "episode": 43,
+      "strength": 9,
+      "label": "betrayal",
+      "excerpt": "We will not.",
+      "why": "The royal guards openly disobeying Rupert's direct order is a powerful plot twist.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E43.B018",
+      "episode": 43,
+      "strength": 8,
+      "label": "reveal",
+      "excerpt": "No. He is your Duke.",
+      "why": "Definitive rejection of the fake authority and salute to the true leader.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E43.B035",
+      "episode": 43,
+      "strength": 8,
+      "label": "confession",
+      "excerpt": "Military Intelligence Report, Iberian front, three years ago.",
+      "why": "The official document reading begins, exposing past treason.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E43.B056",
+      "episode": 43,
+      "strength": 10,
+      "label": "accusation",
+      "excerpt": "You sold my men to the enemy.",
+      "why": "A thunderous, direct charge of treason that delivers maximum emotional impact.",
+      "repointed_from": null
+    }
+  ],
+  "dropped": []
+}

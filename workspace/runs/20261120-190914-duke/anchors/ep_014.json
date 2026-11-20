@@ -1,0 +1,116 @@
+{
+  "episode": 14,
+  "prompt_version": "anchors-v1",
+  "model": "gemini:gemini-3.5-flash",
+  "model_output": {
+    "hook_anchors": [
+      {
+        "beat_id": "E14.B006",
+        "hook_intensity": 7.0,
+        "device": "demand",
+        "excerpt": "Now release my husband.",
+        "why": "Juliana's stark, commanding demand to release her husband creates immediate narrative intrigue."
+      },
+      {
+        "beat_id": "E14.B016",
+        "hook_intensity": 8.0,
+        "device": "shock",
+        "excerpt": "What have they done to you?",
+        "why": "Alexander's heartbroken shock at her bloody wounds immediately hooks the audience into the physical drama."
+      },
+      {
+        "beat_id": "E14.B046",
+        "hook_intensity": 8.0,
+        "device": "threat",
+        "excerpt": "No one will ever hurt you for protecting me again.",
+        "why": "A dark, solemn vow of protection and vengeance that instantly grabs attention."
+      }
+    ],
+    "cliffhanger_anchors": [
+      {
+        "beat_id": "E14.B006",
+        "cliffhanger_tension": 7.0,
+        "open_question": "Will the constable actually release Alexander upon receiving the signet ring?",
+        "excerpt": "Now release my husband.",
+        "why": "Leaves high tension right before the shackles are shown opening or being accepted."
+      },
+      {
+        "beat_id": "E14.B016",
+        "cliffhanger_tension": 7.0,
+        "open_question": "What brutal ordeal did Juliana endure to obtain the ring?",
+        "excerpt": "What have they done to you?",
+        "why": "Highlights her unseen torture and leaves the viewer desperate to know who hurt her."
+      },
+      {
+        "beat_id": "E14.B049",
+        "cliffhanger_tension": 9.0,
+        "open_question": "What terrible vengeance will Alexander unleash on those who harmed his wife?",
+        "excerpt": "his scarred knuckles slowly and tightly clench into an iron fist",
+        "why": "The episode ends on a rising threat of retaliation as he clenches his fist beside blood-stained water."
+      }
+    ]
+  },
+  "accepted": [
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E14.B006",
+      "episode": 14,
+      "strength": 7,
+      "label": "Will the constable actually release Alexander upon receiving the signet ring?",
+      "excerpt": "Now release my husband.",
+      "why": "Leaves high tension right before the shackles are shown opening or being accepted.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E14.B016",
+      "episode": 14,
+      "strength": 7,
+      "label": "What brutal ordeal did Juliana endure to obtain the ring?",
+      "excerpt": "What have they done to you?",
+      "why": "Highlights her unseen torture and leaves the viewer desperate to know who hurt her.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E14.B049",
+      "episode": 14,
+      "strength": 9,
+      "label": "What terrible vengeance will Alexander unleash on those who harmed his wife?",
+      "excerpt": "his scarred knuckles slowly and tightly clench into an iron fist",
+      "why": "The episode ends on a rising threat of retaliation as he clenches his fist beside blood-stained water.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E14.B006",
+      "episode": 14,
+      "strength": 7,
+      "label": "demand",
+      "excerpt": "Now release my husband.",
+      "why": "Juliana's stark, commanding demand to release her husband creates immediate narrative intrigue.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E14.B016",
+      "episode": 14,
+      "strength": 8,
+      "label": "shock",
+      "excerpt": "What have they done to you?",
+      "why": "Alexander's heartbroken shock at her bloody wounds immediately hooks the audience into the physical drama.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E14.B046",
+      "episode": 14,
+      "strength": 8,
+      "label": "threat",
+      "excerpt": "No one will ever hurt you for protecting me again.",
+      "why": "A dark, solemn vow of protection and vengeance that instantly grabs attention.",
+      "repointed_from": null
+    }
+  ],
+  "dropped": []
+}

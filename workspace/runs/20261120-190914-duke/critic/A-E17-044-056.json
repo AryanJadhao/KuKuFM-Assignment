@@ -1,0 +1,18 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "A-E17-044-056",
+    "first_3s_hook": 6.0,
+    "cliffhanger_open": 5.0,
+    "cold_viewer_clarity": 8.0,
+    "ambiguity": [],
+    "ending_resolves_tension": true,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "Of losing you.",
+    "cliffhanger_line": "This is becoming impossible.",
+    "viewer_takeaway": "The two main characters grow closer by the fire, solidifying their romantic connection.",
+    "why_it_works": "Provides sweet, cozy emotional payoff that appeals to romance fans."
+  }
+}

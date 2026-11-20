@@ -1,0 +1,24 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "B-E02B066-E01B091",
+    "first_3s_hook": 7.0,
+    "cliffhanger_open": 9.0,
+    "cold_viewer_clarity": 7.0,
+    "ambiguity": [
+      {
+        "kind": "prior_event",
+        "beat_id": "E02.B066",
+        "detail": "The cold open flashes forward to a moment of retribution we haven't reached yet."
+      }
+    ],
+    "ending_resolves_tension": false,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "You have shown them exactly what your word is worth.",
+    "cliffhanger_line": "Solemn low-pitched string drone swells to an ominous cliffhanger peak.",
+    "viewer_takeaway": "After being publicly dumped and insulted at her wedding, a humiliated bride vows silent vengeance against her ex and her family.",
+    "why_it_works": "The flash-forward hook creates instant narrative tension, and the build-up of insults sets up a deeply satisfying revenge arc."
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "A-E20-040-066",
+    "first_3s_hook": 8.0,
+    "cliffhanger_open": 7.0,
+    "cold_viewer_clarity": 7.0,
+    "ambiguity": [
+      {
+        "kind": "relationship",
+        "beat_id": "E20.B043",
+        "detail": "Seamus and Juliana's exact bond isn't explicitly stated, though he clearly cares about her fall from grace."
+      }
+    ],
+    "ending_resolves_tension": false,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "If I stop, Seamus, the lung fever in the valley wins.",
+    "cliffhanger_line": "This house will only bow to me.",
+    "viewer_takeaway": "A disgraced noblewoman works as a grassroots healer while her cruel counterparts plot to take over the estate.",
+    "why_it_works": "Strong cross-cutting between a noble-turned-healer and ruthless power-hungry aristocrats creates immediate narrative tension."
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "episode": 46,
+  "prompt_version": "anchors-v1",
+  "model": "gemini:gemini-3.5-flash",
+  "model_output": {
+    "hook_anchors": [
+      {
+        "beat_id": "E46.B007",
+        "hook_intensity": 8.0,
+        "device": "threat",
+        "excerpt": "By Royal command, this sanctuary is placed under immediate Crown scesion.",
+        "why": "High Priest dramatically interrupts the ceremony to seize the sanctuary."
+      },
+      {
+        "beat_id": "E46.B031",
+        "hook_intensity": 8.0,
+        "device": "reveal",
+        "excerpt": "because as far as the Crown knew, Alexander Ashburton was already dead.",
+        "why": "A shocking declaration invalidating the Duke's record of existence."
+      },
+      {
+        "beat_id": "E46.B045",
+        "hook_intensity": 8.0,
+        "device": "confrontation",
+        "excerpt": "God married us, Father! You are just angry no one asked you first!",
+        "why": "Juliana passionately defies the High Priest in front of everyone."
+      },
+      {
+        "beat_id": "E46.B054",
+        "hook_intensity": 9.0,
+        "device": "threat",
+        "excerpt": "I have the power to undo in one hearing what took you three years to steal!",
+        "why": "Direct threat to invalidate their entire marriage and past three years."
+      },
+      {
+        "beat_id": "E46.B067",
+        "hook_intensity": 9.0,
+        "device": "confrontation",
+        "excerpt": "Lower them! Or explain to the Crown why its own bailiffs raised iron",
+        "why": "Alexander thunders at guards holding weapons to his chest."
+      }
+    ],
+    "cliffhanger_anchors": [
+      {
+        "beat_id": "E46.B063",
+        "cliffhanger_tension": 8.0,
+        "open_question": "Will Alexander lose Juliana at the council trial in ten days?",
+        "excerpt": "Ten days. And if the council rules against you, this county watches you lose her twice.",
+        "why": "Sets up a high-stakes countdown ultimatum for the protagonist."
+      },
+      {
+        "beat_id": "E46.B074",
+        "cliffhanger_tension": 9.0,
+        "open_question": "What scheme will Catherine execute before the ten-day deadline?",
+        "excerpt": "Ten days is plenty of time.",
+        "why": "Catherine's malicious smirk and whisper provide a ominous closing sting promise."
+      }
+    ]
+  },
+  "accepted": [
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E46.B063",
+      "episode": 46,
+      "strength": 8,
+      "label": "Will Alexander lose Juliana at the council trial in ten days?",
+      "excerpt": "Ten days. And if the council rules against you, this county watches you lose her twice.",
+      "why": "Sets up a high-stakes countdown ultimatum for the protagonist.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E46.B074",
+      "episode": 46,
+      "strength": 9,
+      "label": "What scheme will Catherine execute before the ten-day deadline?",
+      "excerpt": "Ten days is plenty of time.",
+      "why": "Catherine's malicious smirk and whisper provide a ominous closing sting promise.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E46.B007",
+      "episode": 46,
+      "strength": 8,
+      "label": "threat",
+      "excerpt": "By Royal command, this sanctuary is placed under immediate Crown scesion.",
+      "why": "High Priest dramatically interrupts the ceremony to seize the sanctuary.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E46.B031",
+      "episode": 46,
+      "strength": 8,
+      "label": "reveal",
+      "excerpt": "because as far as the Crown knew, Alexander Ashburton was already dead.",
+      "why": "A shocking declaration invalidating the Duke's record of existence.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E46.B045",
+      "episode": 46,
+      "strength": 8,
+      "label": "confrontation",
+      "excerpt": "God married us, Father! You are just angry no one asked you first!",
+      "why": "Juliana passionately defies the High Priest in front of everyone.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E46.B054",
+      "episode": 46,
+      "strength": 9,
+      "label": "threat",
+      "excerpt": "I have the power to undo in one hearing what took you three years to steal!",
+      "why": "Direct threat to invalidate their entire marriage and past three years.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E46.B067",
+      "episode": 46,
+      "strength": 9,
+      "label": "confrontation",
+      "excerpt": "Lower them! Or explain to the Crown why its own bailiffs raised iron",
+      "why": "Alexander thunders at guards holding weapons to his chest.",
+      "repointed_from": null
+    }
+  ],
+  "dropped": []
+}

@@ -1,0 +1,201 @@
+{
+  "episode": 32,
+  "prompt_version": "anchors-v1",
+  "model": "gemini:gemini-3.5-flash-lite",
+  "model_output": {
+    "hook_anchors": [
+      {
+        "beat_id": "E32.B000",
+        "hook_intensity": 9.0,
+        "device": "weapon",
+        "excerpt": "glowing red branding tip sizzles against the delicate parchment",
+        "why": "Visual of a hot branding iron on a book creates immediate visceral tension."
+      },
+      {
+        "beat_id": "E32.B012",
+        "hook_intensity": 8.0,
+        "device": "threat",
+        "excerpt": "Say goodbye to your mother.",
+        "why": "A chilling emotional threat directed at her mother immediately raises the stakes."
+      },
+      {
+        "beat_id": "E32.B016",
+        "hook_intensity": 9.0,
+        "device": "defiance",
+        "excerpt": "Burn it.",
+        "why": "A sudden and powerful shift from grief to outright defiance grabs the viewer's attention."
+      },
+      {
+        "beat_id": "E32.B041",
+        "hook_intensity": 8.0,
+        "device": "outrage",
+        "excerpt": "You are lying!",
+        "why": "Catherine's explosive shriek shows her losing control against Juliana's calm truth."
+      },
+      {
+        "beat_id": "E32.B088",
+        "hook_intensity": 9.0,
+        "device": "insult",
+        "excerpt": "you have never learned how to make anyone love you.",
+        "why": "A devastating psychological blow that pierces straight through Catherine's cruel facade."
+      },
+      {
+        "beat_id": "E32.B102",
+        "hook_intensity": 10.0,
+        "device": "humiliation",
+        "excerpt": "You have to threaten a chained woman to feel powerful!",
+        "why": "An ultimate truth bomb that completely strips away Catherine's illusion of power."
+      }
+    ],
+    "cliffhanger_anchors": [
+      {
+        "beat_id": "E32.B013",
+        "cliffhanger_tension": 7.0,
+        "open_question": "Will Catherine use the hot iron on Juliana?",
+        "excerpt": "Low-angle shot of Catherine swinging the flaming orange iron upward",
+        "why": "Leaves the viewer wondering if the torture will escalate immediately."
+      },
+      {
+        "beat_id": "E32.B022",
+        "cliffhanger_tension": 6.0,
+        "open_question": "How will Juliana's defiance change her fate?",
+        "excerpt": "Wide shot of the wet dungeon floor, guards stationed by the heavy iron doorway",
+        "why": "Sets up the confrontation of a helpless prisoner standing up to her tyrannical tormentor."
+      },
+      {
+        "beat_id": "E32.B068",
+        "cliffhanger_tension": 8.0,
+        "open_question": "Can Juliana's inner strength break Catherine completely?",
+        "excerpt": "Medium close-up of Catherine gripping the branding rod tighter, her upper lip curling in fury.",
+        "why": "Catherine is visibly reaching her breaking point under Juliana's emotional dismantling."
+      },
+      {
+        "beat_id": "E32.B112",
+        "cliffhanger_tension": 9.0,
+        "open_question": "Will Catherine actually burn Juliana's face?",
+        "excerpt": "Catherine hoists the searing branding rod over Juliana with frantic fury.",
+        "why": "The ultimate physical threat reaches its absolute peak before a cut."
+      },
+      {
+        "beat_id": "E32.B116",
+        "cliffhanger_tension": 10.0,
+        "open_question": "Does the iron touch her eye before the cut to black?",
+        "excerpt": "stopping mere millimeters from her right eye.",
+        "why": "The final heart-stopping visual leaves the viewer hanging on a razor's edge."
+      }
+    ]
+  },
+  "accepted": [
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E32.B013",
+      "episode": 32,
+      "strength": 7,
+      "label": "Will Catherine use the hot iron on Juliana?",
+      "excerpt": "Low-angle shot of Catherine swinging the flaming orange iron upward",
+      "why": "Leaves the viewer wondering if the torture will escalate immediately.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E32.B022",
+      "episode": 32,
+      "strength": 6,
+      "label": "How will Juliana's defiance change her fate?",
+      "excerpt": "Wide shot of the wet dungeon floor, guards stationed by the heavy iron doorway",
+      "why": "Sets up the confrontation of a helpless prisoner standing up to her tyrannical tormentor.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E32.B068",
+      "episode": 32,
+      "strength": 8,
+      "label": "Can Juliana's inner strength break Catherine completely?",
+      "excerpt": "Medium close-up of Catherine gripping the branding rod tighter, her upper lip curling in fury.",
+      "why": "Catherine is visibly reaching her breaking point under Juliana's emotional dismantling.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E32.B112",
+      "episode": 32,
+      "strength": 9,
+      "label": "Will Catherine actually burn Juliana's face?",
+      "excerpt": "Catherine hoists the searing branding rod over Juliana with frantic fury.",
+      "why": "The ultimate physical threat reaches its absolute peak before a cut.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E32.B115",
+      "episode": 32,
+      "strength": 10,
+      "label": "Does the iron touch her eye before the cut to black?",
+      "excerpt": "stopping mere millimeters from her right eye.",
+      "why": "The final heart-stopping visual leaves the viewer hanging on a razor's edge.",
+      "repointed_from": "E32.B116"
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E32.B000",
+      "episode": 32,
+      "strength": 9,
+      "label": "weapon",
+      "excerpt": "glowing red branding tip sizzles against the delicate parchment",
+      "why": "Visual of a hot branding iron on a book creates immediate visceral tension.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E32.B012",
+      "episode": 32,
+      "strength": 8,
+      "label": "threat",
+      "excerpt": "Say goodbye to your mother.",
+      "why": "A chilling emotional threat directed at her mother immediately raises the stakes.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E32.B016",
+      "episode": 32,
+      "strength": 9,
+      "label": "defiance",
+      "excerpt": "Burn it.",
+      "why": "A sudden and powerful shift from grief to outright defiance grabs the viewer's attention.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E32.B041",
+      "episode": 32,
+      "strength": 8,
+      "label": "outrage",
+      "excerpt": "You are lying!",
+      "why": "Catherine's explosive shriek shows her losing control against Juliana's calm truth.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E32.B088",
+      "episode": 32,
+      "strength": 9,
+      "label": "insult",
+      "excerpt": "you have never learned how to make anyone love you.",
+      "why": "A devastating psychological blow that pierces straight through Catherine's cruel facade.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E32.B102",
+      "episode": 32,
+      "strength": 10,
+      "label": "humiliation",
+      "excerpt": "You have to threaten a chained woman to feel powerful!",
+      "why": "An ultimate truth bomb that completely strips away Catherine's illusion of power.",
+      "repointed_from": null
+    }
+  ],
+  "dropped": []
+}

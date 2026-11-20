@@ -1,0 +1,150 @@
+{
+  "episode": 21,
+  "prompt_version": "anchors-v1",
+  "model": "gemini:gemini-3.5-flash-lite",
+  "model_output": {
+    "hook_anchors": [
+      {
+        "beat_id": "E21.B002",
+        "hook_intensity": 7.0,
+        "device": "collapse",
+        "excerpt": "A loud wooden slam as the heavy double barn doors violently fly open.",
+        "why": "A violent, sudden intrusion interrupts the scene."
+      },
+      {
+        "beat_id": "E21.B004",
+        "hook_intensity": 9.0,
+        "device": "threat",
+        "excerpt": "Lady Juliana! Please! You have to help me, Toby is dying!",
+        "why": "Immediate, high-stakes life-or-death crisis declared right away."
+      },
+      {
+        "beat_id": "E21.B013",
+        "hook_intensity": 8.0,
+        "device": "insult",
+        "excerpt": "He shut the door in my face because we have no silver!",
+        "why": "An accusation of cruelty by the authorities against a child."
+      },
+      {
+        "beat_id": "E21.B015",
+        "hook_intensity": 8.0,
+        "device": "insult",
+        "excerpt": "The manor doctor laughed! He said village boys are not worth his time!",
+        "why": "Outrageous arrogance that immediately enrages the viewer."
+      }
+    ],
+    "cliffhanger_anchors": [
+      {
+        "beat_id": "E21.B064",
+        "cliffhanger_tension": 7.0,
+        "open_question": "What is wrong with the wealthy people at the manor?",
+        "excerpt": "But their gold cannot buy them health.",
+        "why": "Hints at an ironic impending downfall of the privileged."
+      },
+      {
+        "beat_id": "E21.B069",
+        "cliffhanger_tension": 9.0,
+        "open_question": "Is the Dowager Duchess really dying from a mysterious illness?",
+        "excerpt": "She is dying, Lady Juliana.",
+        "why": "Directly links the hero to the secret elite storyline of the season."
+      },
+      {
+        "beat_id": "E21.B072",
+        "cliffhanger_tension": 8.0,
+        "open_question": "What is the strange illness eating away at the Duchess?",
+        "excerpt": "Inside that massive house with all their wealth, she is fading to nothing",
+        "why": "Leaves a lingering, unanswered medical mystery involving a powerful figure."
+      },
+      {
+        "beat_id": "E21.B075",
+        "cliffhanger_tension": 9.0,
+        "open_question": "Will Lady Juliana use her mother's remedies to save the Duchess?",
+        "excerpt": "Slow push-in on Lady Juliana staring down at the ancient pages",
+        "why": "Powerful concluding visual emphasizing deep realization and the next major conflict."
+      }
+    ]
+  },
+  "accepted": [
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E21.B064",
+      "episode": 21,
+      "strength": 7,
+      "label": "What is wrong with the wealthy people at the manor?",
+      "excerpt": "But their gold cannot buy them health.",
+      "why": "Hints at an ironic impending downfall of the privileged.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E21.B069",
+      "episode": 21,
+      "strength": 9,
+      "label": "Is the Dowager Duchess really dying from a mysterious illness?",
+      "excerpt": "She is dying, Lady Juliana.",
+      "why": "Directly links the hero to the secret elite storyline of the season.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E21.B072",
+      "episode": 21,
+      "strength": 8,
+      "label": "What is the strange illness eating away at the Duchess?",
+      "excerpt": "Inside that massive house with all their wealth, she is fading to nothing",
+      "why": "Leaves a lingering, unanswered medical mystery involving a powerful figure.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E21.B075",
+      "episode": 21,
+      "strength": 9,
+      "label": "Will Lady Juliana use her mother's remedies to save the Duchess?",
+      "excerpt": "Slow push-in on Lady Juliana staring down at the ancient pages",
+      "why": "Powerful concluding visual emphasizing deep realization and the next major conflict.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E21.B002",
+      "episode": 21,
+      "strength": 7,
+      "label": "collapse",
+      "excerpt": "A loud wooden slam as the heavy double barn doors violently fly open.",
+      "why": "A violent, sudden intrusion interrupts the scene.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E21.B004",
+      "episode": 21,
+      "strength": 9,
+      "label": "threat",
+      "excerpt": "Lady Juliana! Please! You have to help me, Toby is dying!",
+      "why": "Immediate, high-stakes life-or-death crisis declared right away.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E21.B013",
+      "episode": 21,
+      "strength": 8,
+      "label": "insult",
+      "excerpt": "He shut the door in my face because we have no silver!",
+      "why": "An accusation of cruelty by the authorities against a child.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E21.B015",
+      "episode": 21,
+      "strength": 8,
+      "label": "insult",
+      "excerpt": "The manor doctor laughed! He said village boys are not worth his time!",
+      "why": "Outrageous arrogance that immediately enrages the viewer.",
+      "repointed_from": null
+    }
+  ],
+  "dropped": []
+}

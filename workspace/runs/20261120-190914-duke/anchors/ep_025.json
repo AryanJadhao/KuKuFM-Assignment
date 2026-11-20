@@ -1,0 +1,167 @@
+{
+  "episode": 25,
+  "prompt_version": "anchors-v1",
+  "model": "gemini:gemini-3.5-flash-lite",
+  "model_output": {
+    "hook_anchors": [
+      {
+        "beat_id": "E25.B010",
+        "hook_intensity": 7.0,
+        "device": "confession",
+        "excerpt": "You're hurt.",
+        "why": "Sudden realization of injury stops the scroll with immediate concern."
+      },
+      {
+        "beat_id": "E25.B023",
+        "hook_intensity": 9.0,
+        "device": "reveal",
+        "excerpt": "Lady Catherine.",
+        "why": "Naming the villain behind the assault delivers an immediate narrative jolt."
+      },
+      {
+        "beat_id": "E25.B048",
+        "hook_intensity": 8.0,
+        "device": "confession",
+        "excerpt": "Poison.",
+        "why": "The shocking revelation of foul play grabs the viewer's attention instantly."
+      },
+      {
+        "beat_id": "E25.B050",
+        "hook_intensity": 9.0,
+        "device": "reveal",
+        "excerpt": "Arsenic.",
+        "why": "Specific confirmation of chemical poisoning ramps up the stakes instantly."
+      },
+      {
+        "beat_id": "E25.B080",
+        "hook_intensity": 9.0,
+        "device": "threat",
+        "excerpt": "They struck you. They could have killed you.",
+        "why": "High-stakes protective fury and accusation create a gripping emotional peak."
+      }
+    ],
+    "cliffhanger_anchors": [
+      {
+        "beat_id": "E25.B044",
+        "cliffhanger_tension": 8.0,
+        "open_question": "What actually caused the Duchess's condition?",
+        "excerpt": "But it wasn't age.",
+        "why": "Teases a dark secret about to be uncovered."
+      },
+      {
+        "beat_id": "E25.B065",
+        "cliffhanger_tension": 7.0,
+        "open_question": "Will Juliana return to danger?",
+        "excerpt": "Will you be going there again?",
+        "why": "Leaves a lingering question about Juliana's dangerous intentions."
+      },
+      {
+        "beat_id": "E25.B084",
+        "cliffhanger_tension": 8.0,
+        "open_question": "How will Alexander protect her from the next attack?",
+        "excerpt": "This time.",
+        "why": "Emphasizes the narrow escape and the persistent threat of future violence."
+      },
+      {
+        "beat_id": "E25.B092",
+        "cliffhanger_tension": 8.0,
+        "open_question": "What full truth will Juliana finally reveal?",
+        "excerpt": "Everything you saw.",
+        "why": "Sets up an upcoming heavy confession as they walk into the twilight."
+      }
+    ]
+  },
+  "accepted": [
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E25.B044",
+      "episode": 25,
+      "strength": 8,
+      "label": "What actually caused the Duchess's condition?",
+      "excerpt": "But it wasn't age.",
+      "why": "Teases a dark secret about to be uncovered.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E25.B065",
+      "episode": 25,
+      "strength": 7,
+      "label": "Will Juliana return to danger?",
+      "excerpt": "Will you be going there again?",
+      "why": "Leaves a lingering question about Juliana's dangerous intentions.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E25.B084",
+      "episode": 25,
+      "strength": 8,
+      "label": "How will Alexander protect her from the next attack?",
+      "excerpt": "This time.",
+      "why": "Emphasizes the narrow escape and the persistent threat of future violence.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E25.B092",
+      "episode": 25,
+      "strength": 8,
+      "label": "What full truth will Juliana finally reveal?",
+      "excerpt": "Everything you saw.",
+      "why": "Sets up an upcoming heavy confession as they walk into the twilight.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E25.B010",
+      "episode": 25,
+      "strength": 7,
+      "label": "confession",
+      "excerpt": "You're hurt.",
+      "why": "Sudden realization of injury stops the scroll with immediate concern.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E25.B023",
+      "episode": 25,
+      "strength": 9,
+      "label": "reveal",
+      "excerpt": "Lady Catherine.",
+      "why": "Naming the villain behind the assault delivers an immediate narrative jolt.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E25.B048",
+      "episode": 25,
+      "strength": 8,
+      "label": "confession",
+      "excerpt": "Poison.",
+      "why": "The shocking revelation of foul play grabs the viewer's attention instantly.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E25.B050",
+      "episode": 25,
+      "strength": 9,
+      "label": "reveal",
+      "excerpt": "Arsenic.",
+      "why": "Specific confirmation of chemical poisoning ramps up the stakes instantly.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E25.B080",
+      "episode": 25,
+      "strength": 9,
+      "label": "threat",
+      "excerpt": "They struck you. They could have killed you.",
+      "why": "High-stakes protective fury and accusation create a gripping emotional peak.",
+      "repointed_from": null
+    }
+  ],
+  "dropped": []
+}

@@ -1,0 +1,24 @@
+{
+  "model": "gemini:gemini-3.5-flash-lite",
+  "verdict": {
+    "cand_id": "B-E12B044-E11B084",
+    "first_3s_hook": 9.0,
+    "cliffhanger_open": 9.0,
+    "cold_viewer_clarity": 8.0,
+    "ambiguity": [
+      {
+        "kind": "relationship",
+        "beat_id": "E12.B044",
+        "detail": "Clarissa's exact connection to Juliana is stated as sister, but the animosity needs context."
+      }
+    ],
+    "ending_resolves_tension": false,
+    "trim_start_to": null,
+    "trim_end_at": null,
+    "trim_reason": "",
+    "hook_line": "Fail, or refuse, and your husband hangs from the gallows.",
+    "cliffhanger_line": "There it is. Ha!",
+    "viewer_takeaway": "A planted piece of evidence is discovered, framing an innocent veteran and threatening his life.",
+    "why_it_works": "Devastating plant-and-reveal plot beat keeps viewers glued to see how the protagonists escape the trap."
+  }
+}

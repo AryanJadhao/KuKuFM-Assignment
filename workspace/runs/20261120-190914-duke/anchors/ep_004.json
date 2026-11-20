@@ -1,0 +1,184 @@
+{
+  "episode": 4,
+  "prompt_version": "anchors-v1",
+  "model": "gemini:gemini-3.5-flash",
+  "model_output": {
+    "hook_anchors": [
+      {
+        "beat_id": "E04.B006",
+        "hook_intensity": 7.0,
+        "device": "insult",
+        "excerpt": "A penniless nobody for a discarded bride.",
+        "why": "A sharp, cruel insult establishing immediate family conflict at the altar."
+      },
+      {
+        "beat_id": "E04.B011",
+        "hook_intensity": 8.0,
+        "device": "insult",
+        "excerpt": "You have finally found a man as worthless as everyone thinks you are.",
+        "why": "A venomous personal attack that instantly draws the viewer into the high drama."
+      },
+      {
+        "beat_id": "E04.B086",
+        "hook_intensity": 8.0,
+        "device": "outburst",
+        "excerpt": "You have thrown yourself away!",
+        "why": "A high-energy, enraged shout that creates immediate tension."
+      },
+      {
+        "beat_id": "E04.B092",
+        "hook_intensity": 8.0,
+        "device": "defiance",
+        "excerpt": "...than spend another moment begging for yours.",
+        "why": "A powerful, defiant clapback delivering strong dramatic satisfaction."
+      },
+      {
+        "beat_id": "E04.B096",
+        "hook_intensity": 9.0,
+        "device": "rejection",
+        "excerpt": "Do not bring this man anywhere near Ashcroft Manor!",
+        "why": "An explosive demand signaling a dramatic family rupture."
+      }
+    ],
+    "cliffhanger_anchors": [
+      {
+        "beat_id": "E04.B021",
+        "cliffhanger_tension": 7.0,
+        "open_question": "What is the mysterious warrior's real motive for offering her his name?",
+        "excerpt": "Why would you offer me your name?",
+        "why": "Leaves the stranger's true intentions hanging in question."
+      },
+      {
+        "beat_id": "E04.B041",
+        "cliffhanger_tension": 7.0,
+        "open_question": "Will Juliana reject the marriage offer out of pride?",
+        "excerpt": "I will not become anyone's charity.",
+        "why": "Juliana threatens to refuse the offer, leaving her ultimate choice unresolved."
+      },
+      {
+        "beat_id": "E04.B045",
+        "cliffhanger_tension": 8.0,
+        "open_question": "Will his solemn vow disarm Juliana's doubts and convince her to accept?",
+        "excerpt": "It is a vow.",
+        "why": "A tense emotional turning point right before her final decision."
+      },
+      {
+        "beat_id": "E04.B081",
+        "cliffhanger_tension": 8.0,
+        "open_question": "Will the priest complete the wedding before her family interrupts?",
+        "excerpt": "By the authority entrusted to me, I now pronounce you...",
+        "why": "Cut right before the pronouncement finishes, creating peak anticipation."
+      },
+      {
+        "beat_id": "E04.B108",
+        "cliffhanger_tension": 9.0,
+        "open_question": "What life and secret identity await Juliana outside with her new husband?",
+        "excerpt": "Juliana and the Mysterious Bearded Man walk hand-in-hand through the towering doors",
+        "why": "The ultimate episode cliffhanger as she steps into exile with an enigmatic warrior."
+      }
+    ]
+  },
+  "accepted": [
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E04.B021",
+      "episode": 4,
+      "strength": 7,
+      "label": "What is the mysterious warrior's real motive for offering her his name?",
+      "excerpt": "Why would you offer me your name?",
+      "why": "Leaves the stranger's true intentions hanging in question.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E04.B041",
+      "episode": 4,
+      "strength": 7,
+      "label": "Will Juliana reject the marriage offer out of pride?",
+      "excerpt": "I will not become anyone's charity.",
+      "why": "Juliana threatens to refuse the offer, leaving her ultimate choice unresolved.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E04.B045",
+      "episode": 4,
+      "strength": 8,
+      "label": "Will his solemn vow disarm Juliana's doubts and convince her to accept?",
+      "excerpt": "It is a vow.",
+      "why": "A tense emotional turning point right before her final decision.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E04.B081",
+      "episode": 4,
+      "strength": 8,
+      "label": "Will the priest complete the wedding before her family interrupts?",
+      "excerpt": "By the authority entrusted to me, I now pronounce you...",
+      "why": "Cut right before the pronouncement finishes, creating peak anticipation.",
+      "repointed_from": null
+    },
+    {
+      "kind": "CLIFFHANGER_ANCHOR",
+      "beat_id": "E04.B108",
+      "episode": 4,
+      "strength": 9,
+      "label": "What life and secret identity await Juliana outside with her new husband?",
+      "excerpt": "Juliana and the Mysterious Bearded Man walk hand-in-hand through the towering doors",
+      "why": "The ultimate episode cliffhanger as she steps into exile with an enigmatic warrior.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E04.B006",
+      "episode": 4,
+      "strength": 7,
+      "label": "insult",
+      "excerpt": "A penniless nobody for a discarded bride.",
+      "why": "A sharp, cruel insult establishing immediate family conflict at the altar.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E04.B011",
+      "episode": 4,
+      "strength": 8,
+      "label": "insult",
+      "excerpt": "You have finally found a man as worthless as everyone thinks you are.",
+      "why": "A venomous personal attack that instantly draws the viewer into the high drama.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E04.B086",
+      "episode": 4,
+      "strength": 8,
+      "label": "outburst",
+      "excerpt": "You have thrown yourself away!",
+      "why": "A high-energy, enraged shout that creates immediate tension.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E04.B092",
+      "episode": 4,
+      "strength": 8,
+      "label": "defiance",
+      "excerpt": "...than spend another moment begging for yours.",
+      "why": "A powerful, defiant clapback delivering strong dramatic satisfaction.",
+      "repointed_from": null
+    },
+    {
+      "kind": "HOOK_ANCHOR",
+      "beat_id": "E04.B096",
+      "episode": 4,
+      "strength": 9,
+      "label": "rejection",
+      "excerpt": "Do not bring this man anywhere near Ashcroft Manor!",
+      "why": "An explosive demand signaling a dramatic family rupture.",
+      "repointed_from": null
+    }
+  ],
+  "dropped": []
+}
