@@ -15,3 +15,5 @@ workspace/
 # solution doc and its generator quote the confidential screenplays: submit via the form only
 docs/AnchorCut_solution.pdf
 docs/make_solution_pdf.py
+# submission bundle (contains confidential raw outputs)
+submission/
