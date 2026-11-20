@@ -15,7 +15,6 @@ AnchorCut reads a ZIP of timestamped episode screenplays and returns **20–60 s
 - 💡 One line on **why it works**
 - 📊 A **campaign tier** that says what to post first
 
-> [!NOTE]
 > Screenplays only. No video is cut or played; every timestamp refers to the screenplay timeline.
 
 ---
@@ -68,8 +67,7 @@ ZIP ─► parser.py ──────────────► beats (beat_i
 | **🔴 Tier 3** | clarity ≤ 5; ambiguity + clarity ≤ 6; ending resolves tension; cliffhanger ≤ 4; hook ≤ 4 | Not scheduled until editor clears it |
 | **⛔ Rejected** | Failed code check: duration, hook position, mid-line cut, overlap, or bounds | — |
 
-> [!IMPORTANT]
-> **Calibration note:** The first version flagged every clip with *any* relationship/prior-event note → 81% ended up in Tier 3. Now ambiguity flags only when clarity ≤ 6, changing the split from 2/14/69 to **9/48/28** (Tier 1/2/3). This threshold was chosen on the same run with no held-out data — treat it as a starting point.
+**Calibration note:** The first version flagged every clip with *any* relationship/prior-event note → 81% ended up in Tier 3. Now ambiguity flags only when clarity ≤ 6, changing the split from 2/14/69 to **9/48/28** (Tier 1/2/3). This threshold was chosen on the same run with no held-out data — treat it as a starting point.
 
 Within the schedule, two posts in a row never come from the same episode when another option exists.
 
@@ -151,10 +149,9 @@ python -m anchorcut.cli parse "path\to\pack.zip"   # parser only, prints parse i
 | `groq` | `GROQ_API_KEY` | openai/gpt-oss-120b | api.groq.com |
 | `openai` | `OPENAI_API_KEY` | *(set `LLM_MODEL`)* | `LLM_BASE_URL` — any OpenAI-compatible gateway |
 
-> [!TIP]
-> - `LLM_API_KEY`, if set, is used for whichever provider is selected. Otherwise each provider uses only its own key variable — switching provider never sends one company's key to another.
-> - `LLM_FALLBACK_MODELS` (same provider) takes over when a model's daily quota runs out. If none is left, the run pauses and `resume` continues later.
-> - A run in progress keeps the model it started with. Saved outputs record which model produced each one, and the report warns when a run mixed models.
+- `LLM_API_KEY`, if set, is used for whichever provider is selected. Otherwise each provider uses only its own key variable — switching provider never sends one company's key to another.
+- `LLM_FALLBACK_MODELS` (same provider) takes over when a model's daily quota runs out. If none is left, the run pauses and `resume` continues later.
+- A run in progress keeps the model it started with. Saved outputs record which model produced each one, and the report warns when a run mixed models.
 
 ---
 
@@ -189,19 +186,7 @@ Changing filters or views **never calls the model**. Processing runs in a backgr
 | `results/quality_report.md` | Coverage, tiers, and where it picks badly |
 | `parsed/`, `status.json`, `run.log` | Parse output, progress, and errors |
 
-> [!NOTE]
-> The uploaded ZIP is never stored or exported. `workspace/` is gitignored because the files in it quote the confidential screenplays.
-
----
-
-## ☁️ Deploy (Streamlit Community Cloud)
-
-**Main file:** `app.py`
-
-Put `LLM_API_KEY`, `LLM_PROVIDER`, and `LLM_MODEL` in the app's **Secrets** — never in the repo.
-
-> [!CAUTION]
-> A public deployment should not be used with the confidential pack. Keep it private, or demo it with your own screenplay.
+The uploaded ZIP is never stored or exported. `workspace/` is gitignored because the files in it quote the confidential screenplays.
 
 ---
 
